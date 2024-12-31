@@ -4,6 +4,6 @@ I’m a Computer Science student specializing in Data Engineering at **Universit
 
 
 ## About My Team! 🤝
-!(https://github.com/miqbaltariq/SECP1513202420251/blob/97c1ea8a92e661ae0067a640f709ded1182ac91b/03/firdauslani03/Phang%20Souh%20Xin%20(1).png)
+![image alt](https://github.com/miqbaltariq/SECP1513202420251/blob/97c1ea8a92e661ae0067a640f709ded1182ac91b/03/firdauslani03/Phang%20Souh%20Xin%20(1).png)
 
 
