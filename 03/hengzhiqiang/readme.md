@@ -11,3 +11,12 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+**Profile:**
+
+- **Name:** Heng Zhi Qiang (Noah)
+- **Age:** 19
+- **Gender:** Male
+- **Occupation:** Student
+- **Salary:** - (Not applicable as the person is a student)
+- **Address:** - (Not provided)
