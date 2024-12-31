@@ -1,3 +1,5 @@
-# Welcome to StackEdit!
+# Hello! I'm Firdaus 🕊
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+I'm a Computer Science student studying specifically in the Data Engineering field. My current university that I'm in is **Universiti Teknologi Malaysia (UTM)**. Interacting and building connections with the people around me is what I do best, and I'm passionate to strive and bring the best out of me in order to provide the best quality for everyone around me. My strong points include Mathematics and coding, but besides that I'm currently learning to photo and video-edit to further expand my skills!
+
+
