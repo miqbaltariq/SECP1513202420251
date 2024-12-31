@@ -10,7 +10,10 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-##table2
+
+
+## table 2
+
 | Name                   | Age | Occupation          | Salary       | Address                                        |
 |------------------------|-----|---------------------|--------------|------------------------------------------------|
 | Ahmad Faiz bin Mohd Nor| 32  | Software Developer  | RM6,500/month| No. 12, Jalan Melati 4, Taman Impian Jaya, 43000 Kajang, Selangor |
