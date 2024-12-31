@@ -5,10 +5,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 ## SmartyPants
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| Name               | Age | Occupation          | Salary      | Address                                      |
+|--------------------|-----|---------------------|-------------|----------------------------------------------|
+| Ahmad bin Ismail   | 32  | Software Engineer   | RM6,500/month | No. 12, Jalan Indah 3, Taman Indah, 43000 Kajang, Selangor |
+| Siti Nur Aisyah    | 28  | Marketing Executive | RM4,200/month | Unit 5A, Block B, Pangsapuri Seri Mutiara, 11800 Gelugor, Penang |
+| Rajesh a/l Maniam  | 40  | Operations Manager  | RM8,000/month | Lot 23, Jalan Impian 2, Taman Impian Jaya, 81300 Skudai, Johor |
