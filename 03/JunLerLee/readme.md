@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Jun Ler</h1>
-<h3 align="center">A student of Universiti Teknologi Malaysia (UTM). Welcome to my profile !!!</h3>
+<h3 align="center">A first year student of Universiti Teknologi Malaysia (UTM). Welcome to my profile !!!</h3>
 
 - 🔭 I’m currently studying in **Bachelor Of Computer Science (Data Engineering) With Honours Computing**
 
