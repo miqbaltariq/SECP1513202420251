@@ -10,8 +10,10 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |-------------------|-------------------------------------------------------------|
 |**MATRIC NUMBER**  |**A24CS0181**                                                |
 |**SECTION**        |**06**                                                       |
+
 |                   |**REFLECTION**                                               |
-|**PC Assemble**    |`"Isn't this fun?"`                                          |
+|-------------------|-------------------------------------------------------------|
+|**PC Assemble**    |                                                             |
 |**Assignment 1**   |                                                             |
 |**Assignment 2**   |                                                             |
 |**Assignment 3**   |                                                             |
