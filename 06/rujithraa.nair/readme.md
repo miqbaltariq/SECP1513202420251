@@ -9,7 +9,6 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |**NAME**           |                                                             |
 |-------------------|-------------------------------------------------------------|
 |**MATRIC NUMBER**  |                                                             |
-|-------------------|-------------------------------------------------------------|
 |**SECTION**        |                                                             |
 |Single backticks   |`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes             |`"Isn't this fun?"`            |"Isn't this fun?"            |
