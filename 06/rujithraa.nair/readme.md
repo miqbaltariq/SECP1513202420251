@@ -12,12 +12,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
-
-
 |**NAME**           |**RUJITHRAA NAIR A/P K.RAMESH**                              |
 |-------------------|-------------------------------------------------------------|
 |**MATRIC NUMBER**  |**A24CS0181**                                                |
 |**SECTION**        |**06**                                                       |
+|**COURSE**         |**SECP1013**                                                 |
 
 
 |                   |**REFLECTION**                                               |
