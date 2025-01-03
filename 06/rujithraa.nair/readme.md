@@ -6,9 +6,9 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|**NAME**           |**RUJITHRAA NAIR A/P K.RAMESH                                |
+|**NAME**           |**RUJITHRAA NAIR A/P K.RAMESH**                                |
 |-------------------|-------------------------------------------------------------|
-|**MATRIC NUMBER**  |**A24CS0181                                                  |
+|**MATRIC NUMBER**  |**A24CS0181**                                                  |
 |**SECTION**        |**06**                                                       |
 |Single backticks   |`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes             |`"Isn't this fun?"`            |"Isn't this fun?"            |
