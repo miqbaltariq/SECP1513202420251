@@ -7,11 +7,11 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |Assignment      |reflection                                                   |
 |----------------|-------------------------------------------------------------|
-|Assignment 1    |`'My first reflection duringthis PC assembly is that I have 
-                  to listen to the instruction of lecturer carefully before 
-                  disassemble the PC so that I will not damage it. My second 
-                  reflection is that teamwork is important in this session.Each 
-                  member memorise the location of different part of the PC, so 
+|Assignment 1    |`'My first reflection duringthis PC assembly is that I have  |
+                 |to listen to the instruction of lecturer carefully before    |
+                  disassemble the PC so that I will not damage it. My second   |
+                  reflection is that teamwork is important in this session.Each| 
+                  member memorise the location of different part of the PC, so |
                   that we can assemble the PC back on time.'`                  |
-|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 2    |`""`            
 |Assignment 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
