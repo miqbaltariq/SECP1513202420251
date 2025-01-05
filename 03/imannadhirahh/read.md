@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a student passionate about learning, exploring technol
 
 ### 🚀 About Me  
 - 📚 I love trying new things as much I can to get out of my comfort zone !
-- 🎥 I create content to gain experience and of course my saving !
+- 🎥 I create content in TikTok to gain experience my saving 💰
 - 🌍 I am addicting in travelling the world to explore new places and cultures !
 
 ---
