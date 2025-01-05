@@ -1,11 +1,11 @@
-# Hi, I'm [Siti Nur Iman Nadhirah] 👋  
+# Hi, I'm Siti Nur Iman Nadhirah 👋  
 ### 🎓 Data Engineering Student | 🎥 Content Creator | 🌍 Travel  
 
 Welcome to my GitHub! I'm a student passionate about learning, exploring technology, and sharing my journey through content creation.  
 
-- ✨ **Interested In:** [Exploring world 🌍]  
-- 🌱 **Currently Learning:** [New skills and languages]  
-- 📫 **How to Reach Me:** [imancyan1709@gmail.com] | [LinkedIn](https://www.linkedin.com/in/siti-nur-iman-nadhirah-983b56312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- ✨ **Interested In:** Exploring the world 🌍  
+- 🌱 **Currently Learning:** New skills and languages  
+- 📫 **How to Reach Me:** imancyan1709@gmail.com | [LinkedIn](https://www.linkedin.com/in/siti-nur-iman-nadhirah-983b56312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -31,6 +31,7 @@ Working with a fantastic group of like-minded individuals has been a key part of
 - **[Chin Wei Yao](link):**   
 
 Here’s a photo of my team:  
-![Team Photo](link-to-your-image.jpg)
+![![WhatsApp Image 2025-01-06 at 03 03 53](https://github.com/user-attachments/assets/b7b66ef8-a4c9-427e-bda5-492b87da04ff)
+]
 
 ---
