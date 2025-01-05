@@ -10,3 +10,12 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+|Assignment                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Assignment 1|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 2          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 4 
+|Assignment 5 
+
