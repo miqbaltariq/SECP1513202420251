@@ -34,11 +34,12 @@ Here’s a photo of my team:
 ![WhatsApp Image 2025-01-06 at 03 03 53](https://github.com/user-attachments/assets/b7b66ef8-a4c9-427e-bda5-492b87da04ff)
 
 ---
+List of Assignment I did with my incredible teammates: 
 | **Assignment**  | **Description**  | **Date**  | **Reflection**  |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | **1**     | *Industry Talk: Petronas Digital*      | *23 November 2024*      | *Data 3*      |
 | **2**     | *Industry Visit: UTM Digital*      | *10 December 2024*      | *Data 6*      |
-| **3**     | *Industry Talk:*      | *17 December 2024*      | *Data 9*      |
+| **3**     | *Industry Talk: Skills required to be a good programmer*      | *17 December 2024*      | *Data 9*      |
 | **4**     | *Industry Vistit:*     | *17 January 2025*     | *Data 12*     |
 
 
