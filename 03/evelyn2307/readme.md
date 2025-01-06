@@ -1,8 +1,23 @@
-# Hello I'm Evelyn!👋 Welcome to my profile !!
+# ✨About Me:
+Hi! I'm **Evelyn**👋 Welcome to my profile
+- 🎓I’m currently pursuing a Bachelor of Computer Science in Data Engineering at UTM <br>
+- 🌱I’m currently learning C++ programming language, Discrete Structure, Digital Logic and Technology and Information System <br>
+- 💕Interested in enjoying delicious food 🍜🍰 and travelling and exploring new places 🌍✈️ <br>
+- 📫 Reach me at evelynang937@gmail.com<br>
+<br>
 
-Hi! I'm a student at Universiti Teknologi Malaysia (UTM), studying in **Bachelor Of Computer Science (Data Engineering) With Honours Computing**.
+## 🔗Contact with me:
+<a href="https://www.linkedin.com/in/evelyn-ang-749569266/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
+</a>
 
-Here's the assignments that I did with my team and some reflections on each assignment✌️
+<a href="https://www.instagram.com/evelynnn_723/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" height="40">
+</a>
+<br>
+<br>
+
+## 🔎Reflections on each assignment I did:
 
 |Assignment   |Description                          |Reflection                         |
 |-------------|-------------------------------|-----------------------------|
