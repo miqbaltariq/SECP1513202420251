@@ -26,9 +26,9 @@ Here are some highlights from my journey so far:
 
 ### 🤝 Meet My Team - TichTECHToe 
 Working with a fantastic group of like-minded individuals has been a key part of my learning experience!  
-- **[Nur Alia Athirah](link):**  
-- **[Koh Zi Qian](link):** 
-- **[Chin Wei Yao](link):**   
+- **[Nur Alia Athirah](https://github.com/nuraliaathirah):**  
+- **[Koh Zi Qian](https://github.com/kohziqian):** 
+- **[Chin Wei Yao](https://github.com/chinweiyao):**   
 
 Here’s a photo of my team:  
 ![WhatsApp Image 2025-01-06 at 03 03 53](https://github.com/user-attachments/assets/b7b66ef8-a4c9-427e-bda5-492b87da04ff)
