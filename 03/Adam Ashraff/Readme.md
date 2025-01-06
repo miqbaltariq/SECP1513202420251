@@ -1,21 +1,18 @@
-# Welcome to StackEdit!
+# Hi there! 👋 I'm Adam Ashraff!
 
-Hi! I'm me
-## SmartyPants
+🎓 A first-year Data Engineering student at Universiti Teknologi Malaysia (UTM), passionate about turning data into meaningful insights.
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+📘 Currently exploring:
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+🖥️ Technology and Information System
+⚙️ Digital Logic
+🔢 Discrete Structures
+💻 Programming Technique 1
+💡 I'm learning C++ and Java, and I'm excited to sharpen my skills to solve real-world challenges.
 
+🌍 Outside of academics, I love:
 
-## table 2
+🚀 Exploring new things
+🍜 Discovering unique and delicious food
+✨ Let’s connect, share ideas, and grow together in this exciting tech journey!
 
-| Name                   | Age | Occupation          | Salary       | Address                                        |
-|------------------------|-----|---------------------|--------------|------------------------------------------------|
-| Ahmad Faiz bin Mohd Nor| 32  | Software Developer  | RM6,500/month| No. 12, Jalan Melati 4, Taman Impian Jaya, 43000 Kajang, Selangor |
-| Nur Aisyah binti Zulkifli| 28 | Marketing Executive | RM4,200/month| Lot 7, Kampung Geliga Baru, 24000 Kemaman, Terengganu |
-| Lim Wei Sheng          | 40  | Civil Engineer      | RM8,300/month| No. 85, Jalan Dato' Mohd Ali, 11400 George Town, Penang |
