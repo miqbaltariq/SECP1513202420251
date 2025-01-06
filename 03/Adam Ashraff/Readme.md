@@ -27,7 +27,7 @@ These are my reflection for the assignments.
 ## REFLECTION
 
 ### Assignment 1: [Title]
-<div style="border: 2px solid #4CAF50; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+<div style="border-left: 4px solid #2196F3; background-color: #f1f8ff; padding: 10px; margin-bottom: 15px; border-radius: 8px;">
     <h4>Reflection</h4>
     <strong>Overview:</strong>  
     <p>In this assignment, I was tasked with [brief description of assignment].</p>
@@ -49,7 +49,7 @@ These are my reflection for the assignments.
 </div>
 
 ### Assignment 2: [Title]
-<div style="border: 2px solid #FF9800; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+<div style="border-left: 4px solid #FF5722; background-color: #fff3e0; padding: 10px; margin-bottom: 15px; border-radius: 8px;">
     <h4>Reflection</h4>
     <strong>Overview:</strong>  
     <p>For this assignment, I worked on [brief description].</p>
@@ -69,3 +69,4 @@ These are my reflection for the assignments.
     <strong>Improvements:</strong>  
     <p>I would have improved [aspect] by [suggestion], which could have made the process smoother.</p>
 </div>
+
