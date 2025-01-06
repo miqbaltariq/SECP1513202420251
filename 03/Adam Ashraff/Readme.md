@@ -15,5 +15,5 @@
 - 🍜 Discovering unique and delicious food  
 
 ✨ Let’s connect, share ideas, and grow together in this exciting tech journey! ✨
-- 📸 [Instagram](https://instagram.com/your_instagram_adam._.ashraff)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_adam._.ashraff)
 - 
