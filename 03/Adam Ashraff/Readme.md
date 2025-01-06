@@ -15,7 +15,6 @@
 - 🍜 Discovering unique and delicious food  
 
 ✨ Let’s connect, share ideas, and grow together in this exciting tech journey! ✨
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_adam._.ashraff)
 - <a href="https://instagram.com/your_instagram_adam._.ashraff" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a>
-- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamzamri09@gmail.com)
-- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadadamashraff@graduate.utm.my)
+- <a href="mailto:adamzamri09@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a>
+- <a href="mailto:muhammadadamashraff@graduate.utm.my" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a>
