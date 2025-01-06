@@ -18,3 +18,54 @@
 - <a href="https://instagram.com/your_instagram_adam._.ashraff" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> **INSTAGRAM**
 - <a href="mailto:adamzamri09@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **PERSONAL EMAIL**
 - <a href="mailto:muhammadadamashraff@graduate.utm.my" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **UTM EMAIL**
+
+
+# TECHNOLOGY & INFORMATION SYSTEM
+I have done 4 assignment for technology & information system throughout my first semester.
+These are my reflection for the assignments.
+
+## REFLECTION
+
+### Assignment 1: [Title]
+<div style="border: 2px solid #4CAF50; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+    <h4>Reflection</h4>
+    <strong>Overview:</strong>  
+    <p>In this assignment, I was tasked with [brief description of assignment].</p>
+  
+    <strong>Skills and Concepts Learned:</strong>  
+    <p>I learned how to [mention skills or concepts]. This assignment gave me an understanding of [concept] and its application in real-world scenarios.</p>
+  
+    <strong>Challenges Faced:</strong>  
+    <p>The main challenge was [describe challenge], but I overcame it by [how you solved it].</p>
+  
+    <strong>Tools and Technologies Used:</strong>  
+    <p>I used [tools/programming languages/software] such as [list tools] to complete the assignment.</p>
+  
+    <strong>Takeaways:</strong>  
+    <p>This assignment helped me realize [personal takeaway], and I now feel more confident in applying [concept] in future projects.</p>
+  
+    <strong>Improvements:</strong>  
+    <p>If I had more time, I would have [describe improvement], as it could have helped me achieve better results.</p>
+</div>
+
+### Assignment 2: [Title]
+<div style="border: 2px solid #FF9800; padding: 10px; margin-bottom: 10px; border-radius: 5px;">
+    <h4>Reflection</h4>
+    <strong>Overview:</strong>  
+    <p>For this assignment, I worked on [brief description].</p>
+  
+    <strong>Skills and Concepts Learned:</strong>  
+    <p>I gained a deeper understanding of [mention skills], which I found useful for [task or project].</p>
+  
+    <strong>Challenges Faced:</strong>  
+    <p>The most difficult part was [describe challenge], but I tackled it by [solution].</p>
+  
+    <strong>Tools and Technologies Used:</strong>  
+    <p>This assignment required the use of [tools/languages] like [list tools], which enhanced my proficiency in [relevant topic].</p>
+  
+    <strong>Takeaways:</strong>  
+    <p>I learned that [key takeaway], and this will guide me in [future tasks or subjects].</p>
+  
+    <strong>Improvements:</strong>  
+    <p>I would have improved [aspect] by [suggestion], which could have made the process smoother.</p>
+</div>
