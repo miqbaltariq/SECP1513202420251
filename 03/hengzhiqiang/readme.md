@@ -5,8 +5,8 @@ My full name is Heng Zhi Qiang and you guys can just call me Noah instead! I'm 2
 Here's a bit about me:
 
 ## ABOUT ME ⚡
-- Born on 17 March 2005
-- Based in Sekinchan, Selangor, Malaysia 👶 
+- Born on 17 March 2005 👶
+- Based in Sekinchan, Selangor, Malaysia 🏠  
 - Enjoy playing Table Tennis 🏓 & Volleyball 🏐
 - Currently learning **C++** 🌐
 - Excited to learn more! 🔥
