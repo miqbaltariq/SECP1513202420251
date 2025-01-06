@@ -16,4 +16,5 @@
 
 ✨ Let’s connect, share ideas, and grow together in this exciting tech journey! ✨
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_adam._.ashraff)
-- 
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamzamri09@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadadamashraff@graduate.utm.my)
