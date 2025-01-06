@@ -21,6 +21,8 @@ Here's a bit about me:
 
 
 ### TIS GROUP - #HashTECH
+<img src="https://github.com/user-attachments/assets/3986ccea-eb41-4a25-9648-928d52bb285d" alt="gpic" width="650" />   
+
 <!-- ![gpic](https://github.com/user-attachments/assets/gpic.jpg) -->
 
 
