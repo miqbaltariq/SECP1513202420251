@@ -5,20 +5,22 @@
 - 🔭 I’m currently studying in **Bachelor Of Computer Science (Data Engineering) With Honours Computing**
 
 - 🌱 I’m currently learning **Basic of C++ Programming, Competitive Programming**
-
-- 🤝 I’m looking for help with **Lecturers ,Alumnies and Seniors in the field of Computer Science**
   
+- My current course 
   
-|                |DESCRIPTION                    |
+- **My Personal Information**
+  
+|                |Description                    |
 |----------------|-------------------------------|
-|NAME            | LEE JUN LER                   |
+|NAME            | Lee Jun Ler                   |
+|GENDER          | Male                          |
 |DATE OF BIRTH   | 30 November 2005              |
 |ADDRESS         | Skudai, Johor                 |
 |PRE-U           | Foundation UTM SPACE, Johor   |
 |UNIVERSITY      | UTM, Johor                    |
 |HOBBY           | Reading and Jogging           |
 |EMAIL           | **junlerlee1130@gmail.com**   |
-|PHONE           | **+6011-5934 4314**            |
+|PHONE           | **+6011-5934 4314**           |
 
 
 <h3 align="left">Connect with me:</h3>
