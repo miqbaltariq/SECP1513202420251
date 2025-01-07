@@ -1,20 +1,29 @@
 # Welcome to Alia's profile!
 
 **About Me 👩‍🎓:**
+
 » Hi, I'm Alia. I am a First-Year Student of Data Engineering in Universiti Teknologi Malaysia(UTM).
+
 » I love taking pictures of people and scenery.
+
 » I have 28 cats at home.😸
 
 **Technical Skills 👩‍💻**
+
 → I am proficient in using Microsoft Word, Excel and PowerPoint
-→ I have knowledge about VsCode, DevC++, HTML and Java 
+
+→ I have knowledge about VsCode, DevC++, HTML and Java
+
 
 **Design Tools 🎨**
-→ I am proficient at using Canva. I have experienced making a poster for my college's event. 
+
+→ I am proficient at using Canva. I have experienced making a poster for my college's event.
+
 My Work : 
 ![image](https://github.com/user-attachments/assets/96c2135c-6d85-4d5c-8ce2-79ce393a3166)
 ![image](https://github.com/user-attachments/assets/150c2a19-b054-486c-b36f-e65d0fdcda9a)
-![image](https://github.com/user-attachments/assets/123e74b5-bd4f-4f8f-bebf-2bb49645dc12)
+![image](https://github.com/user-attachments/assets/11115a6b-8ab1-4f37-8ccf-7c4efc4f6274)
+
 
 
 
