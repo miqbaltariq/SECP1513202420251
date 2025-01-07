@@ -9,9 +9,13 @@
 » I have 28 cats at home.😸
 
 **Contact Information**
+
 » Phone: +60 107944614
+
 » E-mail: aliaathirah005@gmail.com 
+
 » Instagram : @nraliiyoo
+
 
 
 **Technical Skills 👩‍💻**
