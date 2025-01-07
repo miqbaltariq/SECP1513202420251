@@ -1,4 +1,4 @@
-#<h1 align="center">Hello 👋 I'm Lee Jun Ler</h1>
+<h1 align="center">Hello 👋 I'm Jun Ler</h1>
 <h3 align="center">A first year student of Universiti Teknologi Malaysia (UTM)</h3>
 <h3 align="center"> Welcome to my profile !!!</h3>
 
@@ -6,15 +6,19 @@
 
 - 🌱 I’m currently learning **Basic of C++ Programming, Competitive Programming**
 
-- 🤝 I’m looking for help with **Lecturer,Alumni and Senior in the field of Computer Science**
-
-- 📫 How to reach me **Email :junlerlee1130@gmail.com** **Phone :+6011-59344314**
+- 🤝 I’m looking for help with **Lecturers ,Alumnies and Seniors in the field of Computer Science**
   
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+  
+|                |DESCRIPTION                    |
+|----------------|-------------------------------|
+|NAME            | LEE JUN LER                   |
+|DATE OF BIRTH   | 30 November 2005              |
+|ADDRESS         | Skudai, Johor                 |
+|PRE-U           | Foundation UTM SPACE, Johor   |
+|UNIVERSITY      | UTM, Johor                    |
+|HOBBY           | Reading and Jogging           |
+|EMAIL           | **junlerlee1130@gmail.com**   |
+|PHONE           | **+6011-5934 4314**            |
 
 
 <h3 align="left">Connect with me:</h3>
