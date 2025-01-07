@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Basic of C++ Programming, Competitive Programming**
   
-- 🎓 My current course **Programming Technique I, Digital Logic, Technology and Information System, Discrete Structure**
+- 🎓 My current courses **Programming Technique I, Digital Logic, Technology and Information System, Discrete Structure**
   
 - **My Personal Information**
   
