@@ -6,22 +6,19 @@
 
 - 🌱 I’m currently learning **Basic of C++ Programming, Competitive Programming**
   
-- My current course 
+- 🎓 My current course **Programming Technique I, Digital Logic, Technology and Information System, Discrete Structure**
   
 - **My Personal Information**
   
-|                |Description                    |
-|----------------|-------------------------------|
-|NAME            | Lee Jun Ler                   |
-|GENDER          | Male                          |
-|DATE OF BIRTH   | 30 November 2005              |
-|ADDRESS         | Skudai, Johor                 |
-|PRE-U           | Foundation UTM SPACE, Johor   |
-|UNIVERSITY      | UTM, Johor                    |
-|HOBBY           | Reading and Jogging           |
-|EMAIL           | **junlerlee1130@gmail.com**   |
-|PHONE           | **+6011-5934 4314**           |
+|                |Description                    |                |Description                    |
+|----------------|-------------------------------|----------------|-------------------------------|
+|NAME            | Lee Jun Ler                   |GENDER          | Male                          |
+|DATE OF BIRTH   | 30 November 2005              |RELATIONSHIP    | Single                        |
+|ADDRESS         | Skudai, Johor                 |HOBBY           | Reading and Jogging           |
+|PRE-U           | Foundation UTM SPACE, Johor   |EMAIL           | **junlerlee1130@gmail.com**   |
+|UNIVERSITY      | UTM, Johor                    |PHONE           | **+6011-5934 4314**           |
 
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
