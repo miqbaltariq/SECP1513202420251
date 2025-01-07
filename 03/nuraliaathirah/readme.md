@@ -20,9 +20,8 @@
 → I am proficient at using Canva. I have experienced making a poster for my college's event.
 
 My Work : 
-![image](https://github.com/user-attachments/assets/96c2135c-6d85-4d5c-8ce2-79ce393a3166)
-![image](https://github.com/user-attachments/assets/150c2a19-b054-486c-b36f-e65d0fdcda9a)
-![image](https://github.com/user-attachments/assets/11115a6b-8ab1-4f37-8ccf-7c4efc4f6274)
+![photo_6334587363417767531_y](https://github.com/user-attachments/assets/ba5672c3-0c1a-4c3d-91a4-3e2dae70c2d3)
+
 
 
 
