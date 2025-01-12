@@ -19,8 +19,12 @@
  
 
 ## Technology & Information System (TIS)
-At the start of the semester we had to form a group of 5 members. Luckily, I got some good members, here's a picture of them :
-![Picture inside of programmers cubicle 4](https://github.com/user-attachments/assets/16ed1168-f0c2-4568-8b8d-2e12d954ff94)
+At the start of the semester we had to form a group of 5 members. <br />
+Luckily, I got some good members, here's a picture of them : <br />
+<h3 align= "left"> Group #HashTech </h3>
+<h4 align="left center"> [We all look awkward haha!] </h4>
+<img src= "https://github.com/user-attachments/assets/16ed1168-f0c2-4568-8b8d-2e12d954ff94" alt="gpic" width="700" />
+
 
 
 
