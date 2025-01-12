@@ -1,7 +1,7 @@
 <h1 align="center">  Hi There👋I'm Parthiv 😄</h1>
 <h3 align="center">  📚Enrolled in Bachelor  of Computer Science (Data Engineering) </h3> 
 <h3 align="center">  🎓First Year Student in University of Technology Malaysia </h3> 
-<h3 align="center">Welcome to my page😶‍🌫️ </h3> 
+<h3 align="center">Welcome to my page😶‍🌫️ </h3> <br />
 
 
 
@@ -22,19 +22,34 @@
 At the start of the semester we had to form a group of 5 members. <br />
 Luckily, I got some good members, here's a picture of them : <br />
 <h3 align= "left"> Group #HashTech </h3>
-<h4 align="left center"> [We all look awkward haha!] </h4>
+<h4 align="left"> [We all look awkward haha!] </h4>
 <img src= "https://github.com/user-attachments/assets/16ed1168-f0c2-4568-8b8d-2e12d954ff94" alt="gpic" width="700" />
 
 
 
 
-## Our Task, Event & Progress in TIS
+## **Our Task, Event & Progress in TIS**
+
+<h3 align= "left"> All Events </h3>
+
+| Date          | Event/Task                                     | Description      |
+|---------------|------------------------------------------------|------------------|
+|22 OCT 2024    |PC Maintanence                                  |                  |
+|16 NOV 2024    |Industry Talk with Clarity Techworks            |                  |
+|10 DEC 2024    |Industry Visit to UTMDigital                    |                  |
+|17 DEC 2024    |Industry Talk on Skills required by Industries  |                  |
+|11 JAN 2025    |Power BI Workshop                               |                  |
+|14 JAN 2025    |Design Thinking Project                         |                  |
+
+<h3 align= "left"> All Assignments </h3>
+
+| Date          | Event/Task                                      | Description      |
+|---------------|------------------------------------------------ |------------------|
+|23 NOV 2024    |Poster on Industry Talk                          |                  |
+|17 DEC 2024    |Video on Industrial Visit to UTMDigital          |                  |
+|24 DEC 2024    |Academic Report on Required Insutry Level Skills |                  |
+|19 JAN 2024    |Poster on Power BI Workshop                      |                  |
+|24 JAN 2025    |Demostration Video on Design Thinking Project    |                  |
 
 
-| Date       | Event/Task   | Reflection       |
-|------------|--------------|------------------|
-|            |              |                  |
-|            |              |                  |
-|            |              |                  |
-|            |              |                  |
-|            |              |                  |
+
