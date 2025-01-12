@@ -20,9 +20,8 @@
 
 ## Technology & Information System (TIS)
 At the start of the semester we had to form a group of 5 members. Luckily, I got some good members, here's a picture of them :
-<h3 align="center">
-![We all look awkward here haha!](https://drive.google.com/file/d/1V9tgcCAA3Za7diFyhQvYvbuyzk02_VOT/view?usp=drive_link)
-</h3>
+![Picture inside of programmers cubicle 4](https://github.com/user-attachments/assets/16ed1168-f0c2-4568-8b8d-2e12d954ff94)
+
 
 
 ## Our Task, Event & Progress in TIS
