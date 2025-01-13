@@ -22,7 +22,9 @@
 
 # TECHNOLOGY & INFORMATION SYSTEM
 This is my group member consist of Nisa,Hafiz, Kai loon, Tyler and I.
+
 ![WhatsApp Image 2025-01-13 at 21 18 19_35187715](https://github.com/user-attachments/assets/59b4590e-7f3c-4425-9ec0-d2174b6d803b)
+
 I have done 4 assignment for technology & information system throughout my first semester.
 These are my reflection for the assignments.
 
