@@ -10,37 +10,37 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.instagram.com/bangjayjays/">
+      <a href="https://www.instagram.com/bangjayjays/" target="_blank">
         <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="60" />
       </a>
       <br /> <strong> Personal Instagram </strong>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
+      <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank">
         <img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="YouTube" width="60" />
       </a>
       <br /> <strong> Personal YouTube </strong>
     </td>
     <td align="center">
-      <a href="mailto:chrishyungg97@gmail.com">
+      <a href="mailto:chrishyungg97@gmail.com" target="_blank">
         <img src="https://github.com/user-attachments/assets/814dc1c3-1820-4445-a934-aaeb73694b52" width="60" />
       </a>
       <br /> <strong> Personal Gmail </strong>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D">
+      <a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D" target="_blank">
         <img src="https://github.com/user-attachments/assets/289f509c-a222-4b68-99f8-48c329eacd48" width="60" />
       </a>
       <br /> <strong> LinkedIn </strong>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/profile.php?id=100011467793751">
+      <a href="https://www.facebook.com/profile.php?id=100011467793751" target="_blank">
         <img src="https://github.com/user-attachments/assets/5f47ea42-d404-4e7b-a504-856e2bb15fa5" alt="Facebook" width="60" />
       </a>
       <br /> <strong> Personal Facebook </strong>
     </td>
     <td align="center">
-      <a href="https://www.tiktok.com/@bangjayjays">
+      <a href="https://www.tiktok.com/@bangjayjays" target="_blank">
         <img src="https://github.com/user-attachments/assets/abaf12f4-e659-4845-b985-a268cc0e9edf" alt="TikTok" width="60" />
       </a>
       <br /> <strong> Personal TikTok </strong>
