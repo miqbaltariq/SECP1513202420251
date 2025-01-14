@@ -46,7 +46,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
       <br /> <strong> Personal TikTok </strong>
     </td>
     <td align="center">
-      <a href="https://wa.me/01111030080">
+      <a href="https://www.wasap.my/601111030080">
         <img src="https://github.com/user-attachments/assets/24836a45-b27b-4380-9ce1-00b644b910e9" alt="Whatsapp" width="60" />
       </a>
       <br /> <strong> Whatsapp </strong>
