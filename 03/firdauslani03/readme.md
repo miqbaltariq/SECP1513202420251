@@ -6,7 +6,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 # Contact Me!
 
-<a href="https://www.instagram.com/bangjayjays/" target="_blank"><img src="https://github.com/user-attachments/assets/45d98701-4b4e-4b0a-ac7c-2dc412c6a0f9" alt="Instagram" width="50"/></a>
+<a href="https://www.instagram.com/bangjayjays/" target="_blank"><img src="https://github.com/user-attachments/assets/9cc77383-5cfa-40ff-a038-7148aad7de08" alt="Instagram" width="50"/></a>
 <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank"><img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="Youtube" width="50"/></a>
 
 ## About My Team! 🤝
