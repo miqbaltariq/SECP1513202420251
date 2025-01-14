@@ -4,7 +4,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 ***
 
-## Contact Me! 📞
+<br/> ## Contact Me! 📞
 <table>
   <tr>
     <td align="center">
