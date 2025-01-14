@@ -6,10 +6,8 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 ###
 
 # Contact Me!
-![Instagram-Icon](https://github.com/user-attachments/assets/68709360-2b2b-4841-a58a-bb2383f7529d)
 
-![YouTube-Icon](https://github.com/user-attachments/assets/fbc72f8f-ffef-4e49-b17c-74d6c3d6f38b)
-
+<a href="https://www.instagram.com/bangjayjays/" target="_blank"><img src="https://github.com/user-attachments/assets/fd7dd58c-db0b-4bb1-af01-577aef631548" alt="Instagram" width="50"/></a>
 
 
 ## About My Team! 🤝
