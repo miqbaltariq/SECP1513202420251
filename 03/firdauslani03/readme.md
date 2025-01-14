@@ -11,19 +11,19 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
       <a href="https://www.instagram.com/bangjayjays/">
         <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="60" />
       </a>
-      <br /> <strong> Personal Instagram </strong>
+      <br /> <strong> Instagram </strong>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
         <img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="YouTube" width="60" />
       </a>
-      <br /> <strong> Personal YouTube </strong>
+      <br /> <strong> YouTube </strong>
     </td>
     <td align="center">
       <a href="mailto:chrishyungg97@gmail.com">
         <img src="https://github.com/user-attachments/assets/814dc1c3-1820-4445-a934-aaeb73694b52" width="60" />
       </a>
-      <br /> <strong> Personal Gmail </strong>
+      <br /> <strong> Gmail </strong>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D">
@@ -35,13 +35,13 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
       <a href="https://www.facebook.com/profile.php?id=100011467793751">
         <img src="https://github.com/user-attachments/assets/5f47ea42-d404-4e7b-a504-856e2bb15fa5" alt="Facebook" width="60" />
       </a>
-      <br /> <strong> Personal Facebook </strong>
+      <br /> <strong> Facebook </strong>
     </td>
     <td align="center">
       <a href="https://www.tiktok.com/@bangjayjays">
         <img src="https://github.com/user-attachments/assets/abaf12f4-e659-4845-b985-a268cc0e9edf" alt="TikTok" width="60" />
       </a>
-      <br /> <strong> Personal TikTok </strong>
+      <br /> <strong> TikTok </strong>
     </td>
     <td align="center">
       <a href="https://www.wasap.my/601111030080">
