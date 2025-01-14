@@ -25,7 +25,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
       <a href="mailto:chrishyungg97@gmail.com">
         <img src="https://github.com/user-attachments/assets/814dc1c3-1820-4445-a934-aaeb73694b52" width="60" />
       </a>
-      <br /> <strong> Personal GMail </strong>
+      <br /> <strong> Personal Gmail </strong>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D">
