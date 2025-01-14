@@ -1,5 +1,5 @@
 # ✨About Me:
-Hi! I'm **Evelyn**👋 A **Data Engineering Student** of **UTM**
+Hi! I'm **Evelyn Ang**👋 A **Data Engineering Student** of **UTM**
 <br><br>
 🎓I’m currently pursuing a Bachelor of Computer Science in Data Engineering at UTM <br>
 🌱I’m currently learning C++ programming language, Discrete Structure, Digital Logic and Technology and Information System <br>
@@ -39,11 +39,14 @@ Hi! I'm **Evelyn**👋 A **Data Engineering Student** of **UTM**
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evelyn2307&show_icons=true&theme=dark) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn2307&layout=compact&theme=dark&hide=hack) <br><br>
+<br>
+
+# My Team ➡️ TECH-nically Rebuilt
+
+<img src="https://github.com/evelyn2307/Y1S1/blob/47d0fb666d71205e2048d2888921c0cb148bf5a1/assets/group%20pic.jpg" alt="gourp pic" width="400" height="300"><br>
 
 
-# My Team - TECH-nically Rebuilt
-
-## 🔎Assignment I did with my group members :
+## 🔎Assignment I did with my team members :
 
 |Assignment   |Description      |Date        |Reflection                   |
 |-------------|-----------------|------------|-----------------------------|
