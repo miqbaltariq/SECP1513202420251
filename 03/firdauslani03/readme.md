@@ -6,6 +6,10 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 ###
 
 # Contact Me!
+![Instagram-Icon](https://github.com/user-attachments/assets/68709360-2b2b-4841-a58a-bb2383f7529d)
+
+![YouTube-Icon](https://github.com/user-attachments/assets/fbc72f8f-ffef-4e49-b17c-74d6c3d6f38b)
+
 
 
 ## About My Team! 🤝
