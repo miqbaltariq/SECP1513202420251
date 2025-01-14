@@ -6,10 +6,10 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 - 🌟 **Name:** Muhammad Firdaus bin Md Lani
 - 💼 **Profession:** Full-time Undergraduate Student
-- 🎓 **Education:** Bachelor in Computer Science (Data Engineering)  
+- 🎓 **Education:** Bachelor in Computer Science (Data Engineering)
 - 🌐 **Skills:** Mathematics, Programming, and Cooking 
-- 🌍 Location: Ayer Keroh, Malacca 
-- 💬 Languages: English, Chinese, Malay, Arabic, Korean
+- 🌍 **Residency**: Ayer Keroh, Malacca 
+- 💬 **Languages**: English, Chinese, Malay, Arabic, Korean
 
 #
 
