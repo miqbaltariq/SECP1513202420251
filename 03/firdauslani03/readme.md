@@ -13,7 +13,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
     <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="50" />
   </a>
     </td>
-    <td> <strong> Instagram </strong> </td>
+    <td> <strong> My Personal Instagram </strong> </td>
   </tr>
   <tr>
     <td>
@@ -21,7 +21,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
     <img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="YouTube" width="50" />
   </a>
     </td>
-    <td> <strong> YouTube </strong> </td>
+    <td> <strong> My Personal YouTube </strong> </td>
   </tr>
 </table>
 
