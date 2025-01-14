@@ -6,9 +6,19 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 # Contact Me!
 
+<p align="left">
+  <a href="https://www.instagram.com/bangjayjays/">
+    <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="50" />
+  </a>
+  Instagram
+</p>
 
-<a href="https://www.instagram.com/bangjayjays/" target="_blank"><img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="50"/></a> **Instagram** <br />
-<a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank"><img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="Youtube" width="50"/></a> **YouTube**
+<p align="left">
+  <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
+    <img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="YouTube" width="50" />
+  </a>
+  YouTube
+</p>
 
 ## About My Team! 🤝
 ![image alt](https://github.com/miqbaltariq/SECP1513202420251/blob/97c1ea8a92e661ae0067a640f709ded1182ac91b/03/firdauslani03/Phang%20Souh%20Xin%20(1).png)
