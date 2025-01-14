@@ -7,7 +7,6 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 # Contact Me!
 
 
-
 <table>
   <tr>
     <td align="center">
@@ -23,26 +22,26 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
       <br /> <strong> Personal YouTube </strong>
     </td>
     <td align="center">
-      <a href="https://twitter.com/yourprofile">
-        <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="60" />
+      <a href="mailto:chrishyungg97@gmail.com">
+        <img src="https://github.com/user-attachments/assets/814dc1c3-1820-4445-a934-aaeb73694b52" width="60" />
       </a>
-      <br /> <strong> Personal Twitter </strong>
+      <br /> <strong> Personal GMail </strong>
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://github.com/user-attachments/assets/012bbdf0-5bb4-4140-b5ca-f3d3ad152322" width="60" />
+      <a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D">
+        <img src="https://github.com/user-attachments/assets/289f509c-a222-4b68-99f8-48c329eacd48" width="60" />
       </a>
       <br /> <strong> LinkedIn </strong>
     </td>
     <td align="center">
-      <a href="https://facebook.com/yourprofile">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="60" />
+      <a href="https://www.facebook.com/profile.php?id=100011467793751">
+        <img src="https://github.com/user-attachments/assets/5f47ea42-d404-4e7b-a504-856e2bb15fa5" alt="Facebook" width="60" />
       </a>
       <br /> <strong> Personal Facebook </strong>
     </td>
     <td align="center">
-      <a href="https://tiktok.com/@yourprofile">
-        <img src="https://upload.wikimedia.org/wikipedia/en/6/69/TikTok_logo.svg" alt="TikTok" width="60" />
+      <a href="https://www.tiktok.com/@bangjayjays">
+        <img src="https://github.com/user-attachments/assets/6ca4cb09-5b03-4503-a3ed-65812217f586" alt="TikTok" width="60" />
       </a>
       <br /> <strong> Personal TikTok </strong>
     </td>
