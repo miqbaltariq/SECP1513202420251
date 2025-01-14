@@ -41,7 +41,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
     </td>
     <td align="center">
       <a href="https://www.tiktok.com/@bangjayjays">
-        <img src="https://github.com/user-attachments/assets/abaf12f4-e659-4845-b985-a268cc0e9edf" alt="TikTok" width="60" />
+        <img src="https://github.com/user-attachments/assets/abaf12f4-e659-4845-b985-a268cc0e9edf" alt="TikTok" width="50" />
       </a>
       <br /> <strong> Personal TikTok </strong>
     </td>
