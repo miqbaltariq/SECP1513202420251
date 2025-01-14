@@ -45,11 +45,14 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
       </a>
       <br /> <strong> Personal TikTok </strong>
     </td>
+    <td align="center">
+      <a href="https://wa.me/01111030080">
+        <img src="https://github.com/user-attachments/assets/24836a45-b27b-4380-9ce1-00b644b910e9" alt="Whatsapp" width="60" />
+      </a>
+      <br /> <strong> Whatsapp </strong>
+    </td>
   </tr>
 </table>
 
-
 ## About My Team! 🤝
-![image alt](https://github.com/miqbaltariq/SECP1513202420251/blob/97c1ea8a92e661ae0067a640f709ded1182ac91b/03/firdauslani03/Phang%20Souh%20Xin%20(1).png)
-
-
+![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
