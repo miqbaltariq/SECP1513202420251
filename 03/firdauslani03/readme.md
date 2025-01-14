@@ -6,6 +6,8 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 # Contact Me!
 
+
+
 <table>
   <tr>
     <td align="center">
@@ -28,7 +30,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="60" />
+        <img src="https://github.com/user-attachments/assets/012bbdf0-5bb4-4140-b5ca-f3d3ad152322" width="60" />
       </a>
       <br /> <strong> LinkedIn </strong>
     </td>
