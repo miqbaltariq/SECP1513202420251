@@ -11,8 +11,6 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 - 🌍 **Residency**: Ayer Keroh, Malacca 
 - 💬 **Languages**: English, Chinese, Malay, Arabic, Korean
 
-#
-
 ## Contact Me! 📞
 <table>
   <tr>
