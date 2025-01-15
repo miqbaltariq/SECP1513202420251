@@ -1,6 +1,6 @@
 # **Hi there! My name is Chun Yao Ting. 👋**
 
-# **ABOUT ME**
+**ABOUT ME**
 - 1st Year Student of University of Technology Malaysia (UTM). 🏫 
 - Currently pursuing Bachelor of Computer Science (Data Engineering). 🎓
 - Champion of CodeRush'25 UTM. 🥇
@@ -8,25 +8,25 @@
 - You can contact me at lightchaser1125@gmail.com. 📧
 - Trust the process! ✨
 
-# **EDUCATION**
+**EDUCATION**
 * Primary School
   - SJK(C) Pu Sze
 
-# * Secondary School
+* Secondary School
   - Seri Omega Private and International School
   - SPM: 10 A's
 
-# * Pre-University
+* Pre-University
   - School of Professional and Continuing Education (UTMSPACE)
   - Foundation in Physical Science
   - CGPA: 4.0
  
-# * Degree
+* Degree
   - University of Technology Malaysia (UTM)
   -  Bachelor of Computer Science (Data Engineering) with Honours
 
 
-# **HOBBY**
+**HOBBY**
 - Night walk 🚶
 - Music 🎼
 - Play Overcooked 🧑‍🍳
