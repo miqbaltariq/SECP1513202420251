@@ -1,7 +1,7 @@
 # **Hi there! My name is Chun Yao Ting. 👋**
 
 **ABOUT ME**
-- 1st Year Student of University of Technology Malaysia (UTM). 🏫 ![hippo](https://tenor.com/view/hol-up-let-him-cook-gif-7690136389960500989)
+- 1st Year Student of University of Technology Malaysia (UTM). 🏫 
 - Currently pursuing Bachelor of Computer Science (Data Engineering). 🎓
 - Champion of CodeRush'25 UTM. 🥇
 - Come from Johor Bahru, Malaysia 🏠
@@ -23,4 +23,4 @@
 - Music 🎼
 - Play Overcooked 🧑‍🍳
 
-  
+
