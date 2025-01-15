@@ -8,6 +8,8 @@
 - You can contact me at lightchaser1125@gmail.com. 📧
 - Trust the process! ✨
 
+<br>
+
 **EDUCATION**
 * Primary School
   - SJK(C) Pu Sze
@@ -24,7 +26,7 @@
 * Degree
   - University of Technology Malaysia (UTM)
   -  Bachelor of Computer Science (Data Engineering) with Honours
-
+<br>
 
 **HOBBY**
 - Night walk 🚶
