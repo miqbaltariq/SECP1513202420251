@@ -27,7 +27,7 @@
 <a href="https://wa.me/0172219594" target="_blank">
 <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" height="50">
 </a>
-<a href="mailto:parthiv.5305@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=parthiv.5305@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="50">
 </a>
 <a href="https://discord.com/users/842208402302304260" target="_blank">
