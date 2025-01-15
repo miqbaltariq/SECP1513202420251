@@ -5,6 +5,8 @@
 - Currently pursuing Bachelor of Computer Science (Data Engineering). 🎓
 - Champion of CodeRush'25 UTM. 🥇
 - I'm from Johor Bahru, Malaysia 🏠
+- Proficient in English, Chinese and Malay. 🗣
+- Prefer C++ as programming language. 💻
 - You can contact me at lightchaser1125@gmail.com. 📧
 - Trust the process! ✨
 
