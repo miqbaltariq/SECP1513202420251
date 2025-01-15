@@ -12,10 +12,26 @@
 - Prefers to read articles by communities during leisure hours ⛅
 - Surprisingly, not a fan of songs and prefers instrumentals :musical_note:
 
-<h3 align="left"> Languages Learned : 
+<h3 align="left"> Languages Learned : <br />
 
-<h3 align="left"> Connect with me : 
 
+## Connect with Me
+
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="40">
+</a>
+<a href="https://www.instagram.com/yourusername/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" height="40">
+</a>
+<a href="https://wa.me/yourphonenumber" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" height="40">
+</a>
+<a href="mailto:yourmail@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="40">
+</a>
+<a href="https://discord.com/users/yourdiscordid" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" height="40">
+</a>
  
 
 ## Technology & Information System (TIS)
