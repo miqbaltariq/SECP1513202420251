@@ -30,7 +30,7 @@
 <a href="mailto:parthiv.5305@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="50">
 </a>
-<a href="https://discord.com/users/TomatoCoffee#0764" target="_blank">
+<a href="https://discord.com/users/842208402302304260" target="_blank">
 <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" height="50">
 </a>
 
