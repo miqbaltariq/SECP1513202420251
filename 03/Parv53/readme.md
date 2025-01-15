@@ -13,28 +13,25 @@
 - Surprisingly, not a fan of songs and prefers instrumentals :musical_note:
 
 <h3 align="left"> Languages Learned <br /> <br />
-## Programming Languages
 
-[![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](#)
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](#)
-
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> </p>
 
 <h3 align="left"> Connect with me <br /> <br />
 
-<a href="https://github.com/yourusername" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="40">
+<a href="https://github.com/Parv53" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="50">
 </a>
-<a href="https://www.instagram.com/yourusername/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" height="40">
+<a href="https://www.instagram.com/parthiv._53/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" height="50">
 </a>
-<a href="https://wa.me/yourphonenumber" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" height="40">
+<a href="https://wa.me/0172219594" target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" height="50">
 </a>
-<a href="mailto:yourmail@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="40">
+<a href="mailto:parthiv.5305@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="50">
 </a>
-<a href="https://discord.com/users/yourdiscordid" target="_blank">
-<img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" height="40">
+<a href="https://discord.com/users/TomatoCoffee#0764" target="_blank">
+<img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" height="50">
 </a>
 
 
