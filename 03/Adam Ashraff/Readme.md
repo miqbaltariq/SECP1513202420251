@@ -3,14 +3,16 @@
 🎓 A first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and porgramming. I'm excited to sharpen my skills to solve real-world challenges.
 
 ## Academic Background
-- Secondary school
+- Primary School
+  - SEKOLAH RENDAH ARAB JAIM AL-FAIZIN
+- Secondary School
   - Sekolah Menengah Kebangsaan Dato' Dol Said
   - SPM(8A)
 - Matriculation
   - Malacca Matriculation College
   - CGPA(3.96)
 - Bachelor Degree
-  Universiti Teknologi Malaysia(Data Engineering)
+  - Universiti Teknologi Malaysia(Data Engineering)
 
 📘 Currently studying:  
 - 🖥️ **Technology and Information System**  
