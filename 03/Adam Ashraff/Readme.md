@@ -20,7 +20,7 @@ A first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UT
 - 🔢 **Discrete Structures**  
 - 💻 **Programming Technique 1**
 
-## Programming Skills
+## 💻 Programming Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ## Other Skills
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
@@ -51,9 +51,8 @@ These are my reflection for the assignments.
 
 | No. | Assignments | Reflections |
 |-----|---------------------|--------------------|
-| 1   | PC Assemble                  |    I was taught how to assemble and reassemble PC from scratch. It was really difficult at the beginning but with help of my group member everything becomes easy. We worked closely as a team and troubleshooting the problems together. This also taught me to worked as team since this is my first group task as degree student. By the end, I became more familiar with computer parts and the most important part is I can confidently apply this skills in the future            |
-| 2   | Poster(Industry talk)        |                   |
-| 3   | Video(Industry visit)        |                   |
-| 4   |                     |                   |
-| 5   |                     |                   |
+| 1   | Poster(Industry talk 1)             |   airasia                |
+| 2   | Video(Industry visit 1)             |          utmdigital         |
+| 3   | Academic writing(Industry talk 2)   |         report...          |
+| 4   |  Poster(Industry visit 2)           |          code 25         |
 
