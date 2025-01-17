@@ -26,8 +26,6 @@
 
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAshraffZamri&layout=compact&theme=radical)
-
 
 # TECHNOLOGY & INFORMATION SYSTEM
 This is my group member consist of Nisa,Hafiz, Kai loon, Tyler and I.
