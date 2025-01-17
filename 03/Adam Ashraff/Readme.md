@@ -23,7 +23,14 @@
 - <a href="https://instagram.com/your_instagram_adam._.ashraff" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> **INSTAGRAM**
 - <a href="mailto:adamzamri09@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **PERSONAL EMAIL**
 - <a href="mailto:muhammadadamashraff@graduate.utm.my" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **UTM EMAIL**
+- 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?usernameAdamAshraffZamri=&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdamAshraffZamri&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAshraffZamri&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+##3 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdamAshraffZamri&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 # TECHNOLOGY & INFORMATION SYSTEM
 This is my group member consist of Nisa,Hafiz, Kai loon, Tyler and I.
