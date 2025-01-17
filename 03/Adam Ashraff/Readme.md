@@ -51,9 +51,9 @@ These are my reflection for the assignments.
 
 | No. | Assignments | Reflections |
 |-----|---------------------|--------------------|
-| 1   |   PC ASSEMBLE       |                   |
-| 2   |                     |                   |
-| 3   |                     |                   |
+| 1   | PC Assemble                  |    I was taught how to assemble and reassemble PC from scratch. It was really difficult at the beginning but with help of my group member everything becomes easy. We worked closely as a team and troubleshooting the problems together. This also taught me to worked as team since this is my first group task as degree student. By the end, I became more familiar with computer parts and the most important part is I can confidently apply this skills in the future            |
+| 2   | Poster(Industry talk)        |                   |
+| 3   | Video(Industry visit)        |                   |
 | 4   |                     |                   |
 | 5   |                     |                   |
 
