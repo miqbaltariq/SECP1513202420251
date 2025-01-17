@@ -29,8 +29,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdamAshraffZamri&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAshraffZamri&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-##3 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdamAshraffZamri&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 # TECHNOLOGY & INFORMATION SYSTEM
 This is my group member consist of Nisa,Hafiz, Kai loon, Tyler and I.
