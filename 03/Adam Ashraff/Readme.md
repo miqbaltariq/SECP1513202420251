@@ -23,11 +23,10 @@
 - <a href="https://instagram.com/your_instagram_adam._.ashraff" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> **INSTAGRAM**
 - <a href="mailto:adamzamri09@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **PERSONAL EMAIL**
 - <a href="mailto:muhammadadamashraff@graduate.utm.my" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> **UTM EMAIL**
-- 
+
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?usernameAdamAshraffZamri=&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdamAshraffZamri&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAshraffZamri&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAshraffZamri&layout=compact&theme=radical)
 
 
 # TECHNOLOGY & INFORMATION SYSTEM
