@@ -1,10 +1,10 @@
 # 👋 I'm Muhammad Adam Ashraff bin Zamri!
 
-🎓 A first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and porgramming. I'm excited to sharpen my skills to solve real-world challenges.
+A first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and porgramming. I'm excited to sharpen my skills to solve real-world challenges.
 
-## Academic Background
+##  🎓 Academic Background
 - Primary School
-  - SEKOLAH RENDAH ARAB JAIM AL-FAIZIN
+  - Sekolah Rendah Arab Jaim Al-Faizin
 - Secondary School
   - Sekolah Menengah Kebangsaan Dato' Dol Said
   - SPM(8A)
