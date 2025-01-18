@@ -1,6 +1,6 @@
 # Hello! I'm Firdaus 🕊
 
-I’m a **Computer Science** student specializing in Data Engineering at **Universiti Teknologi Malaysia (UTM)**. I thrive on building connections and constantly pushing myself to deliver my best for those around me. With strong foundations in Mathematics and coding, I’m also learning photo and video editing to expand my creative skillset and explore new ways to innovate. Previously, I've joined volunteering and competitions in the past and I don't plan on stopping any time soon. Let’s create something extraordinary together! 🤍
+I’m a **Computer Science** student specializing in Data Engineering at **Universiti Teknologi Malaysia (UTM)**. I thrive on building connections and constantly pushing myself to deliver my best for those around me. I have really strong passion towards Mathematics and coding. However, I’m also eager to learn new things such as photo and video editing to expand my creative skillset and explore new ways to innovate. Previously, I've joined volunteering and competitions in the past and I don't plan on stopping any time soon. Let’s create something extraordinary together! 🤍
 
 ### Quick Biodata
 
@@ -13,11 +13,15 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 #
 
-## 💻 Programming Progress
+## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
-
+### Learning
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ## 🎖️ Achievements
 
