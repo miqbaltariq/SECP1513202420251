@@ -36,10 +36,10 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 ## 📞 Contact Me! 
 
 <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" width="130" height="auto">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" width="130">
 </a>
 <a href="https://www.instagram.com/bangjayjays/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="130" height="auto" hspace="10">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="150" hspace="10">
 </a>
 
 ## About My Team! 🤝
