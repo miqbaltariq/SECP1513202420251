@@ -56,7 +56,5 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="135">
 </a>
 
-<br>
-
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
