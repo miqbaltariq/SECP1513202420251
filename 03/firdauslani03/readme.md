@@ -25,13 +25,12 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" width="153" height="auto"> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" width="101" height="auto" hspace="7">
 
 
-## 🏆 Achievements
+## 🏆 Notable Achievements
 
 - 🥈 Silver in PPKomp 2022
 - 📖 Best Academics Award of Excellence during SPM Trials
 - 🥈 Silver in Creations de UiTM 2024
-- 🥈 Silver in Pre-University Matriculation Innovation Competition 2024 (PIITRAM) <br>
-**and many more...**
+- 🥈 Silver in Pre-University Matriculation Innovation Competition 2024 (PIITRAM)
 
 ## 📞 Contact Me! 
 
