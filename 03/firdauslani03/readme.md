@@ -6,10 +6,15 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 - 🌟 **Name:** Muhammad Firdaus bin Md Lani
 - 💼 **Profession:** Full-time Undergraduate Student
-- 🎓 **Education:** Bachelor in Computer Science (Data Engineering)
 - 🌐 **Skills:** Mathematics, Programming, and Cooking 
 - 🌍 **Residency**: Ayer Keroh, Malacca 
 - 💬 **Languages**: English, Chinese, Malay, Arabic, Korean
+
+### 🏫 Academic Journey
+
+- ✍️ 2022 SPM Candidate (10A's)
+- 🏅 Graduated Foundation in Engineering with a 4.00 CGPA
+- 🏛️ Pursuing Bachelor's Degree in Computer Science (Data Engineering)
 
 <br>
 
@@ -23,10 +28,9 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-<br>
 
-## 🎖️ Achievements
-
+## 🏆 Achievements
+- 
 
 #
 
