@@ -40,7 +40,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 ## 📞 Contact Me! 
 
 <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="OpenAI Logo">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="OpenAI Logo" width="130" height="auto">
 </a>
 
 
