@@ -11,7 +11,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 - 🌍 **Residency**: Ayer Keroh, Malacca 
 - 💬 **Languages**: English, Chinese, Malay, Arabic, Korean
 
-<br \>
+<br>
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
