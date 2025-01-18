@@ -32,8 +32,6 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 - 🥈 Silver in Creations de UiTM 2024
 - 🥈 Silver in Pre-University Matriculation Innovation Competition 2024 (PIITRAM)
 
-#
-
 ## 📞 Contact Me! 
 
 <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
