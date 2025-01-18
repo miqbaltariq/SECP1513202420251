@@ -38,7 +38,9 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="OpenAI Logo" width="130" height="auto">
 </a>
-
+<a href="https://www.instagram.com/bangjayjays/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="OpenAI Logo" width="130" height="auto">
+</a>
 
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
