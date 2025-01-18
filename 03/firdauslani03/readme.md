@@ -48,7 +48,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
     </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
-        <img src="https://github.com/user-attachments/assets/f540a82c-6925-418b-b7e6-7b100c9ec6a9" alt="YouTube" width="60" />
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" width="60" />
       </a>
       <br /> <strong> YouTube </strong>
     </td>
