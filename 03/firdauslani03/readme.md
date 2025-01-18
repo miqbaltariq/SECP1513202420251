@@ -42,7 +42,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
   <tr>
     <td align="center">
       <a href="https://www.instagram.com/bangjayjays/">
-        <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="60" />
+        <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="160" />
       </a>
       <br /> <strong> Instagram </strong>
     </td>
