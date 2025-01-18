@@ -29,6 +29,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 - 🥈 Silver in PPKomp 2022
 - 📖 Best Academics Award of Excellence during SPM Trials
+- 🥈 Silver in Creations de UiTM 2024
 - 🥈 Silver in Pre-University Matriculation Innovation Competition 2024 (PIITRAM)
 
 #
