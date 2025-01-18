@@ -41,6 +41,12 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 <a href="https://www.instagram.com/bangjayjays/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="150" hspace="10">
 </a>
+<a href="mailto:chrishyungg97@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="130">
+</a>
+<a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" hspace="10">
+</a>
 
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
