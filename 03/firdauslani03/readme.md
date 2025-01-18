@@ -49,13 +49,13 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" hspace="10">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100011467793751">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" width="150">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" width="130">
 </a>
 <a href="https://www.tiktok.com/@bangjayjays">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" width="135" hspace="10">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" width="120" hspace="10">
 </a>
 <a href="https://www.wasap.my/601111030080">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="130">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="120">
 </a>
 
 ## About My Team! 🤝
