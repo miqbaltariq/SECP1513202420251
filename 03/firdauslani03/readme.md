@@ -36,17 +36,26 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 ## 📞 Contact Me! 
 
-<a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g" target="_blank">
+<a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" width="130">
 </a>
-<a href="https://www.instagram.com/bangjayjays/" target="_blank">
+<a href="https://www.instagram.com/bangjayjays/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="150" hspace="10">
 </a>
-<a href="mailto:chrishyungg97@gmail.com" target="_blank">
+<a href="mailto:chrishyungg97@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="107">
 </a>
-<a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" hspace="10">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100011467793751">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" width="107">
+</a>
+<a href="https://www.tiktok.com/@bangjayjays">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" width="110" hspace="10">
+</a>
+<a href="https://www.wasap.my/601111030080">
+  <img src="hhttps://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="107">
 </a>
 
 ## About My Team! 🤝
