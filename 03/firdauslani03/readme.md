@@ -38,52 +38,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 #
 
 ## Contact Me! 📞
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.instagram.com/bangjayjays/">
-        <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="60" />
-      </a>
-      <br /> <strong> Instagram </strong>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" width="160" />
-      </a>
-      <br /> <strong> YouTube </strong>
-    </td>
-    <td align="center">
-      <a href="mailto:chrishyungg97@gmail.com">
-        <img src="https://github.com/user-attachments/assets/814dc1c3-1820-4445-a934-aaeb73694b52" width="60" />
-      </a>
-      <br /> <strong> Gmail </strong>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/muhammad-firdaus-18ab96332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9rvvJs9YS6%2Bj2RuoIEj1TQ%3D%3D">
-        <img src="https://github.com/user-attachments/assets/289f509c-a222-4b68-99f8-48c329eacd48" width="60" />
-      </a>
-      <br /> <strong> LinkedIn </strong>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/profile.php?id=100011467793751">
-        <img src="https://github.com/user-attachments/assets/5f47ea42-d404-4e7b-a504-856e2bb15fa5" alt="Facebook" width="60" />
-      </a>
-      <br /> <strong> Facebook </strong>
-    </td>
-    <td align="center">
-      <a href="https://www.tiktok.com/@bangjayjays">
-        <img src="https://github.com/user-attachments/assets/abaf12f4-e659-4845-b985-a268cc0e9edf" alt="TikTok" width="60" />
-      </a>
-      <br /> <strong> TikTok </strong>
-    </td>
-    <td align="center">
-      <a href="https://www.wasap.my/601111030080">
-        <img src="https://github.com/user-attachments/assets/24836a45-b27b-4380-9ce1-00b644b910e9" alt="Whatsapp" width="60" />
-      </a>
-      <br /> <strong> Whatsapp </strong>
-    </td>
-  </tr>
-</table>
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
