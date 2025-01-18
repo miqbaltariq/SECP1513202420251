@@ -12,8 +12,8 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 ### 🏫 Academic Journey
 
-- ✍️ 2022 SPM Candidate (10A's)
-- 🏅 Graduated Foundation in Engineering with a 4.00 CGPA
+- ✍️ 2022 SPM Candidate with 10 A's (SM Imtiaz Ulul Albab Melaka)
+- 🏅 Graduated Foundation in Engineering with a 4.00 CGPA (UiTM Dengkil)
 - 🏛️ Pursuing Bachelor's Degree in Computer Science (Data Engineering)
 
 <br>
