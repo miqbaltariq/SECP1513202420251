@@ -38,7 +38,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 #
 
 ## Contact Me! 📞
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g)
 
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
