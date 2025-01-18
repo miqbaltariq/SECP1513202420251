@@ -42,13 +42,13 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
   <tr>
     <td align="center">
       <a href="https://www.instagram.com/bangjayjays/">
-        <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="160" />
+        <img src="https://github.com/user-attachments/assets/db95632b-a5c5-4884-8c8f-14b36d444d6d" alt="Instagram" width="60" />
       </a>
       <br /> <strong> Instagram </strong>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UC1BNhZyeLEpK76aLuAbof4g">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" width="60" />
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" width="160" />
       </a>
       <br /> <strong> YouTube </strong>
     </td>
