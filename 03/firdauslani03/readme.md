@@ -55,7 +55,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" width="110" hspace="10">
 </a>
 <a href="https://www.wasap.my/601111030080">
-  <img src="hhttps://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="107">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" width="107">
 </a>
 
 ## About My Team! 🤝
