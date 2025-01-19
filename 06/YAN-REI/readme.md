@@ -5,11 +5,11 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |INFORMATION                                                  |
-|----------------|-------------------------------|-----------------------------|
-|NAME            |`YAN JIARONG`                                                |
-|MATRIC NUMBER   |`A24CS0029`                                                  |
-|COURSE          |`SECP1513`                                                   |
+|             |INFORMATION  |  |
+|-------------|-------------|--|
+|NAME         |`YAN JIARONG`|  |
+|MATRIC NUMBER|`A24CS0029`  |  |
+|COURSE       |`SECP1513`   |  |                                          |
 
 ## SmartyPants
 
