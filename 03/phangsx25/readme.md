@@ -20,8 +20,13 @@ A first year student of **UTM** studies in bachelor of computer science (network
 
 # Hobby:
 -Listening Music :headphones:<br>
--Reading 	:closed_book:<br>
+-Reading 	:books: <br>
 -Napping  :zzz:<br>
+
+
+# test
+![phangsx25's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phangsx25&show_icons=true&hide_title=true)
+
 
 
 
