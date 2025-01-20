@@ -1,4 +1,4 @@
-# Welcome to Alia's profile!
+# Alia's profile!
 
 **About Me 👩‍🎓:**
 
