@@ -7,13 +7,13 @@
 » I love taking pictures of people and scenery.
 
 
-**Contact Information**
+**Contact Information📞**
 
 » Phone: +60107944614
 
 » E-mail: aliaathirah005@gmail.com 
 
-» Instagram : https://www.instagram.com/nraliiyoo?igsh=MXNjY3luMXVwbzc4MA%3D%3D&utm_source=qr
+»  [Instagram](https://www.instagram.com/nraliiyoo?igsh=MXNjY3luMXVwbzc4MA%3D%3D&utm_source=qr)
 
 
 
