@@ -20,12 +20,21 @@ A first year student of **UTM** studies in bachelor of computer science (network
 
 # Hobby:
 -Listening Music :headphones:<br>
--Reading 	:books: <br>
+-Reading 	:notebook_with_decorative_cover:<br>
 -Napping  :zzz:<br>
 
 
-# test
+# GitHub Stats:
 ![phangsx25's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phangsx25&show_icons=true&hide_title=true)
+
+# Contact Me at:
+<a href="[https://www.instagram.com/yourusername](https://www.instagram.com/carina_phangsx?igsh=MWVwNjRzbjV1bWVicQ==)" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
+</a>
+
+<a href="mailto:carinaphang0225@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Google_Contacts_icon.png" alt="Gmail" width="30" height="30"/>
+</a>
 
 
 
