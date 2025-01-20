@@ -1,13 +1,14 @@
-# Welcome to StackEdit!
+# Welcome to SheLing's Eportfolio!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi! Here is all my learning outcomes and reflections from studying **TIS** over the past few months. You're welcome to take a look!
 
 ## SmartyPants
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|         Activity         |Learning Outcomes              |Reflection                   |
+|--------------------------|-------------------------------|-----------------------------|
+|PC Assemble               |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 1              |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 2              |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3              |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 4              |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Design Thinking Project   |`"Isn't this fun?"`            |"Isn't this fun?"            |
