@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here’s a snapshot of my journey so far and where
 - 📖 **Technology and Information System**  
 
 ## 🎨 **Hobbies**  
-**In my free time, I enjoy: ** 
+**In my free time, I enjoy:** 
 - 🏸 **Playing badminton**
 - 🎧 **Listen to music**
 
