@@ -1,13 +1,19 @@
-# Welcome to StackEdit!
+🌟 Hi, I'm Chin Wei Yao! 👋
+Welcome to my GitHub profile! Here’s a snapshot of my journey so far and where I’m headed 🚀:
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+🏠 About Me
+📍 Address: Bukit Indah, Johor, Malaysia
+🎓 Education
+🏫 Secondary School: SMK Dato' Jaafar
+🎓 Pre-University: UTM Space JB
+🎓 Degree: Bachelor of Computer Science (Data Engineering) with Honours at UTM JB
+🎨 Hobbies
+In my free time, I enjoy:
 
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+🏸 Playing badminton
+🌟 Future Aspirations
+🚀 I aspire to become a Data Engineer, where I can leverage data to solve real-world problems and build innovative solutions.
+🌐 Contact Me
+💌 Email: yaowchin@gmail.com
+📸 Instagram: wei_yaooo
+🌍 Facebook: Weiyao Chin
