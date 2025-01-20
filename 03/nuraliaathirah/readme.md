@@ -41,7 +41,7 @@ My Work :
 ![photo_6086774639566116910_y](https://github.com/user-attachments/assets/ef2822cc-8544-457e-a239-a572a1dcd5f9)
 
 
-*WEIYAO, IMAN, ALIA, ZIQIAN*
+*WEIYAO,ZI QIAN, IMAN, ALIA*
 
 
 Here is the lists of assignments that i did with my team and my own reflection on each assignment
