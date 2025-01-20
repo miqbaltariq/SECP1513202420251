@@ -1,8 +1,9 @@
+
 <h1 align="center">Welcome to my page</h1>
 
 ###
 
-<h4 align="center">My name is MUHAMMAD HAFIZ BIN REEPEI. I am currently studying for a bachelor's degree in computer science with a specialization in data engineering.</h4>
+<h4 align="center">My name is <strong>MUHAMMAD HAFIZ BIN REEPEI</strong>. I am currently studying for a bachelor's degree in computer science with a specialization in data engineering. I am currently studying for a bachelor's degree in computer science with a specialization in data engineering.</h4>
 
 ###
 
@@ -30,26 +31,31 @@
 
 <h2 align="left">Contact</h2>
 
-###
-
 <div align="left">
   <a href="https://wa.me/60134976641" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+    <span>WhatsApp</span>
   </a>
   <a href="https://www.instagram.com/hafiz_._._._" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+    <span>Instagram</span>
   </a>
   <a href="mailto:mhafizreepei05@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    <span>Gmail</span>
   </a>
 </div>
 
 ###
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+##
+
+| ASSIGNMENT      | DATE                          | REFLECTION                        | ATTACHMENT                     |
+|-----------------|-------------------------------|-----------------------------------|--------------------------------|
+| Single backticks | \`'Isn't this fun?'\`          | `'Isn't this fun?'`               | `'Isn't this fun?'`            |
+| Quotes          | \`"Isn't this fun?"\`          | `"Isn't this fun?"`               | `"Isn't this fun?"`            |
+| Dashes          | \`-- is en-dash, --- is em-dash\` | `-- is en-dash, --- is em-dash`   | `-- is en-dash, --- is em-dash` |
+
 
 | Name                | Age | Profession        | Company                  | Monthly Salary | Address                                   |
 |---------------------|-----|-------------------|--------------------------|----------------|-------------------------------------------|
