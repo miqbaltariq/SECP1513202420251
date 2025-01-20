@@ -1,11 +1,44 @@
-# Welcome to StackEdit!
+<h1 align="center">Welcome to my page</h1>
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+###
 
-## SmartyPants
+<h4 align="center">My name is MUHAMMAD HAFIZ BIN REEPEI. I am currently studying for a bachelor's degree in computer science with a specialization in data engineering.</h4>
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+###
 
+<h2 align="left">Short Biography</h2>
+
+###
+
+<p align="left">🍴 I enjoy eating as it give me satisfaction and happiness<br>👾 Addicted gamer<br>🎶 Deep appreciation for music<br>🎂 7 February 2005<br>👱🏼 Cheerful, enthusiastic, friendly, outgoing<br>🎲 Fun fact: Cats and otters are my favorite animals</p>
+
+###
+
+<h2 align="left">My Coding Languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
