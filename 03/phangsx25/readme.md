@@ -1,28 +1,29 @@
 
-#About Me:
-Hi~ I am Souh Xin (:sint_maarten:) :thought_balloon:
-A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:
+# About Me:
+Hi~ I am Souh Xin (:sint_maarten:) :thought_balloon:<br>
+A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:<br>
 
-#currently studying:
+# Currently studying:
 -Programming technique 1<br>
 -Discrete Structure<br>
 -Digital logic<br>
 -Technology and Information System<br>
 
-#Programming Languague:
+# Programming Languague:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" /> Python  
-&nbsp;&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /> C++  
-&nbsp;&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" /> HTML
+<div style="display: flex; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" /> Python
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /> C++
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" /> HTML
+</div>
 
 
-
-#Hobby:
+# Hobby:
 -Listening Music :headphones:<br>
 -Reading 	:closed_book:<br>
 -Napping  :zzz:<br>
+
+
 
 
 
