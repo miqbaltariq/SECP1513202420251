@@ -4,12 +4,19 @@ Welcome to my GitHub profile! Here’s a snapshot of my journey so far and where
 
 
 🏠 About Me
+
 📍 Address: Bukit Indah, Johor, Malaysia
+
 🎓 Education
+
 🏫 Secondary School: SMK Dato' Jaafar
+
 🎓 Pre-University: UTM Space JB
+
 🎓 Degree: Bachelor of Computer Science (Data Engineering) with Honours at UTM JB
+
 🎨 Hobbies
+
 In my free time, I enjoy:
 
 🏸 Playing badminton
