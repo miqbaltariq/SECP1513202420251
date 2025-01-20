@@ -38,7 +38,8 @@ My Work :
 
 **Meet My TIS GROUP, TichTECHToe!⭕✖️**
 
-![image](https://github.com/user-attachments/assets/fad98fb8-60ef-4110-9884-c79308b763a8)
+![photo_6086774639566116910_y](https://github.com/user-attachments/assets/ef2822cc-8544-457e-a239-a572a1dcd5f9)
+
 
 *WEIYAO, IMAN, ALIA, ZIQIAN*
 
