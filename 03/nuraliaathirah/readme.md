@@ -43,7 +43,8 @@
 
 
 My Work : 
-![photo_6334587363417767531_y](https://github.com/user-attachments/assets/ba5672c3-0c1a-4c3d-91a4-3e2dae70c2d3)
+<img src="![photo_6334587363417767531_y (1)](https://github.com/user-attachments/assets/805bb69b-0b69-4ab5-a21d-540f2b2a89b7)
+" alt="Your Image" width="300" height="400">
 
 
 
