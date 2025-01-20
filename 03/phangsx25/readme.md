@@ -1,6 +1,6 @@
 
 # About Me:
-Hi~ I am Souh Xin (:sint_maarten:) :thought_balloon:<br>
+Hi~ I am Souh Xin :sint_maarten: :thought_balloon:<br>
 A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:<br>
 
 # Currently studying:
