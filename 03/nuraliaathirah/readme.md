@@ -57,7 +57,7 @@ My Work :
 
 
 
-*WEIYAO,ZI QIAN, IMAN, ALIA*
+*ALIA, IMAN, ZI QIAN, WEI YAO*
 
 
 Here is the lists of assignments that i did with my team and my own reflection on each assignment
