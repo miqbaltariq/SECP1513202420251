@@ -13,7 +13,7 @@
 
 » E-mail: aliaathirah005@gmail.com 
 
-»  [Instagram](https://www.instagram.com/nraliiyoo?igsh=MXNjY3luMXVwbzc4MA%3D%3D&utm_source=qr)
+»  [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&style=for-the-badge)](https://www.instagram.com/nraliiyoo?igsh=MXNjY3luMXVwbzc4MA%3D%3D&utm_source=qr)
 
 
 
