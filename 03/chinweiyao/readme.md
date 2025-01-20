@@ -25,11 +25,14 @@ Welcome to my GitHub profile! Here’s a snapshot of my journey so far and where
 
 ## 🌟 **Future Aspirations**  
 - 🚀 **I aspire to become a 🧑‍💻 **Data Engineer**, where I can leverage data to solve real-world problems and build innovative solutions.**
+  
 
-![Uploading image.png…]()
+## 🖌️ **TichTECHToe**  
+
+![image](https://github.com/user-attachments/assets/5240e500-04d5-4315-8525-141da4934ca6)
 
 
-## 🖋️ **Assignment TIS** 
+## 📌 **Assignment TIS** 
 
 | Assignment   | Description                                              | Date         | Reflection                                                                                                                                                                                                                      |
 |--------------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
