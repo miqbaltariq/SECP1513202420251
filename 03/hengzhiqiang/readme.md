@@ -36,22 +36,22 @@ Here's a bit about me:
   - 📊Curricular Marks: 8.84 / 10.00   
   - 🔍Mainly Focused on: Pure Science Studies (Biology, Physics, Chemistry)
 
-## **SUBJECTS IN YEAR 1 SEM 1 (DATA ENGINEERING)**
-- Discrete Structure
-- Programming Technique 1
-- Technology and Information System
-- Digital Logic
+## **📚CORE SUBJECTS IN YEAR 1 SEM 1 (DATA ENGINEERING)**
+- 🧮Discrete Structure
+- 💻Programming Technique 1
+- 🖥️Technology and Information System
+- ⚙️Digital Logic   
 
-## TECHNOLOGY AND INFORMATION SYSTEM (TIS)
+## 🖥️TECHNOLOGY AND INFORMATION SYSTEM (TIS)
 
 
-### TIS GROUP - #HashTECH
+### 🤝MY GROUP - #HashTECH
 <img src="https://github.com/user-attachments/assets/3986ccea-eb41-4a25-9648-928d52bb285d" alt="gpic" width="650" />   
 
 <!-- ![gpic](https://github.com/user-attachments/assets/gpic.jpg) -->
 
 
-### TASKS under TIS
+### ✅TASKS under TIS
 |     **ASSIGNMENT**    |                **DESCRIPTION**            |    **DATE**   | **REFLECTION**  |
 |-----------------------|-------------------------------------------|---------------|-----------------|
 |<p align="center">1</p>|       POSTER on INDUSTRY TALK 1           |  23 NOV 2024  |                 |
