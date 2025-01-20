@@ -60,5 +60,5 @@ SDN BHD-->
 
 
 ## CONNECT WITH ME 📲
-[<img src="[https://upload.wikimedia.org/wikipedia/commons/a/ab/LinkedIn_logo_2022.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/heng-zhi-qiang-zhi-qiang-666188194/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/heng-zhi-qiang-zhi-qiang-666188194/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50">](https://www.instagram.com/z.qiang0317)
