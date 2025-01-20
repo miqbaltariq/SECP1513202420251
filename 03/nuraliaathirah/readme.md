@@ -43,8 +43,8 @@
 
 
 My Work : 
-<img src="![photo_6334587363417767531_y (1)](https://github.com/user-attachments/assets/805bb69b-0b69-4ab5-a21d-540f2b2a89b7)
-" alt="Your Image" width="300" height="400">
+![photo_6334587363417767531_y (1)](https://github.com/user-attachments/assets/2dbebf40-93fe-4895-9143-543bf71da7ce)
+
 
 
 
@@ -53,7 +53,8 @@ My Work :
 
 **Meet My TIS GROUP, TichTECHToe!⭕✖️**
 
-![photo_6086774639566116910_y](https://github.com/user-attachments/assets/ef2822cc-8544-457e-a239-a572a1dcd5f9)
+![photo_6086774639566116907_y](https://github.com/user-attachments/assets/b990e411-1773-4773-b2ad-ba99c632c2c3)
+
 
 
 *WEIYAO,ZI QIAN, IMAN, ALIA*
