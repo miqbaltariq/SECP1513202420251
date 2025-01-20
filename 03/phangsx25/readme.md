@@ -1,7 +1,8 @@
 
 # About Me:
 Hi~ I am Souh Xin :sint_maarten: :thought_balloon:<br>
-A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:<br>
+A first year student of **UTM** pursuing a Bachelor of Computer Science (Network and Security) :globe_with_meridians:<br>
+
 # Hobby:
 -Listening Music :headphones:<br>
 -Reading 	 :closed_book:<br>
@@ -38,7 +39,7 @@ A first year student of **UTM** studies in bachelor of computer science (network
 
 
 # TECHticians
-![Image](https://github.com/user-attachments/assets/386d1b25-e683-43b1-a00d-dcb93e8ed531)
+![Image](https://github.com/user-attachments/assets/19f52bc8-cb0c-4e11-81ae-802cf718ac9c)
 
 (From left to right) Kavi，Bei En, me , Firdaus
 
