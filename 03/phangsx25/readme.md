@@ -1,36 +1,26 @@
 
 #About Me:
-Hi~ I am Souh Xin :thought_balloon:
+Hi~ I am Souh Xin (:sint_maarten:) :thought_balloon:
 A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:
 
-
-
-currently studying:
+#currently studying:
 -Programming technique 1
 -Discrete Structure
 -Digital logic
 -Technology and Information System
 
-
-## My own reflection on my each assignment :flying_saucer: :mantelpiece_clock:
-
-
-
-
-
-|                |Reflection                   |
-|----------------||-----------------------------|
-|Quiz: PC Assembly #About Me:
-Hi~ I am Souh Xin :thought_balloon:
-A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:
+#Programming Languague:
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
 
+#Hobby:
+-Listening Music :headphones:
+-Reading 	:closed_book:
+-Napping  :zzz:
 
-currently studying:
--Programming technique 1
--Discrete Structure
--Digital logic
--Technology and Information System
+
 
 
 ## My own reflection on my each assignment :flying_saucer: :mantelpiece_clock:
