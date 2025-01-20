@@ -26,7 +26,9 @@ In my free time, I enjoy:
 ## 🌟 **Future Aspirations**  
 - 🚀 I aspire to become a 🧑‍💻 **Data Engineer**, where I can leverage data to solve real-world problems and build innovative solutions.
 
-## 🖋️ **🖋Assignment TI** 
+
+
+## 🖋️ **Assignment TIS** 
 
 | Assignment   | Description                                              | Date         | Reflection                                                                                                                                                                                                                      |
 |--------------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
