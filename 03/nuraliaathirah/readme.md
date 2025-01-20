@@ -6,7 +6,6 @@
 
 » I love taking pictures of people and scenery.
 
-» I have 28 cats at home.😸
 
 **Contact Information**
 
@@ -39,7 +38,8 @@ My Work :
 
 **Meet My TIS GROUP, TichTECHToe!⭕✖️**
 
-![photo_6312055578435894726_y](https://github.com/user-attachments/assets/58fe0009-9d2e-499a-bd13-e0c661a43f74)
+![image](https://github.com/user-attachments/assets/fad98fb8-60ef-4110-9884-c79308b763a8)
+
 *WEIYAO, IMAN, ALIA, ZIQIAN*
 
 
