@@ -39,6 +39,9 @@
 
 → I am proficient at using Canva. I have experienced making a poster for my college's event.
 
+![Canva](https://img.shields.io/badge/Canva-FFCC00?style=for-the-badge&logo=canva&logoColor=white)
+
+
 My Work : 
 ![photo_6334587363417767531_y](https://github.com/user-attachments/assets/ba5672c3-0c1a-4c3d-91a4-3e2dae70c2d3)
 
