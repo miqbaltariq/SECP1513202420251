@@ -24,7 +24,7 @@ Welcome to my GitHub profile! Here’s a snapshot of my journey so far and where
 - 🎧 **Listen to music**
 
 ## 🌟 **Future Aspirations**  
-- 🚀 I aspire to become a 🧑‍💻 **Data Engineer**, where I can leverage data to solve real-world problems and build innovative solutions.
+- 🚀 **I aspire to become a 🧑‍💻 **Data Engineer**, where I can leverage data to solve real-world problems and build innovative solutions.**
 
 
 
