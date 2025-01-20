@@ -15,6 +15,9 @@ currently studying:
 ## My own reflection on my each assignment :flying_saucer: :mantelpiece_clock:
 
 
+
+
+
 |                |Reflection                   |
 |----------------||-----------------------------|
 |Quiz: PC Assembly #About Me:
