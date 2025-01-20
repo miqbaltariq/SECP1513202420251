@@ -1,14 +1,20 @@
-Welcome to StackEdit!
+Hi~ I am Souh Xin :thought_balloon:
+A first year student of **UTM** studies in bachelor of computer science (network and security) :globe_with_meridians:
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+currently studying:
+-Programming technique 1
+-Discrete Structure
+-Digital logic
+-Technology and Information System
 
 
-## SmartyPants
+## My own reflection on my each assignment :flying_saucer: :mantelpiece_clock:
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
+|                              |Date                           |Reflection                   |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Quiz: PC Assembly |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 1:Poster|`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 2:Video |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 3:Academic Writing |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 4:Poster|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
