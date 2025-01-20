@@ -21,6 +21,7 @@
 **Technical Skills 👩‍💻**
 
 → I am proficient in using Microsoft Word, Excel and PowerPoint
+ [![Word](https://img.shields.io/badge/Word-blue?logo=word&style=for-the-badge)]
 
 → I have knowledge about VsCode, DevC++, HTML and Java
 
