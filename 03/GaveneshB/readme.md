@@ -24,6 +24,18 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 - **[Python Programming]**: My school provided private sessions of Python programming classes during my school days to prepare us for robotics competitions, which significantly developed my skills in Python programming.
 
 ---
+# 🎓 Education 
+  ## Bachelor of Data Engineering **Universiti Teknologi Malaysia (UTM) Johor Bahru, Skudai**
+  - **Duration**: [2024] - Present
+  - - **Achievements**: [Worked as a Crew in CODE 25]
+   
+   ## Pre University Education **[Kolej Matrikulasi Selangor]**
+  - - **Duration**: [2023] - [2024]
+  - - **Achievements**: [Class representetive], [Total CGPA of 3.96], ...
+
+  ## High School Education **[Sekolah Menengah Kebangsaan Bukit Sentosa]**
+  - - **Duration**: [2018] - [2023]
+  - - **Achievements**: [Represented my school national level in robotics championship]
 
 ## 💻 Projects
 
