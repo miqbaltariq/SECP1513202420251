@@ -3,7 +3,9 @@
 </div> 
 ---
 
-## 📚 About Me
+<div align="center">
+  <h2>🌐 About Me</h2>
+</div>
 
 Welcome to my ePortfolio! I'm a **student at UTM Johor Bahru, Skudai** with a passion for **Data Engineering and Computer Science**. Here, you'll find an overview of my work, projects, and experiences.
 
