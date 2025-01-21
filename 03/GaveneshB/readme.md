@@ -3,7 +3,7 @@
 </div> 
 ---
 
-<div align="center">
+<div align="left">
   <h2>🌐 About Me</h2>
 </div>
 
