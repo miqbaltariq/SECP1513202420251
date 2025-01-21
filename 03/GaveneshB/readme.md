@@ -16,7 +16,7 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 ## 📝 My Skills
 
 - **[Robotics]**:Competed at an international level in robotics by participating in the Virtual Robotics Championship, showcasing my skills in design, programming, and problem-solving.
-- **[Skill 2]**: *[Brief Description or Examples]*
+- **[Ethical Hacking]**:Completed an ethical hacking course on Udemy within 5 months during my SPM break, gaining valuable knowledge in cybersecurity and ethical hacking practices.
 - **[Skill 3]**: *[Brief Description or Examples]*
 
 ---
