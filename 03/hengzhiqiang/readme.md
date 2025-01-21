@@ -67,19 +67,18 @@ Here's a bit about me:
 
 
 ### 🤝MY GROUP - #HashTECH
-<img src="https://github.com/user-attachments/assets/3986ccea-eb41-4a25-9648-928d52bb285d" alt="gpic" width="650" />   
-
-<!-- ![gpic](https://github.com/user-attachments/assets/gpic.jpg) -->
+<img src="https://github.com/user-attachments/assets/3986ccea-eb41-4a25-9648-928d52bb285d" alt="gpic" width="650" />       
 
 
+           
 ### ✅TASKS under TIS
 |     **ASSIGNMENT**    |                                 **DESCRIPTION**                   |    **DATE**   | **REFLECTION**  |
 |-----------------------|-------------------------------------------------------------------|---------------|-----------------|
-|<p align="center">1</p>| Poster on Industry Talk: Overview of ICT Jobs                     |  23 NOV 2024  | Throughout the talk given by Clarity Techwork Sdn Bhd, I got a deeper understanding on the job scopes and the responsibilities of each position in the company and I am able to identify which careers align with my interests. The speakers also shared tons of the tips on how to survive in the career as ICT jobholder and it is useful in my future career. |
+|<p align="center">1</p>| Poster on Industry Talk: Overview of ICT Jobs                     |  23 NOV 2024  | Throughout the talk given by Clarity Techwork Sdn Bhd, I got a deeper understanding on the job scopes and the responsibilities of each position in the company and I am able to identify which careers align with my interests. The speakers also shared tons of the tips on how to survive in the career as ICT jobholder and it is useful for my future career. |
 |<p align="center">2</p>| Video on Industry Visit to UTM Digital                            |  10 DEC 2024  | Throughout the visit to UTM Digital, I got an overview of how the industry in the future be like, how's the data being transferred and proceesed, how each department collaborate with each other and what's the responsibilities of each department. I also gained a lot of knowledges on how to maintain work-life balance by the employees there. Hence, I can prepare myself for me upcoming industrial work.|
 |<p align="center">3</p>| Academic Report on Industry Talk: Skills in University & Industry |  17 DEC 2024  | Throughout the talk, I feel motivated through the sharing session from Encik Mohd Hakimi Iqmall on his real-life experience and the advices given by him for university. I will work hard on improving my soft skills, technical skills and hard skills in the university life. At the same time, the sharing session from Encik Nik Mohd Habibullah provided me with the overview of significant soft skills and hard skills needed to be outstanding for ICT jobholder or for the industry. |
 |<p align="center">4</p>| Poster on CODE ’25                                                |  11 JAN 2024  | I have joined the Power BI workshop for CODE '25. Throughout the hands-on workshop, I have learnt some basics on how to use Power BI app from the speaker's demo which enhance my understanding on visualising the data in a more attractive and insightful way.|
-|<p align="center">5</p>| Video on Design Thinking Project                                  |  17 JAN 2025  | Our Design Thinking Project is about IoT devices. My group worked on .....|
+|<p align="center">5</p>| Video on Design Thinking Project                                  |  17 JAN 2025  | Our Design Thinking Project is about IoT devices and my group worked on Home Appliance System. The electrical appliances in the house are connected to the wireless router. We can do real-time monitoring to control every appliances without considering the brand through our app, HASHREMOTE. With enhanced and strengthened guidelines or protocols, notifications or alarms will be sent to the users through our app in order to protect the appliances from damage and at the same time prevent the accidents from happening. |
 
 
 <!--CLARITY
