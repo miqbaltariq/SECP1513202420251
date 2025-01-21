@@ -15,7 +15,7 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 
 ## 📝 My Skills
 
-- **[Skill 1]**: *[Brief Description or Examples]*
+- **[Robotics]**:Competed at an international level in robotics by participating in the Virtual Robotics Championship, showcasing my skills in design, programming, and problem-solving.
 - **[Skill 2]**: *[Brief Description or Examples]*
 - **[Skill 3]**: *[Brief Description or Examples]*
 
