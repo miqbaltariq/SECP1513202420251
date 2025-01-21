@@ -1,6 +1,6 @@
 # Welcome to My e-portfolio🤩!
 
-Hi! I'm Tan Jiayie, and I'm excited to share my journey and accomplishments with you through this ePortfolio. Here, you’ll find my work assignments, projects, and reflections that showcase my skills and experiences based on TIS assessment over these few months. 
+Hi! I'm Tan Jiayie (A24CS0302 from TIS S06), and I'm excited to share my journey and accomplishments with you through this ePortfolio. Here, you’ll find my work assignments, projects, and reflections that showcase my skills and experiences based on TIS assessment over these few months. 
 
 Feel free to navigate through the sections to learn more about my work and interests. If you have any questions or would like to connect, don’t hesitate to reach out!
 
