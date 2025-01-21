@@ -51,7 +51,7 @@ These are my reflection for the assignments.
 
 | No. | Assignments | Reflections |
 |-----|---------------------|--------------------|
-| 1   | Poster(Industry talk 1)             |   airasia                |
+| 1   | Poster(Industry talk 1)             |      The talk from airasia was really captivating especially when they are sharing about their working experiences as software engineer in the big company.  I realized that skills needed not only technical abilities like programming, data management, and problem solving, but also soft skills like teamwork, adaptability, and effective communication. The assignmnet also shed light on the obstacles that software engineeer confront in their daily life. Moreover, I discovered it exciting how these issues are being addressed through inventive thinking, continual learning, and cross-team collaboration.          |
 | 2   | Video(Industry visit 1)             |          utmdigital         |
 | 3   | Academic writing(Industry talk 2)   |         report...          |
 | 4   |  Poster(Industry visit 2)           |          code 25         |
