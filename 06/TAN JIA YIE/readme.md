@@ -10,10 +10,7 @@ For example:
 
 |      Assessments          |                                 Refelctions                                                           |        
 |---------------------------|-------------------------------------------------------------------------------------------------------|
-|PC Assmble               |I appreciate this golden opportunity given by Dr. Iqbal to have hands-on practice assembling a PC. It 
-deepened my understanding of the concepts taught in the slides and helped me perform better in the quiz. Through this activity, I 
-gained a better understanding of hardware components and their functions. My teammates' cooperation made the task much easier and 
-more enjoyable. This experience also highlighted the importance of teamwork and practical application in learning.|
+|PC Assmble               |I appreciate this golden opportunity given by Dr. Iqbal to have hands-on practice assembling a PC. It deepened my understanding of the concepts taught in the slides and helped me perform better in the quiz. Through this activity, I gained a better understanding of hardware components and their functions. My teammates' cooperation made the task much easier and more enjoyable. This experience also highlighted the importance of teamwork and practical application in learning.|
 |Assignment 1 (Industry Talk Poster)             |`'Isn't this fun?'`            |
 |Assignment 2 (Industrial Visit Video)               |`"Isn't this fun?"`            |
 |Assignment 3 (Academic Writing)             |`-- is en-dash, --- is em-dash`|
