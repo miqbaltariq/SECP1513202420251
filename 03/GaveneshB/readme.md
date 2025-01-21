@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm <strong>Gavenesh A/L Batumalai</strong> 👋👋</h1>
+  <h1>Hi, I'm <strong>🤓🥸Gavenesh A/L Batumalai</strong> 👋👋</h1>
 </div> 
----
 
 <div align="left">
   <h2>🌐 About Me</h2>
