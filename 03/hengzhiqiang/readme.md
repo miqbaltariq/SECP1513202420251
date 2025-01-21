@@ -73,7 +73,7 @@
 |<p align="center">4</p>| Poster on CODE ’25                                                |  11 JAN 2024  | I have joined the Power BI workshop for CODE '25. Throughout the hands-on workshop, I have learnt some basics on how to use Power BI app from the speaker's demo which enhance my understanding on visualising the data in a more attractive and insightful way.|
 |<p align="center">5</p>| Video on Design Thinking Project                                  |  17 JAN 2025  | Our Design Thinking Project is about IoT devices and my group worked on Home Appliance System. The electrical appliances in the house are connected to the wireless router. We can do real-time monitoring to control every appliances without considering the brand through our app, HASHREMOTE. With enhanced and strengthened guidelines or protocols, notifications or alarms will be sent to the users through our app in order to protect the appliances from damage and at the same time prevent the accidents from happening. |
 
-👉Click here to access all the assignments: [📚](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/hengzhiqiang/TIS%20Assignments) 
+👉Click the books to access all the assignments: [📚](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/hengzhiqiang/TIS%20Assignments) 
 
 
 ### ✅OTHER EVENTS
