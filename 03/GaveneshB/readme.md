@@ -1,13 +1,11 @@
 <div align="center">
-  <h1>Hi, I'm <strong>Gavenesh A/L Batumalai</strong> 👋</h1>
-</div>
-
-# 👋
+  <h1>Hi, I'm <strong>Gavenesh A/L Batumalai</strong> 👋👋</h1>
+</div> 
 ---
 
 ## 📚 About Me
 
-I'm currently a student at UTM,Johor Bahru Skudai, with a focus on DATA ENGINEERING. I have a background in **[Brief Background Information]**, and I love working on projects that involve **[Your Key Skills or Interests]**.
+Welcome to my ePortfolio! I'm a **student at UTM Johor Bahru, Skudai** with a passion for **Data Engineering and Computer Science**. Here, you'll find an overview of my work, projects, and experiences.
 
 ---
 
