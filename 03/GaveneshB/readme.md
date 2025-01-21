@@ -1,6 +1,6 @@
-# Hi, I'm **[Your Name]** 👋
+# Hi, I'm **[GAVENESH A/L BATUMALAI]** 👋
 
-Welcome to my ePortfolio! I'm a **[Your Profession/Field of Study]** with a passion for **[Your Interests or Specializations]**. Here, you'll find an overview of my work, projects, and experiences.
+Welcome to my ePortfolio! I'm a **[Student,Studying Data engineering ]** with a passion for **[Big Data Processing,Database Management and Etc.] Here, you'll find an overview of my work, projects, and experiences.
 
 
 ---
