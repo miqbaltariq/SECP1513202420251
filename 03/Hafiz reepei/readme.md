@@ -56,9 +56,9 @@ ASSIGNMENT TIS
 
 |ASSIGNMENT       |DATE                           | REFLECTION                        | ATTACHMENT                     |
 |-----------------|-------------------------------|-----------------------------------|--------------------------------|
-| Single backticks | \`'Isn't this fun?'\`          | `'Isn't this fun?'`               | `'Isn't this fun?'`            |
-| Quotes          | \`"Isn't this fun?"\`          | `"Isn't this fun?"`               | `"Isn't this fun?"`            |
-| Dashes          | \`-- is en-dash, --- is em-dash\` | `-- is en-dash, --- is em-dash`   | `-- is en-dash, --- is em-dash` |
-
+| PC ASSEMBLING   | \`'Isn't this fun?'\`          | `'Isn't this fun?'`               | `'Isn't this fun?'`            |
+| Industry Talk (Poster)         | \`"Isn't this fun?"\`          | `"Isn't this fun?"`               | `"Isn't this fun?"`            |
+| Industrial Visit UTMDigital ( Video)        | \`-- is en-dash, --- is em-dash\` | `-- is en-dash, --- is em-dash`   | `-- is en-dash, --- is em-dash` |
+| 
 
 
