@@ -21,8 +21,7 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 - **[Ethical Hacking]**:    Completed an ethical hacking course on Udemy within 5 months during my SPM break, gaining valuable knowledge in cybersecurity and 
                             ethical hacking practices.
   
-- **[Python Programming]**: My school provided private sessions of Python programming learning classes during my school days to prepare us for robotics 
-                            competitions, which developed my skill in Python programming.
+- **[Python Programming]**: My school provided private sessions of Python programming classes during my school days to prepare us for robotics competitions, which significantly developed my skills in Python programming.
 
 ---
 
