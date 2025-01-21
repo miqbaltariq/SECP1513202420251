@@ -1,13 +1,13 @@
-# Hi, I'm **[GAVENESH A/L BATUMALAI]** 👋
+<div align="center">
+  <h1>Hi, I'm <strong>Gavenesh A/L Batumalai</strong> 👋</h1>
+</div>
 
-Welcome to my ePortfolio! I'm a **[Student,Studying Data engineering ]** with a passion for **[Big Data Processing,Database Management and Etc.] Here, you'll find an overview of my work, projects, and experiences.
-
-
+# 👋
 ---
 
 ## 📚 About Me
 
-I'm currently a **[Your Current Position or Educational Status]**, with a focus on **[Your Focus Area]**. I have a background in **[Brief Background Information]**, and I love working on projects that involve **[Your Key Skills or Interests]**.
+I'm currently a student at UTM,Johor Bahru Skudai, with a focus on DATA ENGINEERING. I have a background in **[Brief Background Information]**, and I love working on projects that involve **[Your Key Skills or Interests]**.
 
 ---
 
