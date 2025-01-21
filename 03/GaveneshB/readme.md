@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm <strong>🤓🥸Gavenesh A/L Batumalai</strong> 👋👋</h1>
+  <h1>Hi there, I'm <strong>🤓🥸Gavenesh A/L Batumalai</strong> 👋👋</h1>
 </div> 
 
 <div align="left">
-  <h2>🌐 About Me</h2>
+  <h2>🌐<strong> About Me</h2>
 </div>
 
 Welcome to my ePortfolio! I'm a **student at UTM Johor Bahru, Skudai** with a passion for **Data Engineering and Computer Science**. Here, you'll find an overview of my work, projects, and experiences.
