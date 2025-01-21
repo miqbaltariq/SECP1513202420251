@@ -9,7 +9,7 @@
   <h2>🌐<strong> About Me</h2>
 </div>
 
-Welcome to my ePortfolio! I'm a **student at UTM Johor Bahru, Skudai** with a passion for **Data Engineering and Computer Science**. Here, you'll find an overview of my work, projects, and experiences.
+Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecstatic and overjoyed to be pursuing my degree in Data Engineering. Every single day is an exciting new adventure that brings me closer to fulfilling my passion for Computer Science and making a significant impact in this dynamic field.
 
 ---
 
