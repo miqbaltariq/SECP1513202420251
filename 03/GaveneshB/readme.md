@@ -35,7 +35,7 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 
   ## High School Education **[Sekolah Menengah Kebangsaan Bukit Sentosa]**
   - - **Duration**: [2018] - [2023]
-  - - **Achievements**: [Represented my school national level in robotics championship]
+  - - **Achievements**: [I proudly represented my school at the national robotics championship.]
 
 ## 💻 Projects
 
