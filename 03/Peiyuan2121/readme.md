@@ -59,24 +59,24 @@ University 🎓
 ---
 
 **2. Video--Industry Visit: UTM Digital**<br>
-`Date:10 Dec 2024`
+`Date:10 Dec 2024`<br>
 [![image](https://github.com/user-attachments/assets/85eda609-187d-4d31-aa52-32ba5fb2cafd)](https://youtu.be/FzKdEfEXHnY?si=b6faTp7APFujJAqx)<br>
 
 **Click here☝️to view our video**<br>
-
-Reflection:This industry visit provided a deeper unnderstanding about our courses。They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
+<br>
+**Reflection:** This industry visit provided a deeper unnderstanding about our courses。They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
 
 ---
 
 **3. Academic Writing--Industry Talk 2: "Skill required for computer science and skills required by industry"** <br>
 `Date:17 Dec 2024`<br>
-Reflection:The speaker-Mr Hakimi shared a lot of working experiences and emphasized the important of technical skill and management skill on industrial for a  computer science student.He also encounrage student to develop their soft skill during their degree such as communication skill and leadership by participate workshop and event.I gained a lot of valuable lessons and knowledge from this talk.
+**Reflection:** The speaker-Mr Hakimi shared a lot of working experiences and emphasized the important of technical skill and management skill on industrial for a  computer science student.He also encounrage student to develop their soft skill during their degree such as communication skill and leadership by participate workshop and event.I gained a lot of valuable lessons and knowledge from this talk.
 
 ---
 
 **4. Poster--Power BI workshop**<br>
 `Date:11 Jan 2025`<br>
-Reflection:From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
+**Reflection:** From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
 
 ---
 
@@ -85,7 +85,7 @@ Reflection:From this workshop,I have learnt and using Power BI to visiualize and
 [![image](https://github.com/user-attachments/assets/43649ed9-c63d-4615-bba5-56b1e81e20a4)
 ](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI) <br>
 **Click here☝️to view our video**<br>
-Reflection:
+**Reflection:**
 
 
 ## Degree courses:
