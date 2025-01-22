@@ -36,9 +36,9 @@
 Primary School🔤
 <pre>SJK (C) Kampung Tengah</pre>
 Secondary School 🏫
-<pre>SMJK SEG HWA </pre>
+<pre>SMJK SEG HWA <br> Result:9A's </pre>
 Pre-University 📚
-<pre>University Technology Malaysia - Foundation in Physical Science</pre>
+<pre>University Technology Malaysia - Foundation in Physical Science<br> cgpa:4.00 </pre>
 University 🎓
 <pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre> 
 
@@ -48,14 +48,34 @@ University 🎓
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <br>
 
-## My Team
+## My Team⏭️⏭️**TECH-nically rebuild**<br>
+<i> Assigment:<i><br>
+**1. Poster--Industry Talk 1: AirAsia**<br>
+`Date:23 Nov 2024`
+<img src="https://github.com/user-attachments/assets/f4ad8022-ffba-487a-ba97-d085e19f5553" style="width: 40%" />
 
-**Tech-nically rebuild**
-**Activity:*
-**1.**
+**Reflection:** Attending the AirAsia industry talk was an enlightening experience that offered invaluable insights into the software development and travel industry.The session provided a deeper understanding of how AirAsia operates,and the working culture in AirAsia.The speakers also shared valuable insights into  leadership and teamwork in a challenging and dynamic environment. Their also emphasis on fostering innovation and provide some strategies to maintain productivity when doing your job.
 
+---
 
-  
+**2. Video--Industry Visit: UTM Digital**<br>
+`Date:10 Dec 2024`
+Reflection:This industry visit provided a deeper unnderstanding about our courses。They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
+
+---
+
+**3. Academic Writing--Industry Talk 2: "Skill required for computer science and skills required by industry"** <br>
+`Date:17 Dec 2024`<br>
+Reflection:The speaker-Mr Hakimi shared a lot of working experiences and emphasized the important of technical skill and management skill on industrial for a  computer science student.He also encounrage student to develop their soft skill during their degree such as communication skill and leadership by participate workshop and event.I gained a lot of valuable lessons and knowledge from this talk.
+
+---
+
+**4. Poster--Power BI workshop**<br>
+`Date:11 Jan 2025`<br>
+Reflection:From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
+
+---
+
 ## Degree courses:
 
 <i> **YEAR 1 SEM 1**<i>
