@@ -61,8 +61,10 @@ University 🎓
 **2. Video--Industry Visit: UTM Digital**<br>
 `Date:10 Dec 2024`
 
-[![Tech-nically rebuild](https://github.com/user-attachments/assets/202275e8-d955-45c9-a4f8-036b26c25cea)](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI)
+[![image](https://github.com/user-attachments/assets/43649ed9-c63d-4615-bba5-56b1e81e20a4)
+](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI) <br>
 
+**Click here☝️to view our video**<br>
 
 Reflection:This industry visit provided a deeper unnderstanding about our courses。They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
 
