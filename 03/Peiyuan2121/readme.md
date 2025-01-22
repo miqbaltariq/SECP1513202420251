@@ -60,6 +60,8 @@ University 🎓
 
 **2. Video--Industry Visit: UTM Digital**<br>
 `Date:10 Dec 2024`
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 Reflection:This industry visit provided a deeper unnderstanding about our courses。They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
 
 ---
