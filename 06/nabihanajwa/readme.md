@@ -8,8 +8,8 @@ A passionate and dedicated computer science student with a keen interest in cybe
 
 <h2 align="center">📚Education</h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="C:\Users\Admin\Pictures\gambar depan fakulti.jpg" alt="Your Photo" style="border-radius: 50%; width: 100px; height: 100px; margin-right: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-direction: row-reverse;">
+  <img src="https://github.com/nabihanajwa/picture/blob/main/gambar depan fakulti.jpg" alt="Your Photo" style="border-radius: 50%; width: 100px; height: 100px;">
   <ul>
     <li>👩🏻‍🎓 SEKOLAH AGAMA MENENGAH TINGGI SULTAN HISAMUDDIN **2018 - 2020**</li>
     <li>👩🏻‍🎓 KOLEJ ISLAM SULTAN ALAM SHAH **2021 - 2023**</li>
