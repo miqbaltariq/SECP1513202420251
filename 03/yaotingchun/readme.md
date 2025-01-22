@@ -5,6 +5,9 @@
 <div align="right">
 <img src="[https://github.com/Angela127/Angela127/blob/9299c7a159095f0ed3202c6335708dbe5812c804/cat-computer.gif](https://github.com/yaotingchun/gif/blob/main/lethimcook)" align="right" style="width: 100%; height: 80%"/>
 </div> 
+
+<br>
+
 - 1st Year Student of University of Technology Malaysia (UTM). 🏫 
 - Currently pursuing Bachelor of Computer Science (Data Engineering). 🎓
 - Champion of CodeRush'25 UTM. 🥇
