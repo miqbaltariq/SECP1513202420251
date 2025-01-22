@@ -36,9 +36,9 @@
 Primary School🔤
 <pre>SJK (C) Kampung Tengah</pre>
 Secondary School 🏫
-<pre>SMJK SEG HWA <br> Result:9A's </pre>
+<pre>SMJK SEG HWA <br> [Result:9A's] </pre>
 Pre-University 📚
-<pre>University Technology Malaysia - Foundation in Physical Science<br> cgpa:4.00 </pre>
+<pre>University Technology Malaysia - Foundation in Physical Science<br> [cgpa:4.00] </pre>
 University 🎓
 <pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre> 
 
