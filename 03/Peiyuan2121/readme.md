@@ -48,11 +48,13 @@ University 🎓
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <br>
 
-## My e-portfolio
+## My Team
 
-<td width="180%">
-<a href="file:///C:/Users/User/Downloads/html5up-spectral/index.html#">E Portfolio</a>
-<br>
+**Tech-nically rebuild**
+**Activity:*
+**1.**
+
+
   
 ## Degree courses:
 
