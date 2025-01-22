@@ -60,9 +60,7 @@ University 🎓
 
 **2. Video--Industry Visit: UTM Digital**<br>
 `Date:10 Dec 2024`
-
-[![image](https://github.com/user-attachments/assets/43649ed9-c63d-4615-bba5-56b1e81e20a4)
-](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI) <br>
+[![image](https://github.com/user-attachments/assets/85eda609-187d-4d31-aa52-32ba5fb2cafd)](https://youtu.be/FzKdEfEXHnY?si=b6faTp7APFujJAqx)<br>
 
 **Click here☝️to view our video**<br>
 
@@ -80,6 +78,14 @@ Reflection:The speaker-Mr Hakimi shared a lot of working experiences and emphasi
 `Date:11 Jan 2025`<br>
 Reflection:From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
 
+---
+
+**5. Design thinking**<br>
+
+[![image](https://github.com/user-attachments/assets/43649ed9-c63d-4615-bba5-56b1e81e20a4)
+](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI) <br>
+**Click here☝️to view our video**<br>
+Reflection:
 
 
 ## Degree courses:
