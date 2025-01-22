@@ -93,7 +93,7 @@
 
                                                                                               
 ## 📲CONNECT WITH ME 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:zhiqiang0317@gmail.com?subject=Hello%20from%20GitHub) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=zhiqiang0317@gmail.com&su=Hello%20from%20GitHub) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hengzhiqiang)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2383C1E1.svg?logo=WhatsApp&logoColor=white)](https://wa.me/601111856068)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@noahhengg) 
