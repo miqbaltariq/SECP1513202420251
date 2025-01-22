@@ -93,8 +93,22 @@
 
                                                                                               
 ## 📲CONNECT WITH ME 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/heng-zhi-qiang-zhi-qiang-666188194/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:zhiqiang0317@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hengzhiqiang)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2383C1E1.svg?logo=WhatsApp&logoColor=white)](https://wa.me/601111856068)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@noahhengg) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/z.qiang0317)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011064066564)
+
+
+
+
+
+<!--
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/hengzhiqiang/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50">](https://www.instagram.com/z.qiang0317)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/120px-WhatsApp.svg.png" alt="WhatsApp" width="50" height="50">](https://www.wasap.my/601111856068)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="45" height="35">](mailto:zhiqiang0317@gmail.com)
+-->
 
 
