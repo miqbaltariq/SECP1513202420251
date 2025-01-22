@@ -85,7 +85,7 @@ University 🎓
 [![image](https://github.com/user-attachments/assets/43649ed9-c63d-4615-bba5-56b1e81e20a4)
 ](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI) <br>
 **Click here☝️to view our video**<br>
-**Reflection:**
+**Reflection:**This project has taught me a lot og things. It has not only enhanced my problem-solving skills but also improved my communication skills, which is essential for good teamwork to complete this project.Next,it made me realize the various important stages needed when developing a product, giving me a clearer mindset to face any difficulties and problems in future. It also helped enhance some soft skills. For example, I learned video editing when doing this project . It cultivated my creativity and imagination."
 
 
 ## Degree courses:
