@@ -74,7 +74,7 @@ Reflection:The speaker-Mr Hakimi shared a lot of working experiences and emphasi
 `Date:11 Jan 2025`<br>
 Reflection:From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
 
----
+
 
 ## Degree courses:
 
