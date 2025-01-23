@@ -53,7 +53,6 @@
 
 ## **RECENT ACHIEVEMENTS**
 ![Screenshot 2025-01-22 194914](https://github.com/user-attachments/assets/cb68eabe-ca39-435a-8cf1-f21ade97aa76)
-### <h1 align="centre"> CHAMPION OF CODERUSH'25 UTM </h1>
 
 
 
