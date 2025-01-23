@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yaotingchun&color=blueviolet&label=VISITORS)
 # **Hi there! My name is Chun Yao Ting. 👋**
 
-**ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡**
+## ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡
 
 - 1st Year Student of University of Technology Malaysia (UTM). 🏫 
 - Currently pursuing Bachelor of Computer Science (Data Engineering). 🎓
@@ -14,7 +14,7 @@
 
 ***
 
-**EDUCATION**
+## EDUCATION
 * Primary School
   - SJK(C) Pu Sze
 
@@ -33,13 +33,13 @@
 
 ***
 
-**HOBBY**
+## HOBBY
 - Night walk 🚶
 - Music 🎼
 - Play Overcooked 🧑‍🍳
 
 ***
 
-## <h1 align="center"> GROUP #HASHTECH #️⃣ </h1>
+### <h1 align="center"> GROUP #HASHTECH #️⃣ </h1>
 ![WhatsApp Image 2025-01-20 at 21 39 08_adc9cb40](https://github.com/user-attachments/assets/2aa2904e-3b21-4d30-a831-b4ec1bca4d9e)
 
