@@ -4,7 +4,7 @@ Welcome to my e-portfolio! Here, you'll find highlights of my work, including as
 
 ---
 ## <img src="https://gdurl.com/xR3q" width='40' align="left"/> Navigate
-### **[About Me](#about-me)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Contact Me](#-contact-me)** 
+### **[About Me](#-about-me)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Contact Me](#-contact-me)** 
 ###  **[My Course & Subject](#--my-course--subject)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **[My Groupmates](#-my-groupmates)** 
 
 ### **[Assignments](#-assignments)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Project](#design-thinking-project)**
@@ -20,7 +20,7 @@ Welcome to my e-portfolio! Here, you'll find highlights of my work, including as
 - 🎯 **Goals:** I aim to successfully complete my degree  and achieve financial stability in the future.
 - 💬 **Fun Fact:** I like to play Modded Minecraft and often enjoy the discovery of new mechanics within the modded game
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -31,7 +31,7 @@ Let's connect! Feel free to reach out for collaborations, feedback, or just a ch
 - 📧 Email: [tylerchok19@gmail.com](mailto:tylerchok19@gmail.com)
 - 🎨 Instagram: [tylerrgamess](https://www.instagram.com/tylerrgamess)
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -54,7 +54,7 @@ I'm currently pursuing a **Bachelor of Computer Science (Networks and Security) 
 	-   ⏳ Time Management
 	-   🗣️ Communication
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -73,7 +73,7 @@ Together, we formed:
 
 We had collaborated and encouraged each other throughout this semester as a team, leading us to achieve great feats and to be proud of what we had produced throughout this semester! 💪
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -98,7 +98,7 @@ Finally, with all the information gathered, we were asked to answer a short quiz
 
  </div>
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -128,7 +128,7 @@ Finally, we were tasked to extract all the information from the video and create
 >
 ><b>Finally, I also had a chance to get to know my groupmates and understand them better. As it was the first assignment, we had slight friction in communication as we did not know each other well yet. However, we swiftly resolved this issue through effective communication with each other and respecting each other. 
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -159,7 +159,7 @@ alt="Assignment 2 Video"/>  </a>
 >
 > <b>Finally, since this visit was a physical acitivity, I got to finally meet my group members and have fun together recording various clips and taking notes for what would be our submission of the video assignment. It had brought us closer as groupmates and friends, and communication was much more smoother compared to Assignment 1.
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -193,7 +193,7 @@ Finally, we had to create an Academic Writing Report by consolidating all the in
 >
 >
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
@@ -213,7 +213,7 @@ Finally, from all the information gathered from the workshop, we were tasked to 
 > 
 > <b> This assignment was similar to the first assignment in terms of deliverables where we had to make a poster. Since my group and I had already done 3 assignments together, and one poster already, we were confident we could make another good submission.
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 <br>
@@ -250,7 +250,7 @@ alt="Design Thinking Project Video"/>  </a>
 > 
 ><b> This project, I felt was the most impactful to me as it had taught me that with teamwork, great things can be achieved. My friends and I got together and had a lot of fun designing our presentation materials, low-fidelity prototype and more. Our little arguments about little imperfections or issues did not split the group but only strengthened it as we all wanted to do our best for this project, and I belive, we did achieve our best.
 
-<sub> *[Back to Top](#-navigate)* <sub>
+<sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
 ---
 
