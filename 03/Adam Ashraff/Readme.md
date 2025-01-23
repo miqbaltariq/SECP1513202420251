@@ -47,7 +47,7 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=radical)  
 
 # 🖥️ TECHNOLOGY & INFORMATION SYSTEM
-This is my group member consist of [Nisa](https://github.com/miqbaltariq/SECP1513202420251/tree/8be2e7070aa2dcd776d7bfe886a8ac5d031144e3/03/knisa00),[Hafiz](https://github.com/miqbaltariq/SECP1513202420251/tree/45be1e4155c3e52ad3324ff1e8b8121febc4964d/03/Hafiz%20reepei),[ Kai loon](https://github.com/miqbaltariq/SECP1513202420251/tree/689cff3ed5d0cfc38faaacb335d9e54742f8e7bb/03/chuakailoon), [Tyler](https://github.com/miqbaltariq/SECP1513202420251/tree/e16c53eeca94eb38375808d2f720348efeefb41d/03/TylerChok) and I.
+This is my group member consist of [Nisa](https://github.com/miqbaltariq/SECP1513202420251/tree/8be2e7070aa2dcd776d7bfe886a8ac5d031144e3/03/knisa00),[Hafiz](https://github.com/miqbaltariq/SECP1513202420251/tree/45be1e4155c3e52ad3324ff1e8b8121febc4964d/03/Hafiz%20reepei),[ Kai loon](https://github.com/miqbaltariq/SECP1513202420251/tree/689cff3ed5d0cfc38faaacb335d9e54742f8e7bb/03/chuakailoon), [Tyler](https://github.com/miqbaltariq/SECP1513202420251/tree/e16c53eeca94eb38375808d2f720348efeefb41d/03/TylerChok) and me(Adam).
 
 ![WhatsApp Image 2025-01-13 at 21 18 19_35187715](https://github.com/user-attachments/assets/59b4590e-7f3c-4425-9ec0-d2174b6d803b)
 
