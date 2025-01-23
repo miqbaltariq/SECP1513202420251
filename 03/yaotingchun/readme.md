@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yaotingchun&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=yaotingchun&color=blueviolet&label=VISITORS)
 # **Hi there! My name is Chun Yao Ting. 👋**
 
 **ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡**
