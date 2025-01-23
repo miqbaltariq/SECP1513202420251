@@ -1,15 +1,13 @@
-
 # <img src="https://gdurl.com/CGdKD" width='40' align="left"/> Hello there! Welcome to My E-Portfolio
 
 Welcome to my e-portfolio! Here, you'll find highlights of my work, including assignments and a project that showcases my skills and learning journey throughout the Technology and Information Systems subject during my first year of university. Each piece comes with a reflection on what I've learnt, challenges faced and more. Let's dive in! 🚀
 
 ---
-
 ## <img src="https://gdurl.com/xR3q" width='40' align="left"/> Navigate
-### **[About Me](#--about-me)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Contact Me](#contact-me)** 
-###  **[My Course & Subject](#my-course--subject)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **[My Groupmates](#my-groupmates)** 
+### **[About Me](#about-me)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Contact Me](#-contact-me)** 
+###  **[My Course & Subject](#--my-course--subject)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **[My Groupmates](#-my-groupmates)** 
 
-### **[Assignments](#assignments)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Project](#project)**
+### **[Assignments](#-assignments)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Project](#design-thinking-project)**
 
 ---
 
@@ -22,6 +20,8 @@ Welcome to my e-portfolio! Here, you'll find highlights of my work, including as
 - 🎯 **Goals:** I aim to successfully complete my degree  and achieve financial stability in the future.
 - 💬 **Fun Fact:** I like to play Modded Minecraft and often enjoy the discovery of new mechanics within the modded game
 
+<sub> *[Back to Top](#-navigate)* <sub>
+
 ---
 
 ## <img src="https://gdurl.com/yIat" width='40' align="left"/> Contact Me
@@ -30,6 +30,8 @@ Let's connect! Feel free to reach out for collaborations, feedback, or just a ch
 
 - 📧 Email: [tylerchok19@gmail.com](mailto:tylerchok19@gmail.com)
 - 🎨 Instagram: [tylerrgamess](https://www.instagram.com/tylerrgamess)
+
+<sub> *[Back to Top](#-navigate)* <sub>
 
 ---
 
@@ -52,11 +54,11 @@ I'm currently pursuing a **Bachelor of Computer Science (Networks and Security) 
 	-   ⏳ Time Management
 	-   🗣️ Communication
 
+<sub> *[Back to Top](#-navigate)* <sub>
+
 ---
 
-<img src ="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width='40' align= "left"/> 
-
-<h3> My Groupmates </h3>
+## <img src ="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width='40' align= "left"/> My Groupmates
 
 Working on the various assignments and projects were made even better with my great team members! Here's a shout-out to my groupmates:
 
@@ -67,9 +69,11 @@ Working on the various assignments and projects were made even better with my gr
 
 Together, we formed:
 
-<h3> InfiniteTECH
+<h3> InfiniteTECH </h3>
 
 We had collaborated and encouraged each other throughout this semester as a team, leading us to achieve great feats and to be proud of what we had produced throughout this semester! 💪
+
+<sub> *[Back to Top](#-navigate)* <sub>
 
 ---
 
@@ -93,6 +97,8 @@ Finally, with all the information gathered, we were asked to answer a short quiz
 ><b> I felt that this lab had given me a great opportunity to explore the hardware side of IT and gave me confidence for me to explore my own desktop tower at home for purposes such as upgrading, learning or just tinkering and having fun in my own time.
 
  </div>
+
+<sub> *[Back to Top](#-navigate)* <sub>
 
 ---
 
@@ -122,6 +128,8 @@ Finally, we were tasked to extract all the information from the video and create
 >
 ><b>Finally, I also had a chance to get to know my groupmates and understand them better. As it was the first assignment, we had slight friction in communication as we did not know each other well yet. However, we swiftly resolved this issue through effective communication with each other and respecting each other. 
 
+<sub> *[Back to Top](#-navigate)* <sub>
+
 ---
 
 ### Assignment 2: 📽️ [Video on an Industrial Visit to UTMDigital](https://youtu.be/UBcM0EYooz4)
@@ -150,6 +158,8 @@ alt="Assignment 2 Video"/>  </a>
 > <b>Moreover, since the task involved video creation, I got to master the fundamentals of video editing and adding effects, music and more to improve the video's entertainment value.
 >
 > <b>Finally, since this visit was a physical acitivity, I got to finally meet my group members and have fun together recording various clips and taking notes for what would be our submission of the video assignment. It had brought us closer as groupmates and friends, and communication was much more smoother compared to Assignment 1.
+
+<sub> *[Back to Top](#-navigate)* <sub>
 
 ---
 
@@ -183,6 +193,8 @@ Finally, we had to create an Academic Writing Report by consolidating all the in
 >
 >
 
+<sub> *[Back to Top](#-navigate)* <sub>
+
 ---
 
 ### Assignment 4: 📄 [Poster on PowerBI Workshop (CODE'25)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/TylerChok/Assignment%204%20-%20Poster%20on%20the%20PowerBI%20Workshop%20(CODE'25).pdf)
@@ -201,7 +213,10 @@ Finally, from all the information gathered from the workshop, we were tasked to 
 > 
 > <b> This assignment was similar to the first assignment in terms of deliverables where we had to make a poster. Since my group and I had already done 3 assignments together, and one poster already, we were confident we could make another good submission.
 
+<sub> *[Back to Top](#-navigate)* <sub>
+
 ---
+<br>
 
 ## <img src="https://gdurl.com/gQ3X" width="40" align='left'/>Design Thinking Project
 
@@ -235,10 +250,12 @@ alt="Design Thinking Project Video"/>  </a>
 > 
 ><b> This project, I felt was the most impactful to me as it had taught me that with teamwork, great things can be achieved. My friends and I got together and had a lot of fun designing our presentation materials, low-fidelity prototype and more. Our little arguments about little imperfections or issues did not split the group but only strengthened it as we all wanted to do our best for this project, and I belive, we did achieve our best.
 
+<sub> *[Back to Top](#-navigate)* <sub>
+
 ---
+
+
 
 ### That's all for now for my E-Portfolio. Thank you for stopping by! 💖 I hope you enjoyed exploring my journey. 😊
 
 ### Till' we meet again! &nbsp; &nbsp; <img src="https://gdurl.com/CGdKD" width='40'/>
-
----
