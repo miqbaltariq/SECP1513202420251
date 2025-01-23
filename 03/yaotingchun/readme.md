@@ -55,7 +55,8 @@
 ![Screenshot 2025-01-22 194914](https://github.com/user-attachments/assets/cb68eabe-ca39-435a-8cf1-f21ade97aa76)
 
 ## RECENT SEMINAR: BLOCKCHAIN TECHTALK
-![Screenshot 2024-11-19 203442](https://github.com/user-attachments/assets/b1839b57-fd62-41c0-bd0b-f427c94582ae)
+![Screenshot 2025-01-23 220549](https://github.com/user-attachments/assets/509179f0-2b5a-4996-9271-91514adfa36b)
+
 
 
 
