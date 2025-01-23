@@ -4,7 +4,7 @@
 
 
 
-#About Me  :sint_maarten: :thought_balloon:
+# About Me  :sint_maarten: :thought_balloon:
 
 
 
@@ -12,8 +12,9 @@
 
 :seal: Name  :Phang Souh Xin <br>
 :pisces: Birthday:25/02/2005 <br>
-Hometown:Johor Bahru, Johor<br><p>Johor Bahru, Johor <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Johor.svg/1200px-Flag_of_Johor.svg.png" alt="Johor Flag" width="30"></p>
-Hobby: 
+<img src="https://github.com/user-attachments/assets/32a400f5-ac37-48d2-86a3-0c2bfb60b84a" alt="Image" width="25" />
+ Hometown:Johor Bahru, Johor<br>
+	:stars:Hobby: 
 <li>🎧 Listening Music</li>
        <li>📕 Reading</li>
        <li>💤 Napping</li>
@@ -70,3 +71,7 @@ I enjoy finding ways to solve problems and make a real difference :eyes: <br>
 | **Assignment 2: Video**        | The industry visit to UTM Digital was an eye-opening experience. It provided insights into the internal systems supporting our university, such as the level-based approach to resolving reported issues. Additionally, I learned how to make full use of my UTM ID. Beyond accessing the student portal and UTM WiFi, I discovered the availability of free UTM-licensed software, which not only reduces costs but also provides essential academic tools to support my studies. |
 | **Assignment 3: Academic Writing** | This talk has given me a clearer direction for achieving success in this field. I will focus on mastering my fundamentals, solving problems, and applying knowledge everywhere I can. I will also join clubs and events that will help me learn from professionals, and build strong networks, improving both technical and interpersonal skills for this field. |
 | **Assignment 4: Poster**       | This workshop gave me a whole new perspective on bioinformatics. Before attending, I did not know much about it or how it actually worked. Ms. Sayang explained how biology and computer science come together in this field, which I found really interesting. As a fresh graduate and product data analyst, she shared her own experiences and explained how bioinformatics is used in different areas. She also talked about new trends and how they are changing biological research. This workshop helped me understand the potential of bioinformatics. |
+
+
+
+
