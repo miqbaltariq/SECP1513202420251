@@ -51,8 +51,11 @@
 |<p align="center">4</p>| Poster (CODE'25: PowerBI Workshop)                                                |  11 JAN 2024  | <p align="justify">Throughout the workshop, I am able to master the fundamentals of PowerBI, including the key terms of PowerBI, the process to come out with the report and dashboard, as well as the implementation of different visualization for different scenarios. PowerBI is such a powerful tool to visualize all the raw data into informative insights to help with decision making. As a data engineering students, it is a great opportunity to attend a workshop like this as it can be used as my extra skillset in my future workplace. Additionally, it helps to sharpen my designing skills by exploring more useful features in Canva. </p>|
 |<p align="center">5</p>| Design Thinking Project (HashRemote)                                  |  17 JAN 2025  | <p align="justify">Throughout this project, I am able to enhance my understanding on Internet of Things by applying its theory into actual solution, which is HashRemote. Besides, as I took part in designing the application prototype, I am also able to explore some of the UI/UX design knowledge. Last but not least, I now understood the flow of design thinking and how to implement it with the process like empathize, define, ideate, prototyping and testing phase.  </p> |
 
-## **RECENT ACHIEVEMENTS**
+## **RECENT ACHIEVEMENTS: CHAMPION OF CODERUSH'25 UTM**
 ![Screenshot 2025-01-22 194914](https://github.com/user-attachments/assets/cb68eabe-ca39-435a-8cf1-f21ade97aa76)
+
+## RECENT SEMINAR: BLOCKCHAIN TECHTALK
+![Screenshot 2024-11-19 203442](https://github.com/user-attachments/assets/b1839b57-fd62-41c0-bd0b-f427c94582ae)
 
 
 
