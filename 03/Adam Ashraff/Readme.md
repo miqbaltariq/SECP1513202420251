@@ -19,6 +19,7 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
 - 🏃‍♂️Seloka run 2024
 - ⚔️mobile legends tournament (OPERA' 25)
 - 🏑Woodball ria KTC
+- Japan edu-tourism exhange
   
 📘 Currently studying:  
 - 🖥️ **Technology and Information System**  
