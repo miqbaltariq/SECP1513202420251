@@ -1,12 +1,27 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=30&pause=1000&color=D8B7DD&center=true&vCenter=true&width=500&lines=Welcome+to+my+e-Portfolio" />
+</h1>
 
-# About Me:
-Hi~ I am Souh Xin :sint_maarten: :thought_balloon:<br>
-A first year student of **UTM** pursuing a Bachelor of Computer Science (Network and Security) :globe_with_meridians:<br>
 
-# Hobby:
--Listening Music :headphones:<br>
--Reading 	 :closed_book:<br>
--Napping  :zzz:<br>
+
+#About Me  :sint_maarten: :thought_balloon:
+
+
+
+
+
+:seal: Name  :Phang Souh Xin <br>
+:pisces: Birthday:25/02/2005 <br>
+Hometown:Johor Bahru, Johor<br><p>Johor Bahru, Johor <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Johor.svg/1200px-Flag_of_Johor.svg.png" alt="Johor Flag" width="30"></p>
+Hobby: 
+<li>🎧 Listening Music</li>
+       <li>📕 Reading</li>
+       <li>💤 Napping</li>
+       </ul> <br>
+I'm a first year student of UTM pursuing a Bachelor of Computer Science (Network and Security)  :globe_with_meridians:   <br>
+I'm always curious and love learning new things, especially when it comes to technology. :woman_technologist: <br> 
+I enjoy finding ways to solve problems and make a real difference :eyes: <br>
+
 
 
 # Currently studying:
