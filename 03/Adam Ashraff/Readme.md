@@ -47,7 +47,7 @@ First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamAshraffZamri&show_icons=true&theme=radical)  
 
 # 🖥️ TECHNOLOGY & INFORMATION SYSTEM
-This is my group member consist of Nisa,Hafiz, Kai loon, Tyler and I.
+This is my group member consist of 03/knisa00,Hafiz, Kai loon, Tyler and I.
 
 ![WhatsApp Image 2025-01-13 at 21 18 19_35187715](https://github.com/user-attachments/assets/59b4590e-7f3c-4425-9ec0-d2174b6d803b)
 
