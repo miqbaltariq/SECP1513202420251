@@ -9,12 +9,12 @@ I’m currently a first-year student at **Universiti Teknologi Malaysia (UTM)**,
 In the future, I aspire to create innovative projects in fields like animation, game design, and immersive technologies such as VR and AR. I believe that every challenge is an opportunity to learn, and I’m looking forward to taking on new skills and technologies that will bring me closer to my dreams.
 
 ## <img src="https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width='20' align="left"/> &nbsp;ABOUT ME 
-- **👤 NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** LIM BEI EN 
-- **&nbsp;♀ &nbsp;GENDER &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** FEMALE
-- **🎂 DATE OF BIRTH &nbsp;&nbsp;&nbsp;:** 24/04/2005
-- **🏠 ADDRESS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** SKUDAI, JOHOR, MALAYSIA
-- **🌎 RACE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** CHINESE
-- **🕉 RELIGION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** BUDDHISM
+- **👤 NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;LIM BEI EN 
+- **&nbsp;♀ &nbsp;GENDER &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;FEMALE
+- **🎂 DATE OF BIRTH &nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;24/04/2005
+- **🏠 ADDRESS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;SKUDAI, JOHOR, MALAYSIA
+- **🌎 RACE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;CHINESE
+- **🕉 RELIGION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;BUDDHISM
 
 ### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="left"/> &nbsp;ACADEMIC BACKGROUND
 | Educational Level             | Institution                         |
