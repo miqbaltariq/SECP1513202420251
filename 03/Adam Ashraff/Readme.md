@@ -1,6 +1,6 @@
 # 👋 I'm Muhammad Adam Ashraff bin Zamri!
 
-A first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and porgramming. I'm excited to sharpen my skills to solve real-world challenges.
+First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and programming. I'm excited to sharpen my skills to solve real-world challenges. Guided by the belief that **"Who has the data has the power"** – Tim O'Reilly, I am committed to learning, growing, and contributing to a data-driven future. I aim to turn data into meaningful information that can drive impactful change.
 
 ##  🎓 Academic Background
 - Primary School
@@ -13,7 +13,13 @@ A first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UT
   - CGPA(3.96)
 - Bachelor Degree
   - Universiti Teknologi Malaysia(Data Engineering)
-
+    
+### Participation in University Events
+- 🌟Crew for SUSKOM' 24(Protocol Unit)
+- 🏃‍♂️Seloka run 2024
+- ⚔️mobile legends tournament (OPERA' 25)
+- 🏑Woodball ria KTC
+  
 📘 Currently studying:  
 - 🖥️ **Technology and Information System**  
 - ⚙️ **Digital Logic**  
