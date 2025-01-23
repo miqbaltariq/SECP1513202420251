@@ -8,6 +8,7 @@ I’m currently a first-year student at **Universiti Teknologi Malaysia (UTM)**,
 
 In the future, I aspire to create innovative projects in fields like animation, game design, and immersive technologies such as VR and AR. I believe that every challenge is an opportunity to learn, and I’m looking forward to taking on new skills and technologies that will bring me closer to my dreams.
 
+
 ## <img src="https://cdn.pixabay.com/animation/2023/04/14/11/37/11-37-27-253_512.gif" width='20' align="left"/> &nbsp;ABOUT ME 
 - **👤 NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;LIM BEI EN 
 - **&nbsp;♀ &nbsp;GENDER &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;FEMALE
@@ -16,6 +17,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 - **🌎 RACE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;CHINESE
 - **🕉 RELIGION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;BUDDHISM
 
+
 ### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="left"/> &nbsp;ACADEMIC BACKGROUND
 | Educational Level             | Institution                         |
 |-------------------------------|-------------------------------------|
@@ -23,6 +25,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 | **Secondary Education**       | SMK SKUDAI                          |
 | **Pre-University Foundation** | UTM SPACE                           |
 | **Undergraduate Degree**      | UNIVERSITY TEKNOLOGI MALAYSIA (UTM) |
+
 
 ### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
 - **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Middle"> </a> &nbsp;&nbsp;**017-5216676**
