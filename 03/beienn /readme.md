@@ -17,6 +17,15 @@ In the future, I aspire to create innovative projects in fields like animation, 
 - **🕉 RELIGION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;BUDDHISM 
 <br>
 
+### <img src="https://i.pinimg.com/originals/91/b2/22/91b2224f758ccd8e4aee58dc0ca8c1d7.gif" width='30' align="left"/> &nbsp;MY HOBBIES (Percentage)
+- **🎮 Playing Games: ██████████████░░░░░░ 70%**
+- **📚 Reading Novels: ███████████████░░░░ 80%**
+- **🎵 Listening to Music: ████████████████░░ 85%**
+- **✈️ Travelling: ████████████░░░░░░░░ 65%**
+- **💤 Sleeping: ███████████████░░░░░░ 75%**
+- **🍔 Eating: ██████████████░░░░░░░ 69%**
+<br>
+
 ### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
 - **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Middle"> </a> &nbsp;&nbsp;**017-5216676**
 
@@ -45,5 +54,15 @@ In the future, I aspire to create innovative projects in fields like animation, 
 | **Digital Logic**                       | 3            |
 | **Integriti and Anti-Corruption Course**| 2            |
 | **English Communication Course**        | 2            |
+<br>
 
+### *Programming Languages&nbsp;:*
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width='60' align="left" /> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width='60' align="left" /> &nbsp;
+<br>
+<br>
+<br>
+<br>
+<br>
 
+## <img src="https://media2.giphy.com/media/X8ccRNYi0KLd1hE23s/giphy.webp?cid=ecf05e47a4gpprfatt7qtqu65v5zxygev7ns16kq5xta1mnx&ep=v1_gifs_related&rid=giphy.webp&ct=s" width='45' align="left"/> Technology and Information System
