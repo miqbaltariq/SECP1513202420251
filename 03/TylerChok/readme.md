@@ -157,7 +157,7 @@ alt="Assignment 2 Video"/>  </a>
 > 
 > <b>Moreover, since the task involved video creation, I got to master the fundamentals of video editing and adding effects, music and more to improve the video's entertainment value.
 >
-> <b>Finally, since this visit was a physical acitivity, I got to finally meet my group members and have fun together recording various clips and taking notes for what would be our submission of the video assignment. It had brought us closer as groupmates and friends, and communication was much more smoother compared to Assignment 1.
+> <b>Finally, since this visit was a physical activity, I got to finally meet my group members and have fun together recording various clips and taking notes for what would be our submission of the video assignment. It had brought us closer as groupmates and friends, and communication was more smoother compared to Assignment 1.
 
 <sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
@@ -185,7 +185,7 @@ Finally, we had to create an Academic Writing Report by consolidating all the in
 #### 🧠 Reflection
 ><b>In this third assignment, my groupmates and I attended an industrial talk which allowed us to gain insights from the speakers invited.
 >
-> <b>This assignment had gave me more information on what the industry actually needs in terms of skills other than good grades. For example, how we need to hone our skills in technical skills such as programming, as well as non-technical skills such as our "people skills", interacting, collaborating and working together harmoniously.
+> <b>This assignment had given me more information on what the industry actually needs in terms of skills other than good grades. For example, how we need to hone our skills in technical skills such as programming, as well as non-technical skills such as our "people skills", interacting, collaborating and working together harmoniously.
 > 
 > <b> This talk allowed me to understand what skills I have to place emphasis on and what other skills I may require outside the scope of IT to prepare myself to start my internship and eventually, my career.
 > 
@@ -201,7 +201,7 @@ Finally, we had to create an Academic Writing Report by consolidating all the in
 #### 🔍 Overview
 Assignment 4 required us to attend at least one of the seven available workshops offered by CODE'25: Computing and Open Day & Exhibition. My group and I decided to attend the PowerBI Workshop which teaches participants on the basics of PowerBI. PowerBI is a business analytics tool developed by Microsoft that enables users to visualise and gain insights from data to make informed decisions.
 
-Finally, from all the information gathered from the workshop, we were tasked to create a poster on the the PowerBI talk we attended.
+Finally, from all the information gathered from the workshop, we were tasked to create a poster on the PowerBI talk we attended.
 
 #### 📦**Deliverable(s)** 
 - ### [Poster](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/TylerChok/Assignment%204%20-%20Poster%20on%20the%20PowerBI%20Workshop%20(CODE'25).pdf)
@@ -248,7 +248,7 @@ alt="Design Thinking Project Video"/>  </a>
 > 
 > <b> However, in the face of adversity, our group did not fumble and only grew stronger from it. Coordinating and compromising with each other to set up a proper time and date to meet up and complete the task. We also each pitched ideas to each other to help decide on the best solution and finally, some of our group members found a suitable recording space for our presentation.
 > 
-><b> This project, I felt was the most impactful to me as it had taught me that with teamwork, great things can be achieved. My friends and I got together and had a lot of fun designing our presentation materials, low-fidelity prototype and more. Our little arguments about little imperfections or issues did not split the group but only strengthened it as we all wanted to do our best for this project, and I belive, we did achieve our best.
+><b> This project, I felt was the most impactful to me as it had taught me that with teamwork, great things can be achieved. My friends and I got together and had a lot of fun designing our presentation materials, low-fidelity prototype and more. Our little arguments about little imperfections or issues did not split the group but only strengthened it as we all wanted to do our best for this project, and I believe, we did achieve our best.
 
 <sub> *[Back to Top](#-hello-there-welcome-to-my-e-portfolio)* <sub>
 
