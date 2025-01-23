@@ -20,7 +20,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <a href="https://instagram.com/_beiennnn" target="_blank">
   <img src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Instagram" width="55">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/贝恩" target="_blank">
+<a href="https://www.facebook.com/share/1KBft2DM9F/" target="_blank">
   <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="58">
 </a>
 
