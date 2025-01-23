@@ -2,7 +2,7 @@
 ---
 ## <img src="https://gdurl.com/lrm7" width='40' align="left"/>&nbsp; &nbsp; Our Project Proposal
 
-### &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; [Link](https://youtu.be/-n2pWXk1pg4)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Link](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/TylerChok/Design%20Thinking%20Project/Design%20Thinking%20Project%20-%20InfinitePROTECH%20Application.pdf)
 
 ---
 ## <img src="https://gdurl.com/xfR5" width='40' align="left"/>&nbsp; &nbsp; Our Video Presentation
@@ -11,6 +11,6 @@
 alt="Design Thinking Project Video"/>  </a>
 
 > [!NOTE]
-> Clicking the image will re-direct you to a YouTube video on <ins>The InfiniteTECH Video Presentation </ins>
+> <i>Clicking the image will re-direct you to a YouTube video on <ins>The InfiniteTECH Video Presentation </i></ins>
 
 <sub> *[Back to Main Page](https://github.com/miqbaltariq/SECP1513202420251/tree/main/03/TylerChok)* <sub>
