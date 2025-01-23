@@ -232,5 +232,4 @@ alt="Design Thinking Project Video"/>  </a>
 
 ### Till' we meet again! &nbsp; &nbsp; <img src="https://gdurl.com/CGdKD" width='40'/>
 
-<sub> *[Back to Top](#--navigate)* <sub>
 ---
