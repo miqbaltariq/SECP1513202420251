@@ -11,6 +11,6 @@
 alt="Design Thinking Project Video"/>  </a>
 
 > [!NOTE]
-> <i>Clicking the image will re-direct you to a YouTube video on <ins>The InfiniteTECH Video Presentation </i></ins>
+> <i>Clicking the image will re-direct you to a YouTube video on <ins>The InfinitePROTECH Video Presentation </i></ins>
 
 <sub> *[Back to Main Page](https://github.com/miqbaltariq/SECP1513202420251/tree/main/03/TylerChok)* <sub>
