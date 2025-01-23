@@ -5,6 +5,15 @@ Welcome to my e-portfolio! Here, you'll find highlights of my work, including as
 
 ---
 
+## <img src="https://gdurl.com/xR3q" width='40' align="left"/> Navigate
+### **[About Me](#--about-me)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Contact Me](#contact-me)** 
+###  **[My Course & Subject](#my-course--subject)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **[My Groupmates](#my-groupmates)** 
+
+### **[Assignments](#assignments)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **[Project](#project)**
+
+---
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width='40' align="left"/>  About Me
 
 🎉 Hi there! My name is **Tyler Chok Ke Qing**, an active student in Universiti Teknologi Malaysia, Johor Bahru. I'm currently in my first year of study as of 2025, pursuing a **Bachelor of Computer Science (Networks and Security) With Honours** degree. Here's some info about me:
