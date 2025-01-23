@@ -17,7 +17,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 - **🕉 RELIGION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;BUDDHISM
 
 ### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
-- **PHONE&nbsp;&nbsp;:** <a href="tel:+60175216676"> <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="37" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; 017-5216676**
+- **PHONE&nbsp;&nbsp;:** <a href="tel:+60 175216676"> <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="37" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; 017-5216676**
 
 - **EMAIL&nbsp;&nbsp;:** <a href="mailto:beien@graduate.utm.my"> <img src="https://1.bp.blogspot.com/-GMl4OpmNf2w/U5H0nXaWsPI/AAAAAAAAG5o/uFJN4dGycFQ/s1600/Gmail_Logo.gif" alt="Gmail" width="37" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; beien@graduate.utm.my**
 
