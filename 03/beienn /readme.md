@@ -56,13 +56,16 @@ In the future, I aspire to create innovative projects in fields like animation, 
 | **English Communication Course**        | 2            |
 <br>
 
-### *Programming Languages&nbsp;:*
+### <img src="https://media0.giphy.com/media/xThtayhFCUiob1hFG8/200.webp?cid=ecf05e476o7owx7e0at3e408uny5lxvb8vcpgbjrjegqd2nt&ep=v1_gifs_related&rid=200.webp&ct=s" width='43' align="left" />Programming Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width='60' align="left" /> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width='60' align="left" /> &nbsp;
-<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width='61' align="left" /> &nbsp;
 <br>
 <br>
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/X8ccRNYi0KLd1hE23s/giphy.webp?cid=ecf05e47a4gpprfatt7qtqu65v5zxygev7ns16kq5xta1mnx&ep=v1_gifs_related&rid=giphy.webp&ct=s" width='45' align="left"/> Technology and Information System
+# <img src="https://media4.giphy.com/media/ehIw3wY1QVv6cUHxKk/giphy.webp?cid=ecf05e47qujo9zcsytb2cs0w4emc5pd1apgioqcu289mlww4&ep=v1_gifs_related&rid=giphy.webp&ct=s" width='55' align="left"/>TECHNOLOGY AND INFORMATION SYSTEM
+
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&pause=1000&color=002FA7&center=true&vCenter=true&width=435&lines=MY+TEAM+:+TECHTICIANS" /> </h1>
+
+
