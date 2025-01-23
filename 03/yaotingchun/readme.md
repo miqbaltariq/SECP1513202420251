@@ -40,6 +40,6 @@
 
 ***
 
-## <h1 align="center">MY TEAM-GROUP #HASHTECH #️⃣ </h1>
+## <h1 align="center"> GROUP #HASHTECH #️⃣ </h1>
 ![WhatsApp Image 2025-01-20 at 21 39 08_adc9cb40](https://github.com/user-attachments/assets/2aa2904e-3b21-4d30-a831-b4ec1bca4d9e)
 
