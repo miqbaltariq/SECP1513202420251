@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yaotingchun&color=blueviolet&label=VISITORS)
 # **Hi there! My name is Chun Yao Ting. 👋**
 
-## ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡
+**ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡**
 
 - 1st Year Student of University of Technology Malaysia (UTM). 🏫 
 - Currently pursuing Bachelor of Computer Science (Data Engineering). 🎓
@@ -14,7 +14,7 @@
 
 ***
 
-## EDUCATION
+**EDUCATION**
 * Primary School
   - SJK(C) Pu Sze
 
@@ -33,7 +33,7 @@
 
 ***
 
-## HOBBY
+**HOBBY**
 - Night walk 🚶
 - Music 🎼
 - Play Overcooked 🧑‍🍳
