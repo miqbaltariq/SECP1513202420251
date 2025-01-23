@@ -18,9 +18,11 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 ### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
 <a href="https://instagram.com/_beiennnn" target="_blank">
-  <img src="https://www.jedecore.com/gif/internet/instagram.gif" alt="Instagram" width="55">
+  <img src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Instagram" width="55">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/贝恩" target="_blank">
+  <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="58">
 </a>
-
 
 ### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="left"/> &nbsp;ACADEMIC BACKGROUND
 | Educational Level             | Institution                         |
