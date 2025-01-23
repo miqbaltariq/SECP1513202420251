@@ -43,17 +43,17 @@ Hi! I'm **Evelyn Ang**👋 A **Data Engineering Student** of **UTM**
 
 # My Team ➡️ TECH-nically Rebuilt
 
-<img src="https://github.com/evelyn2307/Y1S1/blob/47d0fb666d71205e2048d2888921c0cb148bf5a1/assets/group%20pic.jpg" alt="gourp pic" width="400" height="280"><br>
+<img src="https://github.com/evelyn2307/Y1S1/blob/bf57f85a5bc2a3bb052ef745d4c2cf5bfb0b9be8/Technology%20%26%20Information%20System/assets/group%20pic.jpg" alt="gourp pic" width="400" height="280"><br>
 
 
 ## 🔎Assignment I did with my team members :
 
 |Assignment   |Description      |Date        |Reflection                   |
 |-------------|-----------------|------------|-----------------------------|
-|<p align = "center">1</p>  |**Poster** on Industry Talk 1 : **AirAsia** <br><img src="https://github.com/evelyn2307/Y1S1/blob/fbb6a26061a6c91329fbbcc49d3757a882240092/assets/Industrial%20Talk%201.png" alt="ass" width="200" height="250"> <br>**Click to view our poster☝️**| 23 November 2024  |From AirAsia's industry talk, I have a deeper understanding of the wide range of services AirAsia provides, showcasing their commitment to innovation and adaptability. I also gained valuable knowledge about effective WFH tips and strategies to maintain productivity.             |
+|<p align = "center">1</p>  |**Poster** on Industry Talk 1 : **AirAsia** <br><img src="https://github.com/evelyn2307/Y1S1/blob/bf57f85a5bc2a3bb052ef745d4c2cf5bfb0b9be8/Technology%20%26%20Information%20System/assets/Industrial%20Talk%201.png" alt="ass" width="200" height="250"> <br>**Click to view our poster☝️**| 23 November 2024  |From AirAsia's industry talk, I have a deeper understanding of the wide range of services AirAsia provides, showcasing their commitment to innovation and adaptability. I also gained valuable knowledge about effective WFH tips and strategies to maintain productivity.             |
 |<p align = "center">2</p>  |**Video** on Industry Visit : **UTM Digital** <br><a href="https://www.youtube.com/watch?v=FzKdEfEXHnY" target="_blank"><img src="https://img.youtube.com/vi/FzKdEfEXHnY/0.jpg" alt="Industrial visit at UTM DIGITAL" width="250" /></a> <br>**Click to view our video☝️**|  10 December 2024  |This industry visit gives me more understanding about my courses. I have learnt how the data is being processed and the importance of the data. The speakers had provided real-life examples that made the concepts easier to understand and recall.            |
 |<p align = "center">3</p>  |**Academic Writing** on Industry Talk 2 : **Skills required for computer science and skills required by industry.**| 17 December 2024	 |The real-life experiences shared by Mr. Hakimi emphasized how academic knowledge can be transformed into industry demands. This has motivated me to strengthen my technical expertise and improve my soft skills, including communication and teamwork.|
-|<p align = "center">4</p>  |**Poster** on **Computing Open Day & Exhibition 2025  (CODE’25)** | 11 January 2025 | Through this workshop, I have learnt what Power BI is and how it helps us visualise data by creating interactive reports and dashboards. The hands-on experience give me valuable skills in data preparation, creating reports, and leveraging the visualization features of Power BI.|
+|<p align = "center">4</p>  |**Poster** on **Computing Open Day & Exhibition 2025  (CODE’25)** <br><img src="https://github.com/evelyn2307/Y1S1/blob/c3fb6c4d7f35b00f9d1d7171ab0ad0f80cb66e2a/Technology%20%26%20Information%20System/assets/Assignment%204%20Poster.png" alt="ass" width="200" height="280"> <br>**Click to view our poster☝️** | 11 January 2025 | Through this workshop, I have learnt what Power BI is and how it helps us visualise data by creating interactive reports and dashboards. The hands-on experience give me valuable skills in data preparation, creating reports, and leveraging the visualization features of Power BI.|
 
 
 ## 💡Design Thinking Projects :
