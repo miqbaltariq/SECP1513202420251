@@ -16,16 +16,6 @@ In the future, I aspire to create innovative projects in fields like animation, 
 - **🌎 RACE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;CHINESE
 - **🕉 RELIGION &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp;&nbsp;BUDDHISM
 
-### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
-- **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Middle"> </a> &nbsp;&nbsp;**017-5216676**
-
-- **EMAIL&nbsp;&nbsp;:** <a href="mailto:beien@graduate.utm.my"> <img src="https://1.bp.blogspot.com/-GMl4OpmNf2w/U5H0nXaWsPI/AAAAAAAAG5o/uFJN4dGycFQ/s1600/Gmail_Logo.gif" alt="Gmail" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; beien@graduate.utm.my**
-
-- **INSTAGRAM&nbsp;&nbsp;:** <a href="https://instagram.com/_beiennnn" target="_blank"> <img src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Instagram" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; @_beiennnn**
-
-- **FACEBOOK&nbsp;&nbsp;:** <a href="https://www.facebook.com/share/1KBft2DM9F/" target="_blank"> <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="35" align="Middle"> </a> 
-
-
 ### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="left"/> &nbsp;ACADEMIC BACKGROUND
 | Educational Level             | Institution                         |
 |-------------------------------|-------------------------------------|
@@ -34,5 +24,13 @@ In the future, I aspire to create innovative projects in fields like animation, 
 | **Pre-University Foundation** | UTM SPACE                           |
 | **Undergraduate Degree**      | UNIVERSITY TEKNOLOGI MALAYSIA (UTM) |
 
+### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
+- **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Middle"> </a> &nbsp;&nbsp;**017-5216676**
+
+- **EMAIL&nbsp;&nbsp;:** <a href="mailto:beien@graduate.utm.my"> <img src="https://1.bp.blogspot.com/-GMl4OpmNf2w/U5H0nXaWsPI/AAAAAAAAG5o/uFJN4dGycFQ/s1600/Gmail_Logo.gif" alt="Gmail" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; beien@graduate.utm.my**
+
+- **INSTAGRAM&nbsp;&nbsp;:** <a href="https://instagram.com/_beiennnn" target="_blank"> <img src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Instagram" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; @_beiennnn**
+
+- **FACEBOOK&nbsp;&nbsp;:** <a href="https://www.facebook.com/share/1KBft2DM9F/" target="_blank"> <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="35" align="Middle"> </a> 
 
 
