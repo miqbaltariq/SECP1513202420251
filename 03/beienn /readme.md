@@ -26,7 +26,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 - **🍔 Eating: ██████████████░░░░░░░ 69%**
 <br>
 
-### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="left"/> &nbsp;CONTACT ME
+### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="center"/> &nbsp;CONTACT ME
 - **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Middle"> </a> &nbsp;&nbsp;**017-5216676**
 
 - **EMAIL&nbsp;&nbsp;:** <a href="mailto:beien@graduate.utm.my"> <img src="https://1.bp.blogspot.com/-GMl4OpmNf2w/U5H0nXaWsPI/AAAAAAAAG5o/uFJN4dGycFQ/s1600/Gmail_Logo.gif" alt="Gmail" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; beien@graduate.utm.my**
@@ -36,7 +36,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 - **FACEBOOK&nbsp;&nbsp;:** <a href="https://www.facebook.com/share/1KBft2DM9F/" target="_blank"> <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="35" align="Middle"> </a> 
 <br>
 
-### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="left"/> &nbsp;ACADEMIC BACKGROUND
+### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="center"/> &nbsp;ACADEMIC BACKGROUND
 | Educational Level             | Institution                         |
 |-------------------------------|-------------------------------------|
 | **Primary Education**         | SJK(C)PU SZE                        |
@@ -45,7 +45,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 | **Undergraduate Degree**      | UNIVERSITY TEKNOLOGI MALAYSIA (UTM) |
 <br>
 
-### <img src="https://clipart-library.com/images/8cE6oypMi.gif" width='40' align="left" /> &nbsp;CURRENT STUDYING (2024/2025-1)
+### <img src="https://clipart-library.com/images/8cE6oypMi.gif" width='40' align="center" /> &nbsp;CURRENT STUDYING (2024/2025-1)
 | Subject                                 | Credit Hours |
 |-----------------------------------------|--------------|
 | **Discrete Structure**                  | 3            |
@@ -56,7 +56,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 | **English Communication Course**        | 2            |
 <br>
 
-### <img src="https://media0.giphy.com/media/xThtayhFCUiob1hFG8/200.webp?cid=ecf05e476o7owx7e0at3e408uny5lxvb8vcpgbjrjegqd2nt&ep=v1_gifs_related&rid=200.webp&ct=s" width='43' align="left" />Programming Languages
+### <img src="https://media0.giphy.com/media/xThtayhFCUiob1hFG8/200.webp?cid=ecf05e476o7owx7e0at3e408uny5lxvb8vcpgbjrjegqd2nt&ep=v1_gifs_related&rid=200.webp&ct=s" width='43' align="center" />Programming Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width='60' align="left" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width='61' align="left" /> &nbsp;
 <br>
@@ -64,8 +64,53 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 <br>
 
-# <img src="https://media4.giphy.com/media/ehIw3wY1QVv6cUHxKk/giphy.webp?cid=ecf05e47qujo9zcsytb2cs0w4emc5pd1apgioqcu289mlww4&ep=v1_gifs_related&rid=giphy.webp&ct=s" width='55' align="left"/>TECHNOLOGY AND INFORMATION SYSTEM
+# <img src="https://media4.giphy.com/media/ehIw3wY1QVv6cUHxKk/giphy.webp?cid=ecf05e47qujo9zcsytb2cs0w4emc5pd1apgioqcu289mlww4&ep=v1_gifs_related&rid=giphy.webp&ct=s" width='55' align="center"/> &nbsp; SECP1513-TECHNOLOGY AND INFORMATION SYSTEM
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&pause=1000&color=002FA7&center=true&vCenter=true&width=435&lines=MY+TEAM+:+TECHTICIANS" /> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&pause=1000&color=002FA7&center=true&vCenter=true&width=435&lines=MY+TEAM+:+TECHTICIANS+🌐" /> </h1>
+
+<h3 align="center" style="color:#000000;">Big thanks to my awesome groupmates for all the hard work and collaboration! <br> Here's my team, Techticians:</h3>
+
+<img src="" width='61' align="left" />
+
+<br>
+From left to right in the photo: 
+<br>
+1️⃣  – 
+<br>
+2️⃣  – 
+<br>
+3️⃣  – 
+<br>
+4️⃣  – 
+<br>
+<br>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RtZ3l6bGFlZjc0b2c5dG5nZGRyaXRkZ2twbXN1NXBqaGJ2NXI3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gizznEFMVcAH4w9K53/giphy.gif" width='65' align="center" /> &nbsp; ASSIGNMENTS & PROJECT (2024/2025-1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***I appreciate you taking the time to view my portfolio！*** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o1b2l6b3pkOXFuZ2tmNHdraXAwamRsZ2EzYjZuZ2h3anE3enJtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUzVhTzewrHRO5hckH/giphy.gif" width='70' align="center" />
+
+
+<h1 align="center" style="background-color: #f0f0f0; padding: 20px;"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=UNTIL+NEXT+TIME+!" /> 
+</h1>
+
+                The journey is just beginning, I’m excited about the future and eager to take on new challenges and projects.💻
+
 
 
