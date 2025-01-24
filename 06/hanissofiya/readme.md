@@ -14,8 +14,6 @@ Hi, I'm **Hanis Sofiya binti Badrul Ehsan**, a first-year **Computer Science (Co
 ## 💻 Skills  
 ### **Technical Skills:**  
 - **Programming Languages**: Java, C++ (beginner level)  
-- **Networking Basics**: Familiarity with Cisco Packet Tracer  
-- **Cybersecurity Foundations**: Basic knowledge of Kali Linux and network security principles  
 
 ### **Soft Skills:**  
 - Communication  
@@ -30,10 +28,10 @@ Reflection of my assignment and project
 
 |   No    |Assignment                     |Reflection                   |
 |-------- |-------------------------------|-----------------------------|
-|     1   |Poster (Industry talk 1)        |'Isn't this fun?'            |
-|     2   |Video (Industry visit 1 at UTM digital)            |"Isn't this fun?"            |
-|     3   |Academic writing (Industry talk 2)|-- is en-dash, --- is em-dash|
-|     4   |Poster (Industry visit 2 at CODE'25)|-- is en-dash, --- is em-dash|
-|     5   |Design Thinking Project|-- is en-dash, --- is em-dash|
+|     1   |Poster of Industry talk 1: Petronas|The talk from Petronas provided essential knowledge about how important is the jobs in ICT to play meaningful role in industry. It explained how ICT is essential for improving productivity, safety, and sustainability, especially in sectors like energy. Companies like Petronas are using ICT to optimize operations and develop tailored solutions through digital tools and data analytics. The talk also introduced programs like the Petronas Digital Young Graduate Program, which focus on building skills, leadership, and career growth, showing that ICT offers meaningful opportunities for professional development. Additionally, it emphasized how ICT contributes to society by enabling sustainable practices, supporting communities, and addressing real-world challenges. The need for adaptability, creativity, and continuous learning in this fast-changing field was a key takeaway. Overall, the session inspired an understanding that ICT professionals play a vital role in shaping a better, more innovative future, making this an exciting and rewarding career path.               |
+|     2   |Video of Industry Visit: UTM Digital            |       -     |
+|     3   |Academic Report of Industry Talk: Skills required by computer science and industry|-|
+|     4   |Poster of Industry visit 2 at CODE'25|-|
+|     5   |Design Thinking Project|--|
 
 ### 🌟 Thank you for visiting my ePortfolio!  
