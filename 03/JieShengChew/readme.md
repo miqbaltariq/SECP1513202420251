@@ -5,6 +5,9 @@
 
 
 ## ABOUT ME👶
+<div align="right">
+<img src="https://github.com/user-attachments/assets/00d025a7-947c-4f49-a153-6291cb874131" align="right" style="width: 20%" />
+</div>  
 - I'm from Ulu Tiram, Johor🗼.
 
 - My birthday is 12/11/2005🎂.
