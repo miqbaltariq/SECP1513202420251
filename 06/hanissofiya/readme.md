@@ -8,8 +8,8 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |   No    |Assignment                     |Reflection                   |
 |-------- |-------------------------------|-----------------------------|
-|     1   |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|     2   |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|     3   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|     4   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|     5   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|     1   |Poster(Industry talk 1)        |'Isn't this fun?'            |
+|     2   |Video(Industry visit 1 at UTM digital)            |"Isn't this fun?"            |
+|     3   |Academic writing(Industry talk 2)|-- is en-dash, --- is em-dash|
+|     4   |Poster(Industry visit 2 at CODE'25)|-- is en-dash, --- is em-dash|
+|     5   |Design Thinking(Low fidelity project)|-- is en-dash, --- is em-dash|
