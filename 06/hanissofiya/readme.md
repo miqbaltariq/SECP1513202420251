@@ -6,8 +6,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|   No   |Assignment                     |Reflection                   |
-|--------|-------------------------------|-----------------------------|
+|   No    |Assignment                     |Reflection                   |
+|-------- |-------------------------------|-----------------------------|
 |     1   |`'Isn't this fun?'`            |'Isn't this fun?'            |
 |     2   |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |     3   |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
