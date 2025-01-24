@@ -4,16 +4,18 @@
 |-------------------|-------------------------------------------------------------|
 |**MATRIC NUMBER**  |**A24CS0181**                                                |
 |**SECTION**        |**06**                                                       |
-|**COURSE**         |**SECP1013**                                                 |
+|**COURSE**         |**SECP1513**                                                 |
 
 
-|                             |**REFLECTION**                                                                | 
-|-----------------------------|------------------------------------------------------------------------------|
-|**PC Assemble**              |I gained valuable insights about the hardware components of the CPU and their respective functions. I developed essential skills that can be applied to future projects. Although the process of assembling and reassembling the CPU was overwhelming, I was able to collaborate effectively with my group and overcame the complexities of PC components and approached problems methodically. This experience has equipped me with the confidence and capability to handle components properly.                  |
-|**Assignment 1**             |I gained valuable insights about Clarity Techworks and its expertise in empowering businesses through blockchain technology. Their approach towards enhancing operational efficiency, reducing risk exposure, and integrating business-driven technology applications piqued my interest in blockchain. This experience has motivated me to explore and understand this field further. I had the opportunity to work in a diverse environment and build connections with my teammates throughout this project. |
-|**Assignment 2**            |                                                                                |
-|**Assignment 3**            |                                                                                |
-|**Power BI Workshop**       |                                                                                |
-|**Assignment 4**            |                                                                                |
+|                             |**REFLECTION**                                                                                  | 
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|**PC Assemble**              |I developed essential skills that can be applied to future projects. I was able to identify all the hardware components in a CPU. Although the process of assembling and reassembling the CPU was overwhelming, I was able to collaborate effectively with my group and overcame the complexities of PC components and approached problems methodically. This experience has equipped me with the confidence and capability to handle components properly. |
+|**Assignment 1**             |I gained valuable insights about Clarity Techworks and its expertise in empowering businesses through blockchain technology. Their approach towards enhancing operational efficiency, reducing risk exposure, and integrating business-driven technology applications piqued my interest in blockchain. This experience has motivated me to explore and understand this field further. I had the opportunity to work in a diverse environment and build connections with my teammates throughout this project.                                                                                                |
+|**Assignment 2**            |I accquired knowledge about the exterior and interior workings of UTMDigital, along with their operational structure. My groupmates and I leveraged this knowledge to our advantage by interviewing a staff member from UTMDigital. Throughout the interview, I learned the importance of being upfront with our ideas and facing challenges head-on. Additionally, I recognized that teamwork is crucial in a corporate setting, as it not only unites us but also fosters an efficient and positive working environment."                                                                                                       |
+|**Assignment 3**            |I enhanced my writing abilities and discovered crucial skills for achieving success in computer science. Both speakers delivered excellent speeches, emphasizing the importance of refining essential technical skills and strategically approaching job applications. Ultimately, our effort in pursuing computer science is what will lead to professional success.                                                                                  |
+|**Cybersecurity Workshop**  |UTM's Computer Science Students' Association organized a three-day event for students to gain knowledge and explore opportunities to branch out their areas of expertise. Throughout the workshop, I was guided by seniors and exposed to OSINT, defined as intelligence produced by collecting, evaluating, and analyzing public information to track cybercriminal groups and individuals, and to monitor ongoing and outgoing data.                 |
+|**Power BI Workshop**       |                                                                                                                        |
+|**Assignment 4**            |                                                                                                                        |
+|**Design Thinking Project** |
 
 
