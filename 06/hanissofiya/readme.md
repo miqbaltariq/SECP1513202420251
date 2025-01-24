@@ -24,9 +24,9 @@ Hi, I'm **Hanis Sofiya binti Badrul Ehsan**, a first-year **Computer Science (Co
 
 ---
 
-## SmartyPants
+## Project TIS
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+Reflection of my assignment and project
 
 |   No    |Assignment                     |Reflection                   |
 |-------- |-------------------------------|-----------------------------|
@@ -35,3 +35,5 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |     3   |Academic writing (Industry talk 2)|-- is en-dash, --- is em-dash|
 |     4   |Poster (Industry visit 2 at CODE'25)|-- is en-dash, --- is em-dash|
 |     5   |Design Thinking Project|-- is en-dash, --- is em-dash|
+
+### 🌟 Thank you for visiting my ePortfolio!  
