@@ -76,7 +76,7 @@ University 🎓
 
 **4. Poster--Power BI workshop**<br>
 
-<img src="(https://github.com/Peiyuan2121/Technology-and-Information-System/blob/fb5cae43f160dd38f6ac75b18db8c40c8db929d0/Assignment%204%20Poster.png)" width="200" height="280">
+<img src="https://github.com/Peiyuan2121/Technology-and-Information-System/blob/fb5cae43f160dd38f6ac75b18db8c40c8db929d0/Assignment%204%20Poster.png" width="200" height="280">
 
 `Date:11 Jan 2025`<br>
 **Reflection:** From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
