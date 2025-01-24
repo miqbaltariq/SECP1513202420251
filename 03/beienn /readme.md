@@ -68,12 +68,13 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=30&pause=1000&color=002FA7&center=true&vCenter=true&width=435&lines=MY+TEAM+:+TECHTICIANS+🌐" /> </h1>
 
-<h3 align="center" style="color:#000000;">Big thanks to my awesome groupmates for all the hard work and collaboration! <br> Here's my team, Techticians:</h3>
+<h3 align="center"> <em>Big thanks to my awesome groupmates for all the hard work and collaboration! <br> Here's my team, Techticians:</em> </h3>
 
 <img src="" width='61' align="left" />
 
 <br>
-From left to right in the photo: 
+
+**From left to right in the photo:**
 <br>
 1️⃣  – 
 <br>
@@ -85,7 +86,88 @@ From left to right in the photo:
 <br>
 <br>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RtZ3l6bGFlZjc0b2c5dG5nZGRyaXRkZ2twbXN1NXBqaGJ2NXI3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gizznEFMVcAH4w9K53/giphy.gif" width='65' align="center" /> &nbsp; ASSIGNMENTS & PROJECT (2024/2025-1)
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RtZ3l6bGFlZjc0b2c5dG5nZGRyaXRkZ2twbXN1NXBqaGJ2NXI3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gizznEFMVcAH4w9K53/giphy.gif" width='65' align="center" /> &nbsp; LAB & ASSIGNMENTS & PROJECT (2024/2025-1)
+
+<h3 align="center"> 🛠️LAB & QUIZ : PC ASSEMBLE </h3>
+
+***DATE : 22/10/2024***
+<br>
+***OVERVIEW :***
+<br>
+***ATTACHMENT :***
+<br>
+***REFLECTION :***
+<br>
+
+<br>
+<br>
+
+<h3 align="center"> 🎙️ASSIGNMENT 1 : INDUSTRY TALK 1 (POSTER) </h3>
+
+***DATE : 23/11/2024***
+<br>
+***OVERVIEW :***
+<br>
+***ATTACHMENT :***
+<br>
+***REFLECTION :***
+<br>
+
+<br>
+<br>
+
+<h3 align="center"> 🎥ASSIGNMENT 2 : INDUSTRY VISIT 1 (VIDEO) </h3>
+
+***DATE : 10/12/2024***
+<br>
+***OVERVIEW :***
+<br>
+***ATTACHMENT :***
+<br>
+***REFLECTION :***
+<br>
+
+<br>
+<br>
+
+<h3 align="center"> 📝ASSIGNMENT 3 : INDUSTRY TALK 2 (ACADEMIC WRITING) </h3>
+
+***DATE : 17/12/2024***
+<br>
+***OVERVIEW :***
+<br>
+***ATTACHMENT :***
+<br>
+***REFLECTION :***
+<br>
+
+<br>
+<br>
+
+<h3 align="center"> 🤖ASSIGNMENT 4 : CODE’25 - BIOINFORMATICS WORKSHOP (POSTER) </h3>
+
+***DATE : 10/01/2024***
+<br>
+***OVERVIEW :***
+<br>
+***ATTACHMENT :***
+<br>
+***REFLECTION :***
+<br>
+
+<br>
+<br>
+
+<h3 align="center"> 💡PROJECT : DESIGN THINKING (REPORT & VIDEO) </h3>
+
+***DATE : 10/01/2024***
+<br>
+***OVERVIEW :***
+<br>
+***ATTACHMENT :***
+<br>
+***REFLECTION :***
+<br>
 
 
 
@@ -93,16 +175,11 @@ From left to right in the photo:
 
 
 
+<br>
+<br>
+<br>
 
-
-
-
-
-
-
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ***I appreciate you taking the time to view my portfolio！*** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o1b2l6b3pkOXFuZ2tmNHdraXAwamRsZ2EzYjZuZ2h3anE3enJtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUzVhTzewrHRO5hckH/giphy.gif" width='70' align="center" />
 
 
