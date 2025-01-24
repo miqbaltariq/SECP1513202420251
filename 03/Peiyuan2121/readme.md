@@ -49,7 +49,7 @@ University 🎓
 <br>
 
 ## My Team⏭️⏭️**TECH-nically rebuild**<br>
-<i> Assigment:<i><br>
+<i> Assignment:<i><br>
 **1. Poster--Industry Talk 1: AirAsia**<br>
 `Date:23 Nov 2024`
 <img src="https://github.com/user-attachments/assets/f4ad8022-ffba-487a-ba97-d085e19f5553" style="width: 40%" />
@@ -64,7 +64,7 @@ University 🎓
 **Click here☝️to view our video**<br>
 `Date:10 Dec 2024`<br>
 <br>
-**Reflection:** This industry visit provided a deeper unnderstanding about our courses。They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
+**Reflection:** This industry visit provided a deeper unnderstanding about our courses.They invite experienced speaker to share their working experience in data engineering and the challenge that might be faced on our careeer path.Moveover,this visit also providing us a better understanding of UTM Digital's overall facilities.This industry visit allow me to identify areas for improvement and focus my studies on relevant skills.
 
 ---
 
@@ -76,7 +76,7 @@ University 🎓
 
 **4. Poster--Power BI workshop**<br>
 
-<img src="[https://github.com/Peiyuan2121/Technology-and-Information-System/blob/0750cb400a235d27cbec2449f0d490ec7fa6d43d/Assignment%204.pdf](https://github.com/Peiyuan2121/Technology-and-Information-System/blob/fb5cae43f160dd38f6ac75b18db8c40c8db929d0/Assignment%204%20Poster.png)" width="200" height="280">
+<img src="(https://github.com/Peiyuan2121/Technology-and-Information-System/blob/fb5cae43f160dd38f6ac75b18db8c40c8db929d0/Assignment%204%20Poster.png)" width="200" height="280">
 
 `Date:11 Jan 2025`<br>
 **Reflection:** From this workshop,I have learnt and using Power BI to visiualize and analytics data.Through this tool, I have developed the ability to design interactive dashboards and generate reports.The hand-on experience provided during workshop enchanced my confidence to tackle complex data challenges and communicate insights effectively. 
@@ -88,7 +88,7 @@ University 🎓
 [![image](https://github.com/user-attachments/assets/43649ed9-c63d-4615-bba5-56b1e81e20a4)
 ](https://youtu.be/m5wbRu24noE?si=gaU8h4lQvVU_JUeI) <br>
 **Click here☝️to view our video**<br>
-**Reflection:** This project has taught me a lot og things. It has not only enhanced my problem-solving skills but also improved my communication skills, which is essential for good teamwork to complete this project.Next,it made me realize the various important stages needed when developing a product, giving me a clearer mindset to face any difficulties and problems in future. It also helped enhance some soft skills. For example, I learned video editing when doing this project . It cultivated my creativity and imagination.
+**Reflection:** This project has taught me a lot of things. It has not only enhanced my problem-solving skills but also improved my communication skills, which is essential for good teamwork to complete this project.Next,it made me realize the various important stages needed when developing a product, giving me a clearer mindset to face any difficulties and problems in future. It also helped enhance some soft skills. For example, I learned video editing when doing this project . It cultivated my creativity and imagination.
 
 
 <br>
