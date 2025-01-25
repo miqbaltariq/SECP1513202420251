@@ -27,13 +27,13 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 ### <img src="https://emojikitchen.com/emoji/platform/telegram/telemoji-november-2022/2709.gif" width='30' align="center"/> &nbsp;CONTACT ME
-- **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Middle"> </a> &nbsp;&nbsp;**017-5216676**
+- **PHONE&nbsp;&nbsp;:** <img src="https://media.giphy.com/media/USzZi9eJ2tLKo0ZePc/giphy.gif" alt="Phone" width="35" align="Center"> </a> &nbsp;&nbsp;**017-5216676**
 
-- **EMAIL&nbsp;&nbsp;:** <a href="mailto:beien@graduate.utm.my"> <img src="https://1.bp.blogspot.com/-GMl4OpmNf2w/U5H0nXaWsPI/AAAAAAAAG5o/uFJN4dGycFQ/s1600/Gmail_Logo.gif" alt="Gmail" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; beien@graduate.utm.my**
+- **EMAIL&nbsp;&nbsp;:** <a href="mailto:beien@graduate.utm.my"> <img src="https://1.bp.blogspot.com/-GMl4OpmNf2w/U5H0nXaWsPI/AAAAAAAAG5o/uFJN4dGycFQ/s1600/Gmail_Logo.gif" alt="Gmail" width="35" align="Center"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; beien@graduate.utm.my**
 
-- **INSTAGRAM&nbsp;&nbsp;:** <a href="https://instagram.com/_beiennnn" target="_blank"> <img src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Instagram" width="35" align="Middle"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; @_beiennnn**
+- **INSTAGRAM&nbsp;&nbsp;:** <a href="https://instagram.com/_beiennnn" target="_blank"> <img src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" alt="Instagram" width="35" align="Center"> </a> &nbsp;&nbsp; **or &nbsp;&nbsp; @_beiennnn**
 
-- **FACEBOOK&nbsp;&nbsp;:** <a href="https://www.facebook.com/share/1KBft2DM9F/" target="_blank"> <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="35" align="Middle"> </a> 
+- **FACEBOOK&nbsp;&nbsp;:** <a href="https://www.facebook.com/share/1KBft2DM9F/" target="_blank"> <img src="https://gifdb.com/images/high/facebook-app-logo-sticker-sgb3lvzpwvlsvpl9.gif" alt="Facebook" width="35" align="Center"> </a> 
 <br>
 
 ### <img src="https://media.giphy.com/media/VhQ37udYou83ABwkP8/giphy.gif" width='40' align="center"/> &nbsp;ACADEMIC BACKGROUND
@@ -90,13 +90,19 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> 🛠️LAB & QUIZ : PC ASSEMBLE </h3>
 
-***DATE : 22/10/2024***
+**📆 DATE : 22/10/2024**
 <br>
-***OVERVIEW :***
+
+**🧭 OVERVIEW :** <br>
+This lab requires us to collaborate in small groups to assemble and reassemble computer hardware, gaining essential hands-on skills and a comprehensive understanding of PC architecture and functionality.
 <br>
-***ATTACHMENT :***
+
+**🗂️ ATTACHMENT :** <br>
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/fb64b313-6816-43ce-9594-a1b14731048c" alt="image" width="400" height="auto" /> </h3>
 <br>
-***REFLECTION :***
+
+**💭 REFLECTION :** <br>
+
 <br>
 
 <br>
@@ -104,13 +110,19 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> 🎙️ASSIGNMENT 1 : INDUSTRY TALK 1 (POSTER) </h3>
 
-***DATE : 23/11/2024***
+**📆 DATE : 23/11/2024**
 <br>
-***OVERVIEW :***
+
+**🧭 OVERVIEW :** <br>
+
 <br>
-***ATTACHMENT :***
+
+**🗂️ ATTACHMENT :** <br>
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/f7b91005-4614-431f-97e1-f39ae81d3159" alt="image" width="400" height="auto" /> </h3> 
 <br>
-***REFLECTION :***
+
+**💭 REFLECTION :** <br>
+
 <br>
 
 <br>
@@ -118,13 +130,19 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> 🎥ASSIGNMENT 2 : INDUSTRY VISIT 1 (VIDEO) </h3>
 
-***DATE : 10/12/2024***
+**📆 DATE : 10/12/2024**
 <br>
-***OVERVIEW :***
+
+**🧭 OVERVIEW :** <br>
+
 <br>
-***ATTACHMENT :***
+
+**🗂️ ATTACHMENT :** <br>
+
 <br>
-***REFLECTION :***
+
+**💭 REFLECTION :** <br>
+
 <br>
 
 <br>
@@ -132,13 +150,19 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> 📝ASSIGNMENT 3 : INDUSTRY TALK 2 (ACADEMIC WRITING) </h3>
 
-***DATE : 17/12/2024***
+**📆 DATE : 17/12/2024**
 <br>
-***OVERVIEW :***
+
+**🧭 OVERVIEW :** <br>
+
 <br>
-***ATTACHMENT :***
+
+**🗂️ ATTACHMENT :** <br>
+
 <br>
-***REFLECTION :***
+
+**💭 REFLECTION :** <br>
+
 <br>
 
 <br>
@@ -146,13 +170,19 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> 🤖ASSIGNMENT 4 : CODE’25 - BIOINFORMATICS WORKSHOP (POSTER) </h3>
 
-***DATE : 10/01/2024***
+**📆 DATE : 10/01/2024**
 <br>
-***OVERVIEW :***
+
+**🧭 OVERVIEW :** <br>
+
 <br>
-***ATTACHMENT :***
+
+**🗂️ ATTACHMENT :** <br>
+
 <br>
-***REFLECTION :***
+
+**💭 REFLECTION :** <br>
+
 <br>
 
 <br>
@@ -160,20 +190,20 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> 💡PROJECT : DESIGN THINKING (REPORT & VIDEO) </h3>
 
-***DATE : 10/01/2024***
-<br>
-***OVERVIEW :***
-<br>
-***ATTACHMENT :***
-<br>
-***REFLECTION :***
+**📆 DATE : 10/01/2024**
 <br>
 
+**🧭 OVERVIEW :** <br>
 
+<br>
 
+**🗂️ ATTACHMENT :** <br>
 
+<br>
 
+**💭 REFLECTION :** <br>
 
+<br>
 
 <br>
 <br>
