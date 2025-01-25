@@ -204,10 +204,11 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🗂️ ATTACHMENT :** <br>
-- [PROJECT PROPOSAL]()
-- [PROJECT VIDEO](https://youtu.be/UahuLUPwDV4)
+- [PROJECT PROPOSAL](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Design%20Thinking%20Project/Design%20Thinking%20Project%20(Eyedentity%20Proposal).pdf)
+<h3 align="center"> <a href="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Design%20Thinking%20Project/Design%20Thinking%20Project%20(Eyedentity%20Proposal).pdf"> <img src="https://github.com/user-attachments/assets/9f181b13-dbfb-41bb-8894-b6ecfd108970" alt="Design Thinking Project (Eyedentity Proposal)" width="450" height="auto"/> </a> </h3>
 
-<h3 align="center"> <a href="https://youtu.be/UahuLUPwDV4"> <img src="https://github.com/user-attachments/assets/e9360075-48d0-41f6-bc34-f71e8bf1f207" alt="Project Video" width="500" height="auto"/> </a> </h3>
+- [PROJECT VIDEO](https://youtu.be/UahuLUPwDV4)
+<h3 align="center"> <a href="https://youtu.be/UahuLUPwDV4"> <img src="https://github.com/user-attachments/assets/e9360075-48d0-41f6-bc34-f71e8bf1f207" alt="Design Thinking Project (Video)" width="510" height="auto"/> </a> </h3>
 
 <br>
 
