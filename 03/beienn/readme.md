@@ -200,7 +200,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-**The Design Thinking project emphasizes a problem-solving approach centered on understanding people’s needs and developing solutions to address them. It involves fostering creativity, generating ideas, testing them, and refining solutions based on feedback. Our group’s theme is Cyber Security. After a series of discussions, we proposed a system called EYEDENTITY, designed to replace the current student matric card with iris scanning as the biometric for added security.**
+**The Design Thinking Project emphasizes a problem-solving approach centered on understanding people’s needs and developing solutions to address them. It involves fostering creativity, generating ideas, testing them, and refining solutions based on feedback. Our group’s theme is Cyber Security. After a series of discussions, we proposed a system called EYEDENTITY, designed to replace the current student matric card with iris scanning as the biometric for added security.**
 <br>
 
 **🗂️ ATTACHMENT :** <br>
