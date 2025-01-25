@@ -200,7 +200,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 <br>
 
-<h3 align="center"> 💡PROJECT : DESIGN THINKING (REPORT & VIDEO) </h3>
+<h3 align="center"> 💡PROJECT : DESIGN THINKING (PROPOSAL & VIDEO) </h3>
 
 **📆 DATE : 10/01/2024**
 <br>
@@ -210,6 +210,9 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🗂️ ATTACHMENT :** <br>
+- [PROJECT PROPOSAL]()
+- [PROJECT VIDEO](https://youtu.be/UahuLUPwDV4)
+
 
 <br>
 
