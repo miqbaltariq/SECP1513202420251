@@ -3,7 +3,7 @@
 Hi there! I'm **Nurin Iffah**, a first-year Computer Science (Data Engineering) student at UTM Johor Bahru. I'm passionate about exploring the world of data, building scalable systems, and solving real-world problems through technology.
 
 ### About Me
-- 🔭 Currently learning: **Data Engineering pipelines** and **C++ programming**  
+- 🔭 Currently learning: **Data Engineering** and **C++ programming**  
 - 🌱 Exploring: **Big Data**, **Cloud Computing**, and **Machine Learning**  
 - 💡 Always curious about: **Innovative tech solutions**  
 
