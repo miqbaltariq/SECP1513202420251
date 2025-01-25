@@ -9,13 +9,6 @@ Welcome to my GitHub! I'm a student passionate about learning, exploring technol
 
 ---
 
-### 🚀 About Me  
-- 📚 I love trying new things as much I can to get out of my comfort zone !
-- 🎥 I create content in TikTok to gain experience my saving 💰
-- 🌍 I am addicting in travelling the world to explore new places and cultures !
-
----
-
 ### 🏆 Achievements  
 Here are some highlights from my journey so far:  
 - 🥇 **First place in the Japanese Calligraphy competition** at the district level in Fukuoka.  
