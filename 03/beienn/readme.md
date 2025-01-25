@@ -70,19 +70,18 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <h3 align="center"> <em>Big thanks to my awesome groupmates for all the hard work and collaboration! <br> Here's my team, Techticians:</em> </h3>
 
-<img src="" width='61' align="left" />
-
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/38bb79c9-e73d-4e35-bf8d-75d984075d98" alt="image" width="450" height="auto" /> </h3>
 <br>
 
 **From left to right in the photo:**
 <br>
-1️⃣  – 
+1️⃣ [**Kavivarthan A/L Mannivanan – A24CS0093**](https://github.com/kavivarthanmannivanan)
 <br>
-2️⃣  – 
+2️⃣ [**Lim Bei En (me) – A24CS5080**](https://github.com/beienn)
 <br>
-3️⃣  – 
+3️⃣ [**Phang Souh Xin – A24CS5051**](https://github.com/phangsx25)
 <br>
-4️⃣  – 
+4️⃣ [**Muhammad Firdaus bin Md Lani – A24CS0132**](https://github.com/firdauslani03)
 <br>
 <br>
 
@@ -162,7 +161,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 **🗂️ ATTACHMENT :** <br>
 [ASSIGNMENT 3 (ACADEMIC WRITING)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%203%20(Academic%20Writing).pdf)
 
-<h3 align="center"> <a href="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%203%20(Academic%20Writing).pdf"> <img src="https://github.com/user-attachments/assets/c154c4b2-5b1a-4eb8-8dd6-6af6adea325a" alt="Assignment 2 (Video)" width="500" height="auto"/> </a> </h3>
+<h3 align="center"> <a href="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%203%20(Academic%20Writing).pdf"> <img src="https://github.com/user-attachments/assets/c154c4b2-5b1a-4eb8-8dd6-6af6adea325a" alt="Assignment 3 (Academic Writing)" width="500" height="auto"/> </a> </h3>
 
 <br>
 
@@ -207,6 +206,8 @@ In the future, I aspire to create innovative projects in fields like animation, 
 **🗂️ ATTACHMENT :** <br>
 - [PROJECT PROPOSAL]()
 - [PROJECT VIDEO](https://youtu.be/UahuLUPwDV4)
+
+<h3 align="center"> <a href="https://youtu.be/UahuLUPwDV4"> <img src="https://github.com/user-attachments/assets/e9360075-48d0-41f6-bc34-f71e8bf1f207" alt="Project Video" width="500" height="auto"/> </a> </h3>
 
 <br>
 
