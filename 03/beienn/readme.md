@@ -186,7 +186,7 @@ This lab requires us to collaborate in small groups to assemble and reassemble c
 <br>
 
 **🗂️ ATTACHMENT :** <br>
-[ASSIGNMENT 4 (POSTER)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%201%20(Poster).pdf)
+[ASSIGNMENT 4 (POSTER)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%204%20(Poster).pdf)
 
 <h3 align="center"> <img src="https://github.com/user-attachments/assets/73574a7c-8627-41da-863f-ef8d7490a7d1" alt="image" width="400" height="auto" /> </h3> 
 <br>
