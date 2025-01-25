@@ -94,7 +94,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-This lab requires us to collaborate in small groups to assemble and reassemble computer hardware, gaining essential hands-on skills and a comprehensive understanding of PC architecture and functionality.
+This lab requires us to collaborate in small groups to assemble and reassemble computer hardware, gaining essential hands-on skills and a comprehensive understanding of PC architecture and functionality. After completing the lab, we also participated in a quiz to test our knowledge and reinforce what we learned about PC assembly.
 <br>
 
 **🗂️ ATTACHMENT :** <br>
