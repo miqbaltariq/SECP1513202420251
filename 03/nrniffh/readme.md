@@ -12,3 +12,8 @@ Hi there! I'm **Nurin Iffah**, a first-year Computer Science (Data Engineering) 
 - 💼 LinkedIn: www.linkedin.com/in/nurin-iffah-ahmad-borhan 
 - 📫 Reach me: nuriniffah@gmail.com  
 
+| Assignment       | Description                            | Date       | Reflection                          |
+|------------------|----------------------------------------|------------|-------------------------------------|
+| Assignment 1     |                                        |            |                                     |
+| Assignment 2     |                                        |            |                                     |
+| Assignment 3     |                                        |            |                                     |
