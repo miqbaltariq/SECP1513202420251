@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a student passionate about learning, exploring technol
 
 ### 🏆 Achievements  
 Here are some highlights from my journey so far:  
-- 🥇 **First place in the Japanese Calligraphy competition** at the district level in Fukuoka.  
+- 🥇 **First place in the Japanese Calligraphy competition** at the district level in Fukuoka, Japan.  
 - 📜 **Participated in Kawad Kaki** for Malaysia's 61st Independence Day.  
 - 🌟 **Participated in DidikTV** for the History subject on the topic of the Separation of Singapore.  
 
