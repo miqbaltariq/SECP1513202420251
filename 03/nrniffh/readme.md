@@ -8,7 +8,7 @@ Hi there! I'm **Nurin Iffah**, a first-year Computer Science (Data Engineering) 
 - 💡 Always curious about: **Innovative tech solutions**  
 
 ### Let's Connect!
-- 🌐 [Portfolio Website]   
-- 💼 [LinkedIn] www.linkedin.com/in/nurin-iffah-ahmad-borhan 
+- 🌐 Portfolio Website:   
+- 💼 LinkedIn: www.linkedin.com/in/nurin-iffah-ahmad-borhan 
 - 📫 Reach me: nuriniffah@gmail.com  
 
