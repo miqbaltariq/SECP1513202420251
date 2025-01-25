@@ -118,6 +118,8 @@ This lab requires us to collaborate in small groups to assemble and reassemble c
 <br>
 
 **🗂️ ATTACHMENT :** <br>
+[ASSIGNMENT 1 (POSTER)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%201%20(Poster).pdf)
+
 <h3 align="center"> <img src="https://github.com/user-attachments/assets/f7b91005-4614-431f-97e1-f39ae81d3159" alt="image" width="400" height="auto" /> </h3> 
 <br>
 
@@ -161,6 +163,9 @@ This lab requires us to collaborate in small groups to assemble and reassemble c
 <br>
 
 **🗂️ ATTACHMENT :** <br>
+[ASSIGNMENT 3 (ACADEMIC WRITING)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%203%20(Academic%20Writing).pdf)
+
+<h3 align="center"> <a href="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%203%20(Academic%20Writing).pdf"> <img src="https://github.com/user-attachments/assets/c154c4b2-5b1a-4eb8-8dd6-6af6adea325a" alt="Assignment 2 (Video)" width="500" height="auto"/> </a> </h3>
 
 <br>
 
@@ -181,6 +186,10 @@ This lab requires us to collaborate in small groups to assemble and reassemble c
 <br>
 
 **🗂️ ATTACHMENT :** <br>
+[ASSIGNMENT 4 (POSTER)](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/beienn/Assignment%201%20(Poster).pdf)
+
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/73574a7c-8627-41da-863f-ef8d7490a7d1" alt="image" width="400" height="auto" /> </h3> 
+<br>
 
 <br>
 
