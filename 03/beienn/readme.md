@@ -102,7 +102,7 @@ This lab requires us to collaborate in small groups to assemble and reassemble c
 <br>
 
 **💭 REFLECTION :** <br>
-
+This PC Assemble lab was a valuable hands-on experience that significantly deepened my understanding of computer hardware and its components. Working in a team also allowed us to share knowledge, solve problems together, and learn from each other. The quiz that followed helped reinforce the concepts learned during the lab and tested our ability to apply the knowledge in a practical setting. Overall, this experience enhanced my technical skills.
 <br>
 
 <br>
