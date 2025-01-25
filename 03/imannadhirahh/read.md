@@ -3,8 +3,8 @@
 
 Welcome to my GitHub! I'm a student passionate about learning, exploring technology, and sharing my journey through content creation.  
 
-- ✨ **Interested In:** Exploring the world 🌍  
-- 🌱 **Currently Learning:** New skills and languages  
+- ✨ **Hobby:** Travel the world 🌍  
+- 🌱 **Languages:** Malay, English, Arabic and Japanese 
 - 📫 **How to Reach Me:** imancyan1709@gmail.com | [LinkedIn](https://www.linkedin.com/in/siti-nur-iman-nadhirah-983b56312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
