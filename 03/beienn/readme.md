@@ -106,7 +106,6 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 <br>
-<br>
 
 <h3 align="center"> 🎙️ASSIGNMENT 1 : INDUSTRY TALK 1 (POSTER) </h3>
 
@@ -114,7 +113,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-
+**For Assignment 1, we created a poster based on the Industry Talk 1 webinar recording. Our assigned topic was EY Technology Consulting, presented by three speakers: Sharon, Brandon, and Fakrul. The talk focused on how EY Technology Consulting helps organizations succeed in the digital age.**
 <br>
 
 **🗂️ ATTACHMENT :** <br>
@@ -124,10 +123,9 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **💭 REFLECTION :** <br>
-
+**This talk inspired me to value adaptability and continuous self-improvement, recognizing that staying competitive in this field requires constant growth and a willingness to explore new areas. I also learned the importance of cultivating a diverse skill set, as reflected in the varied experiences shared by the speakers. Their insights highlighted how embracing different opportunities and perspectives can open doors to career success in the ICT industry.**
 <br>
 
-<br>
 <br>
 
 <h3 align="center"> 🎥ASSIGNMENT 2 : INDUSTRY VISIT 1 (VIDEO) </h3>
@@ -136,7 +134,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-
+**For Assignment 2, we were required to prepare a video on the visit to UTMDigital. This industry visit includes an industry talk by UTMDigital and a tour of its facilities, which are the Sangfor Room, Open Office, and Digital Care & Multipurpose Room. During the visit to the Open Office, we were given the opportunity to interview the staff of UTMDigital.**
 <br>
 
 **🗂️ ATTACHMENT :** <br>
@@ -147,10 +145,9 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **💭 REFLECTION :** <br>
-
+**The visit to UTMDigital was an eye-opening experience that offered valuable insights into the inner workings of the university's digital systems. It highlighted the importance of technology in modern organizations and inspired me to further explore the fields of digital systems and information technology. The experience not only enhanced my understanding but also motivated me to develop the skills needed to contribute to this ever-evolving industry.**
 <br>
 
-<br>
 <br>
 
 <h3 align="center"> 📝ASSIGNMENT 3 : INDUSTRY TALK 2 (ACADEMIC WRITING) </h3>
@@ -159,7 +156,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-
+**For Assignment 3, we were tasked with preparing an academic writing based on Industry Talk 2, titled *Skills in University and Industry*. The talk was presented by Mr. Nik Mohd Habibullah (CEO of Micro Semiconductor Sdn. Bhd) and Mr. Mohd Hakimi Iqmall (Information Technology Officer at UTMDigital). In this session, they shared their experiences, discussed the baisc skills required for computer science, and kills required by industry.**
 <br>
 
 **🗂️ ATTACHMENT :** <br>
@@ -170,10 +167,9 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **💭 REFLECTION :** <br>
-
+**This talk provided me with valuable insights into the essential skills needed for a successful career in the technology industry. Inspired by the speakers, I plan to actively learn new technologies through classes and enhance my problem-solving abilities by participating in tech competitions. These efforts will help me prepare for future challenges and stay competitive in this ever-evolving field.**
 <br>
 
-<br>
 <br>
 
 <h3 align="center"> 🤖ASSIGNMENT 4 : CODE’25 - BIOINFORMATICS WORKSHOP (POSTER) </h3>
@@ -182,7 +178,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-
+**For Assignment 4, we were required to prepare a poster on the CODE’25 workshop. The workshop our group attended was the Bioinformatics Workshop, presented by Sayang Elyiana Amiera Binti Helmey, a fresh graduate with a Bachelor’s degree in Computer Science (Bioinformatics). She discussed the applications of bioinformatics, emerging trends, technologies, transferable skills, and career paths in bioinformatics.**
 <br>
 
 **🗂️ ATTACHMENT :** <br>
@@ -194,10 +190,9 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **💭 REFLECTION :** <br>
-
+**From this workshop, I gained a deeper appreciation for bioinformatics, a field I had little familiarity with before. It was fascinating to learn how bioinformatics seamlessly integrates biology and computer science to address real-world challenges, such as disease detection and personalized medicine. I also discovered that the skills acquired in bioinformatics are versatile and applicable across a wide range of careers beyond biology. Speaker encouraged us to explore various career options and continuously improve ourselves.**
 <br>
 
-<br>
 <br>
 
 <h3 align="center"> 💡PROJECT : DESIGN THINKING (PROPOSAL & VIDEO) </h3>
@@ -206,21 +201,19 @@ In the future, I aspire to create innovative projects in fields like animation, 
 <br>
 
 **🧭 OVERVIEW :** <br>
-
+**The Design Thinking project emphasizes a problem-solving approach centered on understanding people’s needs and developing solutions to address them. It involves fostering creativity, generating ideas, testing them, and refining solutions based on feedback. Our group’s theme is Cyber Security. After a series of discussions, we proposed a system called EYEDENTITY, designed to replace the current student matric card with iris scanning as the biometric for added security.**
 <br>
 
 **🗂️ ATTACHMENT :** <br>
 - [PROJECT PROPOSAL]()
 - [PROJECT VIDEO](https://youtu.be/UahuLUPwDV4)
 
-
 <br>
 
 **💭 REFLECTION :** <br>
-
+**The development of the EYEDENTITY system has been an insightful experience, especially in understanding how technology can enhance security. EYEDENTITY offers a more efficient and secure alternative by using unique biometric data – iris scanning. I believe that implementing EYEDENTITY would make access to university facilities smoother and more secure. The process of designing and refining the system allowed me to explore how biometric data can provide higher levels of security. In conclusion, this project deepened my understanding of how technology can address real-world challenges.**
 <br>
 
-<br>
 <br>
 <br>
 
