@@ -17,6 +17,11 @@ Here are some highlights from my journey so far:
 
 ---
 
+### 🛠 Technical Skills
+[![C](https://img.shields.io/badge/-C_Language-blue?style=for-the-badge&logo=c)](#c-language-details) [![C++](https://img.shields.io/badge/-C++_Language-orange?style=for-the-badge&logo=cplusplus)](#c++-language-details) [![Python](https://img.shields.io/badge/-Python_Language-green?style=for-the-badge&logo=python)](#python-language-details)
+
+---
+
 ### 🤝 Meet My Team - TichTECHToe 
 Working with a fantastic group of like-minded individuals has been a key part of my learning experience!  
 - **[Nur Alia Athirah](https://github.com/nuraliaathirah):**  
