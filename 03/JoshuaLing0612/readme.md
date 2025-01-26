@@ -13,10 +13,10 @@
 - First year(Sem 1) of Bachelor of Computer Science (Data Engineering).
 - Contact me:
 <a href="https://www.instagram.com/joshualsy05/" target="_blank">
-<img src="https://github.com/user-attachments/assets/b4cbc4e8-aa8e-4e37-8f2c-49821ff34c50"  alt="Instagram" style="width: 10%"/>
+<img src="https://github.com/user-attachments/assets/b4cbc4e8-aa8e-4e37-8f2c-49821ff34c50"  alt="Instagram" style="width: 8%">
 </a>
-<a href="https://github.com/Parv53" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="50">
+<a href="https://github.com/JoshuaLing0612" target="_blank">
+<img src="https://github.com/user-attachments/assets/1d42d6e1-ffab-4ae7-84a2-24a78a1626b3" alt="GitHub" style="width: 8%">
 </a>
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
