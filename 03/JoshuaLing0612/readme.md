@@ -19,7 +19,7 @@
 <a href="https://github.com/JoshuaLing0612" target="_blank">
 <img src="https://github.com/user-attachments/assets/1d42d6e1-ffab-4ae7-84a2-24a78a1626b3" alt="GitHub" style="width: 8%">
 </a>
-
+---
 ## 🎓 Education Journey
 
 ### 📘 Primary School
@@ -49,7 +49,8 @@
 
 ## PROGRAMMING LANGUAGES👨‍💻 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-
+---
+ 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
