@@ -47,10 +47,11 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
   - - **Achievements**: [I proudly represented my school at the national robotics championship.]
 
 ## 📚📚 My Core Subjects For First Sem Of Data Engineering (1st year)
->  Discrete Structure
->  Digital Logic
->  Programming Technique 1
->  Technology Information & System
+1. Discrete Structure 
+2. Digital Logic
+3. Programming Technique 1
+4. Technology Information & System
+
 
 
 
