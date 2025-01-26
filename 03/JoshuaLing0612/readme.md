@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/JoshuaLing0612&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=JoshuaLing0612&color=green)
 <p align="center">WELCOME TO MY PROFILE!</p>
 <h1 align="center">HELLO, I'm JOSHUA LING SHANG YANG</h1>
 
