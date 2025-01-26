@@ -11,7 +11,7 @@ Our strategy involves real-time order tracking, analyzing order history to highl
 Additionally, we're developing a user-friendly mobile interface that offers the latest promotions, updates, and order capabilities for both staff and customers. | 
 
 *Final Project Draft*
---> Refer to Project Proposal Tech It Easy.pdf
+--> Refer to Project Proposal Tech It Easy.pdf(https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/rujithraa.nair/Design%20Thinking%20Project/Project%20Proposal%20Tech%20It%20Easy.pdf)
 
 
 *For more inquiry on the latest modifications on Cafe Ar Rayyan ordering system, can visit us at:
