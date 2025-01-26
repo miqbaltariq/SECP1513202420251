@@ -54,8 +54,7 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 
 
 
-
-Feel free to make any further adjustments or let me know if there's anything else you need!
+Feel free to contact me for further details !
 ---
 
 ## 📬 Contact Me
