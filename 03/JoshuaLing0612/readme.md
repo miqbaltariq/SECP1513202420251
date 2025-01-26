@@ -69,8 +69,8 @@
 **MY GROUP - #TechNoLimits**
 I'm lucky to team up with these marvelous teammates for the projects.
 Here are them ~~~~
-<div align="middle">
-<img src="https://github.com/user-attachments/assets/31f3c4c1-216a-4004-a4bd-0fac1de3c67f" align="right" style="width: 50%" />
+<div align="right">
+<img src="https://github.com/user-attachments/assets/31f3c4c1-216a-4004-a4bd-0fac1de3c67f" align="middle" style="width: 30%" />
 </div>
 
 | Name               | Age | Occupation          | Salary      | Address                                      |
