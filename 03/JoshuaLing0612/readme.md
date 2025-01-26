@@ -67,14 +67,21 @@
 
 ## Technology and Information System
 **MY GROUP - #TechNoLimits**
+
 I'm lucky to team up with these marvelous teammates for the projects.
+
 Here are them ~~~~
+
 <div align="middle">
 <img src="https://github.com/user-attachments/assets/31f3c4c1-216a-4004-a4bd-0fac1de3c67f" align="middle" style="width: 30%" />
 </div>
 
-| Name               | Age | Occupation          | Salary      | Address                                      |
-|--------------------|-----|---------------------|-------------|----------------------------------------------|
-| Ahmad bin Ismail   | 32  | Software Engineer   | RM6,500/month | No. 12, Jalan Indah 3, Taman Indah, 43000 Kajang, Selangor |
-| Siti Nur Aisyah    | 28  | Marketing Executive | RM4,200/month | Unit 5A, Block B, Pangsapuri Seri Mutiara, 11800 Gelugor, Penang |
-| Rajesh a/l Maniam  | 40  | Operations Manager  | RM8,000/month | Lot 23, Jalan Impian 2, Taman Impian Jaya, 81300 Skudai, Johor |
+### Assignment for This Course
+
+| NO | Date        | Description | Detail | Reflection     |
+|----|-------------|-------------|--------|----------------|
+| 01 | 23 NOV 2024 | Poster of Industry talk 1: EY TECHNOLOGY CONSULTING | Software Engineer   | EY company was a really successful company that I never heard before. From the talk, I was appreciate that I got the chance to heard about they going to success, it was useful for me. I had learn the skills those they applied to their works and their teamworks then I will apply those skills in my daily life |
+| 02 | 10 DEC 2024 | Video of Industry Visit: UTM Digital  | Marketing Executive | It was fun that I had opportunity to have a look into deeper to my university facility. There was the place where forming the UTMSmart application and the other services those I can use smoothly. It was enlarge my view about IT infrastructure |
+| 03 | 17 DEC 2024 | Academic Report of Industry Talk: Skills required by Computer Science and Industry  | Operations Manager  | The talk given by Encik Hakimi was very useful to me, as those technically skills and industrial skills were important to me to be a success programmer. Encik Hakimi also shared his real-life experience to the audiences. The sharing was motivating me a lot to work hard to improve my personal skills |
+| 04 | 11 JAN 2025 | Poster of OSINT Workshop at CODE'25 | | Participating in the CODE'25 event was a unique experience for me to learn about networking skills. It was showing that how can we restore the deleted post through the website, and we can even spot the scammers' email through an unique skill. |
+| 05 | 17 JAN 2025 | Design Thinking Project(Smart Hospital) | | Through the design-think project, I got a closer view about the IoT-based technology in the hospital. It was a valuable experience for me as I never heard about this technology before I got into deeper. Every single job was done by my teammates and I to make out those prototype and learn they were functioning in real life. Really thankful to my teammates as this project was fun and every team members were cooperating with each other |
