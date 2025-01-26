@@ -88,7 +88,10 @@ Here are them ~~~~
 
 **#You can CLICK the picture to get the Details**
 
-## 🦾 OTHER ASSESSMENTS 
+
+
+
+### OTHER ASSESSMENTS 
 | DATE      | EVENT  | DESCRIPTION          | REFLECTION           |
 |-----------|--------|----------------------|----------------------|
 | 22 OCT 2024 | PC Assemble                       | PC Assemble    | As I had assembled my PC at home before this, I can do it quite fast so I got to help my friends. I had explain to them the procedure to assemble the PC when they did not remember. It was good experience for me to make new friends from other courses|
