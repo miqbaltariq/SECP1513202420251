@@ -1,5 +1,5 @@
 ## Assignment 4
-Poster on Industrial Visit - POWER BI Workshop
+*Poster on Industrial Visit - POWER BI Workshop*
 
 ![image](https://github.com/user-attachments/assets/6bc2d412-11a7-4e45-9eaa-6bf997933ef0)
 
