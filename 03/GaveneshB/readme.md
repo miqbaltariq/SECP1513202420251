@@ -51,8 +51,14 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 # Project TIS  
 ### Here are my amazing teammates who contribute so much to our projects:
 
+<div align="center">
+
+
+  
 <img src="https://github.com/user-attachments/assets/67972563-a037-45eb-98af-00a8aacec24f"  width="500" />
 
+
+</div>
 
 
 
