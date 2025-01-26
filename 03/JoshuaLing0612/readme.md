@@ -13,7 +13,7 @@
 - First year(Sem 1) of Bachelor of Computer Science (Data Engineering).
 - Contact me:
 <a href="https://www.instagram.com/joshualsy05/" target="_blank">
-<img src="https://github.com/user-attachments/assets/b4cbc4e8-aa8e-4e37-8f2c-49821ff34c50" style="height: 10%" alt="Instagram">
+<img src="https://github.com/user-attachments/assets/b4cbc4e8-aa8e-4e37-8f2c-49821ff34c50"  alt="Instagram" style="height: 10%"/>
 </a>
 <a href="https://github.com/Parv53" target="_blank">
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="50">
