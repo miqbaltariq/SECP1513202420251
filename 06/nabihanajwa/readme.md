@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabiha Najwa</h1>
-A passionate and dedicated computer science student with a keen interest in cybersecurity. This portfolio showcases my academic achievements, assignment projects, and the skills I've developed throughout my journey. Explore my work, and feel free to connect with me to discuss ideas, collaborate on projects, or share insights about technology!
+A passionate and dedicated computer science student with a keen interest in cybersecurity. This portfolio showcases my assignment projects and the valuable knowledge I've developed throughout my journey.
 <h2 align="center">📚Reflection</h2>
   <ul>
     <li>👩🏻‍🎓 ASSIGNMENT 1 - POSTER ON INDUSTRY TALK(AIRASIA)</li>
