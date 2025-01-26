@@ -1,5 +1,11 @@
 <p align="center">WELCOME TO MY PROFILE!</p>
-<h1 align="center">HI👋!! I'm JOSHUA LING SHANG YANG</h1>
+<h1 align="center">HELLO, I'm JOSHUA LING SHANG YANG</h1>
+
+## ABOUT ME~
+<div align="right">
+<img src="https://github.com/user-attachments/assets/4db0450e-9b82-4cb2-8949-6c5ab2d7ecf5" align="right" style="width: 20%" />
+</div>
+
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
