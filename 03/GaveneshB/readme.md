@@ -18,7 +18,11 @@
   <h2>🌐<strong> About Me</h2>
 </div>
 
-Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecstatic and overjoyed to be pursuing my degree in Data Engineering. Every single day is an exciting new adventure that brings me closer to fulfilling my passion for Computer Science and making a significant impact in this dynamic field.
+-My Birthday is on December 7th🎉🎂🎀💗🥳
+-Love hanging out with friend and like exploring thinds,Ps:(not an indoor person)˚˖𓍢ִ໋🍃˚.⛰️⋆☁️
+-I enjoy playing badminton and futsal in my free time.⚽🏸
+-Love to drive while listening to my favourite songs,Ps:(fan of Bruno Mars)↻ ◁ || ▷ ↺
+
 
 ---
 
