@@ -54,7 +54,16 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
  
 ---
- 
+
+## Studied Degree Course
+|       Sem 1        | 
+|--------------------|
+| Technology and Information System (SECP1513)|
+| Digital Logic (SECR1513)|
+| Programming Technique 1 (SECJ1513) |
+| Discrete Structure (SECI1513) |
+
+
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
