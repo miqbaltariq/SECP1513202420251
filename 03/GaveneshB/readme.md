@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm <strong>🤓🥸Gavenesh A/L Batumalai</strong> 👋👋</h1>
-                       ![Image](https://github.com/user-attachments/assets/5f1cb2d8-e818-4a02-9e52-419d969dca95)
+
+![](https://github.com/user-attachments/assets/5f1cb2d8-e818-4a02-9e52-419d969dca95)
+
+
+
 
 
   
