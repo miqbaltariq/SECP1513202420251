@@ -57,7 +57,7 @@
 
 ## Studied Degree Course
 | Year 1 |
-|--------|
+|--------|-------|
 |       Sem 1        | Sem 2 |
 |--------------------|-------|
 | Technology and Information System (SECP1513)|  |
