@@ -97,6 +97,17 @@
 | PC Assemble                       | PC Assemble                                                                                                           | 22 OCT 2024 | Since I already had knowledge of PC building before the assembly class, it was easy for me. I got to help my friends and show them how the PC parts are assembled in a more understandable way, thanks to our close communication.|
 | Industry Talk by Celcomdigi       | Industry Talk by Celcomdigi                                                                                           | 19 NOV 2024 | The talk provided me with insights into the primary uses of Virtual Reality, Augmented Reality, and Metaversity. The speakers' sharing of their personal experiences and success tips were incredibly inspiring and encouraged me to pursue my aspirations with renewed vigor.|
 
+## 🔠 Programming languages learned
+
+## Programming Languages
+
+- ![C](https://github.com/user-attachments/assets/c-icon.png) - C
+- ![C++](https://github.com/user-attachments/assets/cpp-icon.png) - C++
+- ![Python](https://github.com/user-attachments/assets/python-icon.png) - Python
+- ![Java](https://github.com/user-attachments/assets/java-icon.png) - Java
+
+
+
 
 
 Feel free to contact me for further details !
