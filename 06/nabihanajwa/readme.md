@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/6e/5f/9c/6e5f9c6a438bec033aa8f73c11333f16.jpg" alt="sample image">
-</p>
 
 <h1 align="center">Hi 👋, I'm Nabiha Najwa</h1>
 
