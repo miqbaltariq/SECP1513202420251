@@ -106,6 +106,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <br>
 
+------------------------------------------------------------
 <h3 align="center"> 🎙️ASSIGNMENT 1 : INDUSTRY TALK 1 (POSTER) </h3>
 
 **📆 DATE : 23/11/2024**
@@ -127,6 +128,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <br>
 
+------------------------------------------------------------
 <h3 align="center"> 🎥ASSIGNMENT 2 : INDUSTRY VISIT 1 (VIDEO) </h3>
 
 **📆 DATE : 10/12/2024**
@@ -149,6 +151,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <br>
 
+------------------------------------------------------------
 <h3 align="center"> 📝ASSIGNMENT 3 : INDUSTRY TALK 2 (ACADEMIC WRITING) </h3>
 
 **📆 DATE : 17/12/2024**
@@ -171,6 +174,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <br>
 
+------------------------------------------------------------
 <h3 align="center"> 🤖ASSIGNMENT 4 : CODE’25 - BIOINFORMATICS WORKSHOP (POSTER) </h3>
 
 **📆 DATE : 10/01/2024**
@@ -194,6 +198,7 @@ In the future, I aspire to create innovative projects in fields like animation, 
 
 <br>
 
+------------------------------------------------------------
 <h3 align="center"> 💡PROJECT : DESIGN THINKING (PROPOSAL & VIDEO) </h3>
 
 **📆 DATE : 10/01/2024**
