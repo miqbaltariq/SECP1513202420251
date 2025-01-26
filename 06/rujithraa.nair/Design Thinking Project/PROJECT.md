@@ -2,7 +2,7 @@
 
 *Project Overview*
 
-![Cafe Ar Rayyan Cfe and Catering](https://github.com/user-attachments/assets/216aeab0-a599-48ad-ad34-1a125759100f)
+![Cafe Ar Rayyan Cafe and Catering](https://github.com/user-attachments/assets/216aeab0-a599-48ad-ad34-1a125759100f)
 
 |                                                                      **Mini Reflection**                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +11,7 @@ Our strategy involves real-time order tracking, analyzing order history to highl
 Additionally, we're developing a user-friendly mobile interface that offers the latest promotions, updates, and order capabilities for both staff and customers. | 
 
 *Final Project Draft*
-Refer to Project Proposal Tech It Easy.pdf
+--> Refer to Project Proposal Tech It Easy.pdf
 
 
 *For more inquiry on the latest modifications on Cafe Ar Rayyan ordering system, can visit us at:
