@@ -18,10 +18,11 @@
   <h2>🌐<strong> About Me</h2>
 </div>
 
--My Birthday is on December 7th🎉🎂🎀💗🥳
--Love hanging out with friend and like exploring thinds,Ps:(not an indoor person)˚˖𓍢ִ໋🍃˚.⛰️⋆☁️
--I enjoy playing badminton and futsal in my free time.⚽🏸
--Love to drive while listening to my favourite songs,Ps:(fan of Bruno Mars)↻ ◁ || ▷ ↺
+- My Birthday is on December 7th 🎉🎂🎀💗🥳
+- Love hanging out with friends and exploring things, Ps: (not an indoor person) ˚˖𓍢ִ໋🍃˚⛰️⋆☁️
+- I enjoy playing badminton and futsal in my free time ⚽🏸
+- Love to drive while listening to my favorite songs, Ps: (fan of Bruno Mars) ↻ ◁ || ▷ ↺
+
 
 
 ---
