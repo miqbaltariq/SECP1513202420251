@@ -12,7 +12,7 @@
 - Currently studying at Universiti Teknologi Malaysia(UTM), Johor.
 - First year(Sem 1) of Bachelor of Computer Science (Data Engineering).
 - Contact me:
-<a href="https://www.instagram.com/joshualsy05/" target="_blank">
+     <a href="https://www.instagram.com/joshualsy05/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
 </a>
 
