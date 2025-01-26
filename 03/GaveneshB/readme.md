@@ -24,25 +24,25 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 
 ## 📝 My Skills
 
-- **[Robotics]**:           Competed at an international level in robotics by participating in the Virtual Robotics Championship, showcasing my skills in 
+- **[🤖Robotics]**:           Competed at an international level in robotics by participating in the Virtual Robotics Championship, showcasing my skills in 
                             design, programming, and problem-solving.
   
-- **[Ethical Hacking]**:    Completed an ethical hacking course on Udemy within 5 months during my SPM break, gaining valuable knowledge in cybersecurity and 
+- **[🖥️Ethical Hacking]**:    Completed an ethical hacking course on Udemy within 5 months during my SPM break, gaining valuable knowledge in cybersecurity and 
                             ethical hacking practices.
   
-- **[Python Programming]**: My school provided private sessions of Python programming classes during my school days to prepare us for robotics competitions, which significantly developed my skills in Python programming.
+- **[👨🏻‍💻Python Programming]**: My school provided private sessions of Python programming classes during my school days to prepare us for robotics competitions, which significantly developed my skills in Python programming.
 
 ---
 # 🎓 Education 
-  ## Bachelor of Data Engineering **Universiti Teknologi Malaysia (UTM) Johor Bahru, Skudai**
+  ## 🏛️Bachelor of Data Engineering **Universiti Teknologi Malaysia (UTM) Johor Bahru, Skudai**
   - **Duration**: [2024] - Present
   - - **Achievements**: [Worked as a Crew in CODE 25]
    
-   ## Pre University Education **[Kolej Matrikulasi Selangor]**
+   ## 🏫Pre University Education **[Kolej Matrikulasi Selangor]**
   - - **Duration**: [2023] - [2024]
   - - **Achievements**: [Class representetive], [Total CGPA of 3.96], ...
 
-  ## High School Education **[Sekolah Menengah Kebangsaan Bukit Sentosa]**
+  ## 🎒High School Education **[Sekolah Menengah Kebangsaan Bukit Sentosa]**
   - - **Duration**: [2018] - [2023]
   - - **Achievements**: [I proudly represented my school at the national robotics championship.]
 
