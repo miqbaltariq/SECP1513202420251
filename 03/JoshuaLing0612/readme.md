@@ -23,21 +23,27 @@
 ## 🎓 Education Journey
 
 ### 📘 Primary School
-**[SK METHODIST ANGLO-CHINESE]**, [Sarikei, Sarawak]  
-*[2012]* – *[2017]*  
+**SK METHODIST ANGLO-CHINESE**, Sarikei, Sarawak
+*2012* – *2017*  
 
-### 📙 Secondory School
-- **[SMK ST. ANTHONY]**, [Sarikei, Sarawak]  
-  *[2018]* – *[2022]*   
+### 📗 Secondory School
+- **SMK ST. ANTHONY**, Sarikei, Sarawak 
+  *2018* – *2022*   
   - Club Attempt:
-    - [Wushu(Vice President)]
-    - [Badminton(President)]
-    - [Chinese Club(President)]
-- SPM Result: 8A 2B+
+    - Wushu(Vice President)
+    - Badminton(President)
+    - Chinese Club(President)
+- **SPM Result: 8A 2B+**
+
+### 📙 Pre-University
+- **Malacca Matriculation College**, Masjid Tanah, Melaka
+  *2023* - *2024*
+- **CGPA 3.96**
+- **Muet Band 3.5**
 
 ### 📕 University
-- **[University Teknologi Malaysia]**, [Skudai, Johor]  
-  *[2024]*  
+- **University Teknologi Malaysia**, Skudai, Johor 
+  *2024*  
   Pursuing a degree in **[Bachelor of Computer Science (Data Engineering)]**.  
 ---
 
