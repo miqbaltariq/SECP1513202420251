@@ -58,12 +58,17 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 Feel free to make any further adjustments or let me know if there's anything else you need!
 ---
 
-## 📧 Contact Me
+## 📬 Contact Me
 
-Feel free to reach out to me at:
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+<div align="center">
+
+[![Email]![Image](https://github.com/user-attachments/assets/35826923-8e66-4392-a074-f306d297e2ce)](mailto:ggaveneshe@gmail.com)
+[![Instagram](![Image](https://github.com/user-attachments/assets/93a9ed87-2c0c-4fe4-ba93-b7cf12142455))](https://www.instagram.com/gave0712/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+</div>
+
 
 ---
 
