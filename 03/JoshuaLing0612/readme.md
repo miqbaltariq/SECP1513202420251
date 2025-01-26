@@ -11,8 +11,8 @@
 - Love playing games, for sports like playing badminton.
 - Currently studying at Universiti Teknologi Malaysia(UTM), Johor.
 - First year(Sem 1) of Bachelor of Computer Science (Data Engineering).
-- Contact me:
 - My email : lingjoshua45@gmail.com
+- Contact me:
 <a href="https://www.instagram.com/joshualsy05/" target="_blank">
 <img src="https://github.com/user-attachments/assets/b4cbc4e8-aa8e-4e37-8f2c-49821ff34c50"  alt="Instagram" style="width: 8%">
 </a>
@@ -20,6 +20,26 @@
 <img src="https://github.com/user-attachments/assets/1d42d6e1-ffab-4ae7-84a2-24a78a1626b3" alt="GitHub" style="width: 8%">
 </a>
 
+## 🎓 Education Journey
+
+### 📘 Primary School
+**[SK METHODIST ANGLO-CHINESE]**, [Sarikei, Sarawak]  
+*[2012]* – *[2017]*  
+
+### 📙 Secondory School
+- **[SMK ST. ANTHONY]**, [Sarikei, Sarawak]  
+  *[2018]* – *[2022]*   
+  - Club Attempt:
+    - [Wushu(Vice President)]
+    - [Badminton(President)]
+    - [Chinese Club(President)]
+- SPM Result: 8A 2B+
+
+### 📕 University
+- **[University Teknologi Malaysia]**, [Skudai, Johor]  
+  *[2024]*  
+  Pursuing a degree in **[Bachelor of Computer Science (Data Engineering)]**.  
+---
 
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
