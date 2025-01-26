@@ -60,8 +60,6 @@ Feel free to make any further adjustments or let me know if there's anything els
 
 ## 📬 Contact Me
 
-## 📬 Contact Me
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggavenesh@gmail.com)
