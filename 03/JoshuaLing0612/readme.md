@@ -56,9 +56,7 @@
 ---
 
 ## Studied Degree Course
-| Year 1 |
-|--------|-------|
-|       Sem 1        | Sem 2 |
+|      Year 1 Sem 1        | Year 1 Sem 2 |
 |--------------------|-------|
 | Technology and Information System (SECP1513)|  |
 | Digital Logic (SECR1513)|  |
