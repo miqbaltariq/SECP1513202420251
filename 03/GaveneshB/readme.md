@@ -62,8 +62,10 @@ Feel free to make any further adjustments or let me know if there's anything els
 
 <div align="center">
 
-[![Email]![Image](https://github.com/user-attachments/assets/35826923-8e66-4392-a074-f306d297e2ce)](mailto:ggaveneshe@gmail.com)
-[![Instagram](![Image](https://github.com/user-attachments/assets/93a9ed87-2c0c-4fe4-ba93-b7cf12142455))](https://www.instagram.com/gave0712/))
+[![Email](![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:your-email@example.com)
+](mailto:ggaveneshe@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+](https://www.instagram.com/gave0712/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
