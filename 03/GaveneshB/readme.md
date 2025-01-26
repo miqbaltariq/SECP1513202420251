@@ -39,13 +39,18 @@ Currently pursuing my bachelor degree in Data Engineering , I am absolutely ecst
 
 ## 💻 Projects
 
-### 🌟 [Project Name]
-- **Description**: *[Brief Description of the Project]*
-- **Technologies Used**: *[List of Technologies]*
+# Project TIS  
 
-### 🌟 [Project Name]
-- **Description**: *[Brief Description of the Project]*
-- **Technologies Used**: *[List of Technologies]*
+## Reflection of my assignment and project  
+
+| No | Assignment                                                                                     | Reflection                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Poster of Industry talk 1: Petronas                                                           | The talk from Petronas provided essential knowledge about how important the jobs in ICT are to play a meaningful role in industry. The talk gave me a better understanding of the changing energy industry and how Petronas is focusing on sustainability and innovation. I learned about their efforts to move beyond oil and gas into renewable energy, while also using digital tools to create long-term benefits. The talk inspired me with new ideas and gave me practical tips for building a meaningful career. |
+| 2  | Video of Industry Visit: UTM Digital                                                         | This session gave me valuable insights into UTM Digital's services and how they enhance my academic experience. I learned how tools like UTM ID and UTM Smart make it easier for me to access resources, manage my studies, and stay informed. The focus on reliable IT infrastructure, data management, and cybersecurity reassured me of the university’s commitment to supporting students like me.                                                                                     |
+| 3  | Academic Report of Industry Talk: Skills required by computer science and industry            | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 4  | Poster of Industry visit 2 at CODE'25                                                        | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 5  | Design Thinking Project                                                                      | --                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
 
 ---
 
