@@ -5,9 +5,28 @@ Hi, I'm Lim Zoey! 👋🏻
 I’m currently a first- year student studying Computer Science in Network and Security at Universiti Teknologi Malaysia (UTM). I’m particularly interested in pursuing a career in either cybersecurity or artificial intelligence, as I’m fascinated by the ways these fields shape our world and keep it secure. In the future, I desperate to create innovative solutions that enhance security or push the boundaries of AI. Outside of coding, I enjoy outdoor activities like diving and exploring emerging technologies.
 
 ## ACADEMIC BACKGROUND
+| **EDUCATIONAL LEVEL** | **INSTITUTION** |
+|---------------|---------------|
+| **Primary Education** | SJK(C) SIN MIN A |
+| **Secondary Education** | SMJK SIN MIN |
+| **Pre-U Foundation** | SUNWAY COLLEGE KL |
+| **Undergraduate Degree** | UNIVERSITI TEKNOLOGI MALAYSIA (UTM) |
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+## CURRENT STUDYING (2024/2025-1)
+| **SUBJECT** | **CREDIT HOURS** |
+|---------------|---------------|
+| **Programming Technique I** | 3|
+| **Discrete Structure** | 3 |
+| **Digital Logic** | 3 |
+| **Technology and Information System** | 3 |
+| **Integriti and Anti-Corruption Course** | 2 |
 
 ### 🌐 Connect with Me
-- 📫 How to reach me **zoeylim616@gmail.com**
+- 📫 How to reach me **zoeylim616@gmail.com** 
 
+| **EDUCATIONAL LEVEL** | **INSTITUTION** |
+|---------------|---------------|
+| **Primary Education** | SJK(C) SIN MIN A |
+| **Secondary Education** | SMJK SIN MIN |
+| **Pre-U Foundation** | SUNWAY COLLEGE KL |
+| **Undergraduate Degree** | UNIVERSITI TEKNOLOGI MALAYSIA (UTM) |
