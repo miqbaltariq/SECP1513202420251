@@ -37,3 +37,8 @@ I’m currently a first- year student studying Computer Science in Network and S
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
 </div>
 
+## TECHNOLOGY AND INFORMATION SYSTEM
+Genuinely felt gratitude to all my awesome teammates for all the hardwork and tolerance!
+
+Here's my team - **TEAM TECHNOLIMITS**
+
