@@ -8,10 +8,16 @@
   
 - 🎓 My current courses **Programming Technique I, Digital Logic, Technology and Information System, Discrete Structure**
   
-- **junlerlee1130@gmail.com**
+- 📧 My email adress : **junlerlee1130@gmail.com**
   
-|Assignment   |Description      |Date        |Reflection                   |
-|-------------|-----------------|------------|-----------------------------|
+|No |Assignment   |Date        |Reflection                   |
+|---|-------------|------------|-----------------------------|
+| 1 |Poster|2000|blablabla|
+| 2 |Video|2000|blablabla|
+| 3 |Report|2000|blablabla|
+| 4 |Poster|2000|blablabla|
+| 5 |Report|2000|blablabla|
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
