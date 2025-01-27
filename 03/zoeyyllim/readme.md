@@ -23,10 +23,3 @@ I’m currently a first- year student studying Computer Science in Network and S
 
 ### 🌐 Connect with Me
 - 📫 How to reach me **zoeylim616@gmail.com** 
-
-| **EDUCATIONAL LEVEL** | **INSTITUTION** |
-|---------------|---------------|
-| **Primary Education** | SJK(C) SIN MIN A |
-| **Secondary Education** | SMJK SIN MIN |
-| **Pre-U Foundation** | SUNWAY COLLEGE KL |
-| **Undergraduate Degree** | UNIVERSITI TEKNOLOGI MALAYSIA (UTM) |
