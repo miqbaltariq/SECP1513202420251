@@ -11,9 +11,18 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 
 - ⚔️ Likes to play video games 
 
-- 🔭 I’m currently studying **Digital Logic , Programming Technique , Discrete Structure , Technology Information System**
+- 🔭 I’m currently studying
 
-- 🌱 I’m currently learning **C++ , Phyton , JavaScript**
+  - [Digital Logic]
+  - [Discrete Structure]
+  - [Programming Language]
+  - [Technology Informatic System]
+
+- 🌱 I’m currently learning
+
+  - [C++]
+  - [Phyton]
+  - [JavaScript]
 
 - 🎉 Birthday on 13 December
 
@@ -45,9 +54,12 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliffhelmi05&show_icons=true&locale=en" alt="aliffhelmi05" /></p>
 
 
+# 🖥️ Technology Infirmation System
+
+
 | No. | Assignments | Reflections |
 |-----|---------------------|--------------------|
-| 1   |                     |                   |
+| 1   |  PC Assemble                   |                   |
 | 2   |                     |                   |
 | 3   |                     |                   |
 | 4   |                     |                   |
