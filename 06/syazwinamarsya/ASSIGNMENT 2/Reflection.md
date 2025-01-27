@@ -1,1 +1,3 @@
+The visit to UTM Digital was truly an eye-opening experience and now I know how the industry works.What stood out the most is the cutting edge facilities.During the visit,I visited every meeting room that is sponsored by the big company from US such as Ruckus that known as network company.Me and my groupmates are able to interview one of the staff,Mr.Iqmall,he is truly an amaazing worker,he works as System Analyst,I learnt so much from him.
 
+This visit has deepened my appreciation for the role of innovation in shaping the future and has motivated me to explore how I can contribute to technological advancements in my own journey.
