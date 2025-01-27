@@ -6,11 +6,11 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |Files/Links                    |Reflection                   |
-|----------------|-------------------------------|-----------------------------|
-|Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-|Assignment 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Assignment 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Assignment 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|                           |Files/Links                    |Reflection                   |
+|---------------------------|-------------------------------|-----------------------------|
+|Assignment 1               |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Assignment 2               |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Assignment 3               |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|Assignment 4               |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|PC Assemble                |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Project Design Thinking    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
