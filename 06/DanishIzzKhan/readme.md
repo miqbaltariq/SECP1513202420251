@@ -14,4 +14,5 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Assignment 3|[Academic Writing.pdf](https://github.com/user-attachments/files/18558117/Academic.Writing.pdf)|-- is en-dash, --- is em-dash|
 |Assignment 4| test |-- is en-dash, --- is em-dash|
 |PC Assembling| test |-- is en-dash, --- is em-dash|
-|Project Design Thinking| test |-- is en-dash, --- is em-dash|
+|Project Design Thinking|[Tech Wizards Proposal.pdf](https://github.com/user-attachments/files/18558180/Tech.Wizards.Proposal.pdf) / https://youtu.be/xDs3rJtNVoQ|-- is en-dash, --- is em-dash|
+
