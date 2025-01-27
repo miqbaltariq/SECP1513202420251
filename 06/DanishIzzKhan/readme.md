@@ -8,9 +8,9 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |                           |Files/Links                    |Reflection                   |
 |---------------------------|-------------------------------|Files/Links                    |
-|Assignment 1               |[Industry Talk (EY Tech Consulting).pdf](https://github.com/user-attachments/files/18557902/Industry.Talk.EY.Tech.Consulting.pdf)           |Files/Links                    |
-|Assignment 2               |https://drive.google.com/file/d/1fJqch2VHbt6l9O0Iyh8p4al5WYoepm1N/view?usp=sharing            |Files/Links                    |
-|Assignment 3               |[PROJECT Digital Logic.pdf](https://github.com/user-attachments/files/18557937/PROJECT.Digital.Logic.pdf)|Files/Links                    |
+|Assignment 1|[Industry Talk (EY Tech Consulting).pdf](https://github.com/user-attachments/files/18557902/Industry.Talk.EY.Tech.Consulting.pdf)|Files/Links|
+|Assignment 2|https://drive.google.com/file/d/1fJqch2VHbt6l9O0Iyh8p4al5WYoepm1N/view?usp=sharing|Files/Links|
+|Assignment 3|[PROJECT Digital Logic.pdf](https://github.com/user-attachments/files/18557937/PROJECT.Digital.Logic.pdf)|Files/Links|
 |Assignment 4               |`'Isn't this fun?'`            |Files/Links                    |
 |PC Assemble                |`"Isn't this fun?"`            |Files/Links                    |
 |Project Design Thinking    |`-- is en-dash, --- is em-dash`|Files/Links                    |
