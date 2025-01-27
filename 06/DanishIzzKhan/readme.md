@@ -9,7 +9,9 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |                |Files/Links                         |Reflection                         |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
+|Assignment 1|[Industry.Talk.EY.Tech.Consulting.pdf](https://github.com/user-attachments/files/18558097/Industry.Talk.EY.Tech.Consulting.pdf)|'Isn't this fun?'            |
+|Assignment 2| https://drive.google.com/file/d/1fJqch2VHbt6l9O0Iyh8p4al5WYoepm1N/view?usp=sharing |"Isn't this fun?"            |
+|Assignment 3|[Academic Writing.pdf](https://github.com/user-attachments/files/18558117/Academic.Writing.pdf)|-- is en-dash, --- is em-dash|
+|Assignment 4| test |-- is en-dash, --- is em-dash|
+|PC Assembing| test |-- is en-dash, --- is em-dash|
+|Project Design Thinking| test |-- is en-dash, --- is em-dash|
