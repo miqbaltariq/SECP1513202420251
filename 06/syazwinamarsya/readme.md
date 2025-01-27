@@ -1,13 +1,21 @@
-# Welcome to StackEdit!
+# 🌟 Welcome to My ePortfolio  
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-## SmartyPants
+Hi, I'm **Syazwina Marsya Binti Shahrizan**, a first-year **Computer Science (Computer Networks & Security)** student at **Universiti Teknologi Malaysia (UTM)**. I'm excited to explore the world of **network security**, **cybersecurity**, and **data engineering**, and I’m eager to develop skills that will prepare me for a career in this ever-evolving field.
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+---
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+## 🧑‍🎓 About Me  
+- 🎓 **Education**: Bachelor of Computer Science (Computer Networks & Security) with Honours, UTM  
+- 🌱 **Interests**: Cybersecurity, Networking, Ethical Hacking, Cloud Computing  
+- 🎯 **Career Goal**: To become a cybersecurity specialist  
 
+---
+
+## 💻 Skills  
+### **Technical Skills:**  
+- **Programming Languages**: Java, C++ (beginner level)  
+
+### **Soft Skills:**  
+- Communication  
+- Problem Solving  
+- Team Collaboration  
