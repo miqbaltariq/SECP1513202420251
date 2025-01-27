@@ -8,17 +8,10 @@
   
 - 🎓 My current courses **Programming Technique I, Digital Logic, Technology and Information System, Discrete Structure**
   
-- **My Personal Information**
+- **junlerlee1130@gmail.com**
   
-|                |Description                    |                |Description                    |
-|----------------|-------------------------------|----------------|-------------------------------|
-|NAME            | Lee Jun Ler                   |GENDER          | Male                          |
-|DATE OF BIRTH   | 30 November 2005              |RELATIONSHIP    | Single                        |
-|ADDRESS         | Skudai, Johor                 |HOBBY           | Reading and Jogging           |
-|PRE-U           | Foundation UTM SPACE, Johor   |EMAIL           | **junlerlee1130@gmail.com**   |
-|UNIVERSITY      | UTM, Johor                    |PHONE           | **+6011-5934 4314**           |
-
--
+|Assignment   |Description      |Date        |Reflection                   |
+|-------------|-----------------|------------|-----------------------------|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
