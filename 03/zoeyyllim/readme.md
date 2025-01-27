@@ -4,7 +4,7 @@ Hi, I'm Lim Zoey! 👋🏻
 
 I’m currently a first- year student studying Computer Science in Network and Security at Universiti Teknologi Malaysia (UTM). I’m particularly interested in pursuing a career in either cybersecurity or artificial intelligence, as I’m fascinated by the ways these fields shape our world and keep it secure. In the future, I desperate to create innovative solutions that enhance security or push the boundaries of AI. Outside of coding, I enjoy outdoor activities like diving and exploring emerging technologies.
 
-## ACADEMIC BACKGROUND
+## ACADEMIC BACKGROUND 👩🏻‍🎓
 | **EDUCATIONAL LEVEL** | **INSTITUTION** |
 |---------------|---------------|
 | **Primary Education** | SJK(C) SIN MIN A |
@@ -12,7 +12,7 @@ I’m currently a first- year student studying Computer Science in Network and S
 | **Pre-U Foundation** | SUNWAY COLLEGE KL |
 | **Undergraduate Degree** | UNIVERSITI TEKNOLOGI MALAYSIA (UTM) |
 
-## CURRENT STUDYING (2024/2025-1)
+## CURRENT STUDYING (2024/2025-1) 👩🏻‍💻
 | **SUBJECT** | **CREDIT HOURS** |
 |---------------|---------------|
 | **Programming Technique I** | 3|
