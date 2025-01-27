@@ -5,13 +5,33 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 <h1 align="center">Hi 👋, I'm MUHAMMAD ALIFF BIN HELMI</h1>
 <h3 align="center">First Year Students, currently at Universiti Teknologi Malaysia! I'm a Data Engineering students that really passionate about managing data and learning how to set-up a frontend program.</h3>
 
+# About Me !
+
+- 🌾 Live in Kedah
+
+- ⚔️ Likes to play video games 
+
 - 🔭 I’m currently studying **Digital Logic , Programming Technique , Discrete Structure , Technology Information System**
 
 - 🌱 I’m currently learning **C++ , Phyton , JavaScript**
 
+- 🎉 Birthday on 13 December
+
 - 📫 How to reach me **aliffhelmi05@gmail.com**
 
-- ⚡ Fun fact **I'm a nature explorer**
+# 🎓 Education Background
+
+-Primary School
+Sekolah Kebangsaan Darulaman Heights
+
+-Secondary School
+Sekolah Menengah Sultan Abdul Halim
+
+-Foundation
+Kolej Mara Kuala Nerang
+
+-Bachelor Degree
+Universiti Teknologi Malaysia (Data Engineering)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
