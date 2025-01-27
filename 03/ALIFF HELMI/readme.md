@@ -21,17 +21,17 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 
 # 🎓 Education Background
 
--Primary School
---Sekolah Kebangsaan Darulaman Heights
+- Primary School
+  -- Sekolah Kebangsaan Darulaman Heights
 
 - Secondary School
---Sekolah Menengah Sultan Abdul Halim
+  -- Sekolah Menengah Sultan Abdul Halim
 
 - Foundation
---Kolej Mara Kuala Nerang
+  -- Kolej Mara Kuala Nerang
 
 - Bachelor Degree
---Universiti Teknologi Malaysia (Data Engineering)
+  -- Universiti Teknologi Malaysia (Data Engineering)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
