@@ -15,4 +15,4 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |PC Assemble                |`"Isn't this fun?"`            |
 |Project Design Thinking    |`-- is en-dash, --- is em-dash`|
 
-[PROJECT Digital Logic.pdf](https://github.com/user-attachments/files/18557937/PROJECT.Digital.Logic.pdf)
+
