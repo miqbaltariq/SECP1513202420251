@@ -21,5 +21,9 @@ I’m currently a first- year student studying Computer Science in Network and S
 | **Technology and Information System** | 3 |
 | **Integriti and Anti-Corruption Course** | 2 |
 
-### 🌐 Connect with Me
-- 📫 How to reach me **zoeylim616@gmail.com** 
+## PROGRAMMING SKILLS 💻
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+## CONTACT ME ☎️
+- **zoeylim616@gmail.com** 
