@@ -38,7 +38,7 @@ I’m currently a first- year student studying Computer Science in Network and S
 </div>
 
 ## TECHNOLOGY AND INFORMATION SYSTEM
-Genuinely felt gratitude to all my awesome teammates for all the hardwork and tolerance!
+Genuinely felt grateful to all my awesome teammates for all the hardwork and tolerance! 🙏🏻
 
 Here's my team - **TEAM TECHNOLIMITS**
 
