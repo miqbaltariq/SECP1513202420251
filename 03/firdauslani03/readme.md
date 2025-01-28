@@ -65,6 +65,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 ### ○ Assignment 1 [Industrial Talk Poster]
 
+<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4bf32ffe-1251-4d40-ac2e-9880bb78d237" alt="Image" height="850">
 </p>
