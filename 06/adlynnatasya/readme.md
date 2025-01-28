@@ -1,3 +1,6 @@
+Hi, my name is Adlyn Natasya and I'm currently pursuing a degree in Computer Science (Network and Computer Security).
+
+
 REFLECTION📝
 
 • PC ASSEMBLE
