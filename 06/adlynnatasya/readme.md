@@ -30,6 +30,7 @@ I learned how importance of both technical skills and management knowledge in IT
 
 
 ASSIGNMENT 4 - POSTER ON CODE ROUTE WORKSHOP
+
 The Code Routes Workshop is about navigating careers in Computer Science. The speaker explains about career, soft skills, future trends. It helps me to understand the landscape of Computer Science, it's also about solving problem creatively and staying flexible. For this last poster, our group already familiar with the process of designing, which resulting a stronger outcome.
 
 
