@@ -69,8 +69,8 @@ Through completing this project, I gained a deeper understanding of cybersecurit
 I had a lot of fun working on all the assignments with my groupmates. They were really passionate about collaborating, which made the process enjoyable and productive. Even though we faced some barriers, such as setting up discussion times due to our differing schedules, we managed to complete all the assignments excellently. Without the team spirit and support from my groupmates, I don’t think I could have handled the workload and pressure on my own. This experience made me realize how important it is to choose the right members for an assignment group, especially since the assignment carries more than 50% of the total marks. The collaboration and shared effort made all the difference in ensuring we succeeded together.
 
 ### Fun Facts About Me
-- I once competed in a national volleyball competition (2018)! Yes, I'm  13 y/o at that time, and joining team Kelantan(MSSK) Under 18.
-- I loved to learn Tarannum (a traditional melodic style used in the recitation of the Quran).
+- I competed in a national volleyball competition in 2018 when I was 13 years old, joining the Kelantan (MSSK) Under 18 team.
+- I also loved learning Tarannum, a traditional melodic style used in the recitation of the Quran.
 
 ### My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
