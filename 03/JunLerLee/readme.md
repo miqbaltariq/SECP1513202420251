@@ -10,6 +10,9 @@
   
 - 📧 My email adress : **junlerlee1130@gmail.com**
   
+<h2 align="left"> My Group: TechTitans </h2> 
+<h3 align="left">Group member: Aliff, Syarah, Wildan, Iffah and Junler(me)</h3>
+  
 |No |Assignment   |Date        |Reflection                   |
 |---|-------------|------------|-----------------------------|
 | 1 |ASSIGNMENT 1|23 NOVEMBER 2024|blablabla|
