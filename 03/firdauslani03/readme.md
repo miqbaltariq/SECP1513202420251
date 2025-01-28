@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/389d21e8-71c8-487b-b0ef-036bb28045c7" alt="Python">
+
 # Hello! I'm Firdaus 🕊
 
 I’m a **Computer Science** student specializing in Data Engineering at **Universiti Teknologi Malaysia (UTM)**. I thrive on building connections and constantly pushing myself to deliver my best for those around me. I have really strong passion towards Mathematics and coding. However, I’m also eager to learn new things such as photo and video editing to expand my creative skillset and explore new ways to innovate. Previously, I've joined volunteering and competitions in the past and I don't plan on stopping any time soon. Let’s create something new together! 🤍
