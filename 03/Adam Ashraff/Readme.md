@@ -1,6 +1,8 @@
-<p align="center">
-  <b><span style="font-size: 100px;">👋 Hello, I'm Muhammad Adam Ashraff!</span></b>
-</p>
+
+<h1 align="center">
+   <b>👋 Hello, I'm Muhammad Adam Ashraff!</b>
+</h1>
+
 
 ## About Me
 I'm a first-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**. I’m passionate about **data** and **programming**, and I'm eager to learn more to solve real-world challenges. First-year **Data Engineering** student at **Universiti Teknologi Malaysia (UTM)**, passionate about data and programming. I can communicate in **Malay** and **English**, and while I'm still improving my fluency in **Arabic**, I can manage basic communication in all three languages. I'm excited to sharpen my skills to solve real-world challenges. Guided by the belief that **"Who has the data has the power"** – Tim O'Reilly, I am committed to learning, growing, and contributing to a data-driven future. I aim to turn data into meaningful information that can drive impactful change.
