@@ -1,7 +1,7 @@
 ## About Me
 
 ### Introduction
-Hello, I'm **Khairunnisa**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!
+Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!
 
 ## Education
 
