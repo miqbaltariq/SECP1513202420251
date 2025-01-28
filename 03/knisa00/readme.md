@@ -34,9 +34,9 @@ Gender: Female
 
 ## Hobbies
 
--Playing volleyball
--Workout dances
--Singing
+- Playing volleyball
+- Workout dances
+- Singing
   
 ## Let's connect 
 
