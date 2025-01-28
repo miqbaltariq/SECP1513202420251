@@ -23,7 +23,14 @@
 | 4 |ASSIGNMENT 4|11 JANUARY 2025|In this assignment our group have listened a workshop to navigating careers of Computer Science in future. After listen this workshop, I realize my true ambition and no longer confused to select my future jobs since there are future trend explanation in this workshop. It is also a good orportunity to listen experience from UTM alumni.We have also make a poster for this assignment. |
 | 5 |DESIGN THINKING|31 JANUARY 2025|In this design thinking project, our group have design Drivionics which applied Augmented Reality to help driving learner and coach easy their process. We do research on existing system and make innovation to apply AI assistant to give realtime feedback for user. In this project I feel happy because I can coorperate depthly with my group member to design an AR glasses and make a presentation towards our design.|
 
+<h2 align="left"> Acheivements in Year 1 Sem 1 </h2> 
+<h3 align="left"> Champion in CodeRush'25 [Team:CLC best; Lee Jun Ler(me), Chew Jie Sheng and Chun Yao Ting] </h3>
 
+![406056046-cb68eabe-ca39-435a-8cf1-f21ade97aa76](https://github.com/user-attachments/assets/cc8032b9-0787-4df4-8ceb-2cc11d2d09d3)
+
+<h3 align="left"> Champion in UTM Robocon Autocar Challenges</h3>
+
+![WhatsApp Image 2025-01-28 at 16 48 35_20633823](https://github.com/user-attachments/assets/0391fd8e-738c-466c-bdba-173324419850)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
