@@ -35,8 +35,8 @@ Here’s a photo of my team:
 List of Assignment I did with my incredible teammates: 
 | **Assignment**  | **Description**  | **Date**  | **Reflection**  |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| **1**     | *Industry Talk: Petronas Digital*      | *23 November 2024*      | *Data 3*      |
-| **2**     | *Industry Visit: UTM Digital*      | *10 December 2024*      | *Data 6*      |
+| **1**     | *Industry Talk: Petronas Digital*      | *23 November 2024*      | *Petronas is the first dream company that I want to work with. By joining this talk, I gained more details about Petronas. For example, the main highlight is the importance of having understanding of various data sources and collaborating with stakeholders to define clear and accurate data requirements.*      |
+| **2**     | *Industry Visit: UTM Digital*      | *10 December 2024*      | **      |
 | **3**     | *Industry Talk: Skills required to be a good programmer*      | *17 December 2024*      | *Data 9*      |
 | **4**     | *Industry Vistit:*     | *17 January 2025*     | *Data 12*     |
 
