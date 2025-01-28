@@ -16,6 +16,7 @@ The Clarity Techworks employee's talk was a very eye-opening experience that hel
 
 
 • ASSIGNMENT 2 - INDUSTRIAL VISIT TO UTMDIGITAL
+
 I got to observed the work environment and I learned more about the facilities provided. I also got advices from the UTM staff to capture new trends, things and technologies because technologies is too fast. The visit inspired me to explore more opportunities in this exiting field. Activities provide practical exposure to real-world applications of Technology Information System. Creating videos helps me to develop technical skills such as video editing.
 
 
