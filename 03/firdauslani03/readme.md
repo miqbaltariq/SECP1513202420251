@@ -63,7 +63,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 ## 🧑🏻‍🎓 Assignment Refkections
 
-### Assignment 1 [Industrial Talk Poster]
+### - Assignment 1 [Industrial Talk Poster]
 
 
 
