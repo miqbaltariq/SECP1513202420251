@@ -59,8 +59,9 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 
 | No. | Assignments | Reflections |
 |-----|---------------------|--------------------|
-| 1   |  PC Assemble                   |                   |
-| 2   |                     |                   |
-| 3   |                     |                   |
-| 4   |                     |                   |
-| 5   |                     |                   |
+| 1   |    PC Assemble                 | I can finally learn how computer works, from software to hardware components. This PC assemble also provides hand-on experience in understanding how computer parts like CPU, GPU, RAM and motherboard interact to each other. This learning also not only practical but it can help save money on repair and upgrades in the future.                  |
+| 2   |    Poster : Industry talk 1                 | Industry talk are significant in gaining insight into the current trends, challenges, and oppotunities within the specific fields. They connect us directly to the professionals to share their experiences, knowledge, and advise, offering a new perspective that is outside the classroom.                 |
+| 3   |    Video : Industry visit 1 at UTM digital                 | Industry visit play a vital role in between the theoretical knowledge and practical application. This visits is a real exposure on how real workenviroments work and see how concept that we learn on class are implemented in industry. This is a unique opportunity to interact with professionals, gaining insight and oppotunity within the industry.                 |
+| 4   |    Academic writing : Industry talk 2                 | On this industry talk, we get to a such talks that help us stay updated on the latest skills that needed to be accepted inside the industry. They provide a glimpse into the real-world scenarios by sharing their past experience and knowledge that is inspiring to hear.                  |
+| 5   |    Poster : Industry visit 2 at CODE'25                 | On the second visit, we got to expose on how to manage our programming language presented in the industry. This exposure helps in developing critical thinking, problem-solving skills, and adaptability.                  |
+| 6   |    Design Thinking : E - Driving Instructor                 | This Design thinking process for creating the E-Driving Instructor is an innovation in solving real world challenges. Prototyping the product help us to create a video that explain the power of design thinking in developing a solution and showcase how emerging technologies can transform traditional practices.                 |
