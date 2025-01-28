@@ -17,11 +17,11 @@
 
 |No |Assignment   |Date        |Reflection                   |
 |---|-------------|------------|-----------------------------|
-| 1 |ASSIGNMENT 1|23 NOVEMBER 2024|blablabla|
-| 2 |ASSIGNMENT 2|10 DECEMBER 2024|blablabla|
-| 3 |ASSIGNMENT 3|17 DECEMBER 2024|blablabla|
-| 4 |ASSIGNMENT 4|11 JANUARY 2025|blablabla|
-| 5 |DESIGN THINKING|31 JANUARY 2025|blablabla|
+| 1 |ASSIGNMENT 1|23 NOVEMBER 2024|This is our first assignment which required us to make a poster from industry talk 1. This industry talk is given by CLARITY TECHWORKS SDN. BHD. I am grateful because have an orportunity to listen valuable experiences from industry workers that are closer age with me. I learn the difference between study life and work life.|
+| 2 |ASSIGNMENT 2|10 DECEMBER 2024|Second assignment we have an industry visit to UTM Digital which is near by us. It is very excited because we explore many new technologies in UTM Digital. Besides, we interview several officers and workers in UTM Digital. I think this visit is useful become it let me integrate in the real workspace of Computer Science people. It is helpful to familiarize myself with environment in advance.We also make a video for this assignment, this will be a good memories for our group!|
+| 3 |ASSIGNMENT 3|17 DECEMBER 2024|Throughout the third assignment we have an industry talk from two different viewpoints of industry which are UTM Digital and Micro Semiconductor Sdn Bhd. In this talk I learn the basic required skills for computer and industry.Now I can start prepare myself to enhanced my skills to succeed in future working time. My group have written a report for this assignments.|
+| 4 |ASSIGNMENT 4|11 JANUARY 2025|In this assignment our group have listened a workshop to navigating careers of Computer Science in future. After listen this workshop, I realize my true ambition and no longer confused to select my future jobs since there are future trend explanation in this workshop. It is also a good orportunity to listen experience from UTM alumni.We have also make a poster for this assignment. |
+| 5 |DESIGN THINKING|31 JANUARY 2025|In this design thinking project, our group have design Drivionics which applied Augmented Reality to help driving learner and coach easy their process. We do research on existing system and make innovation to apply AI assistant to give realtime feedback for user. In this project I feel happy because I can coorperate depthly with my group member to design an AR glasses and make a presentation towards our design.|
 
 
 
