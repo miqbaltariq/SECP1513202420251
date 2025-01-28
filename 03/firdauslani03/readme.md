@@ -1,7 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="Centered Image">
-</div>
-
+<img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="Centered Image">
 
 # Hello! I'm Firdaus 🕊
 
@@ -63,3 +60,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
+
+## 🧑🏻‍🎓 Assignment Refkections
+
+
