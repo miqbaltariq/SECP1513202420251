@@ -12,11 +12,11 @@
   
 |No |Assignment   |Date        |Reflection                   |
 |---|-------------|------------|-----------------------------|
-| 1 |Poster|2000|blablabla|
-| 2 |Video|2000|blablabla|
-| 3 |Report|2000|blablabla|
-| 4 |Poster|2000|blablabla|
-| 5 |Project|2000|blablabla|
+| 1 |ASSIGNMENT 1|2000|blablabla|
+| 2 |ASSIGNMENT 2|2000|blablabla|
+| 3 |ASSIGNMENT 3|2000|blablabla|
+| 4 |ASSIGNMENT 4|2000|blablabla|
+| 5 |DESIGN THINKING|2000|blablabla|
 
 
 <h3 align="left">Connect with me:</h3>
