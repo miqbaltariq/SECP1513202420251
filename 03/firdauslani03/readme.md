@@ -1,4 +1,4 @@
- <h1 align="center"> <img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="GIF" align="center">
+ <h1 align="center"> <img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="GIF" align="center" /> </h1>
 
 # Hello! I'm Firdaus 🕊
 
