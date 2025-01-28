@@ -10,9 +10,11 @@
   
 - 📧 My email adress : **junlerlee1130@gmail.com**
   
-<h2 align="left"> My Group: TechTitans </h2> 
+<h2 align="left"> TIS Group: TechTitans </h2> 
 <h3 align="left">Group member: Aliff, Syarah, Wildan, Iffah and Junler(me)</h3>
-  
+
+![WhatsApp Image 2025-01-28 at 15 37 48_6cf5c8c6](https://github.com/user-attachments/assets/a2d02c3c-3bef-4c5c-a1bb-39d5301029c5)  
+
 |No |Assignment   |Date        |Reflection                   |
 |---|-------------|------------|-----------------------------|
 | 1 |ASSIGNMENT 1|23 NOVEMBER 2024|blablabla|
@@ -20,6 +22,7 @@
 | 3 |ASSIGNMENT 3|17 DECEMBER 2024|blablabla|
 | 4 |ASSIGNMENT 4|11 JANUARY 2025|blablabla|
 | 5 |DESIGN THINKING|31 JANUARY 2025|blablabla|
+
 
 
 <h3 align="left">Connect with me:</h3>
