@@ -46,7 +46,7 @@ Gender: Female
 ## InfiniteTECH
 Introducing my group members through this sem for TIS subject!
 ![IMG_4131](https://github.com/user-attachments/assets/80d2e3b9-60a2-4970-9d8a-c112d8dc62c6)
-From left, [Adam] (https://github.com/AdamAshraffZamri), [Hafiz] (https://github.com/HafizReepei), Nisa, [Kai Loon] (https://github.com/chuakailoon) and [Tyler] (https://github.com/Tyler-C-19)
+From left, [Adam](https://github.com/AdamAshraffZamri), [Hafiz](https://github.com/HafizReepei), Nisa (me), [Kai Loon](https://github.com/chuakailoon) and [Tyler](https://github.com/Tyler-C-19)
 
 ## Reflection of assignment
 
