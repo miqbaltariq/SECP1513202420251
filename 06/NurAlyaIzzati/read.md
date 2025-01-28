@@ -1,1 +1,1 @@
-
+I get to learn about job scopes in IT industry.Therefore, it helps me acknowledge the variety of job in this industry.The video that have been provided also encourage me to always try to learn new things and improve some skills to keep myself updated with rapid evolvement in technology.Meanwhile when we do the poster,i get to know my group member and learn to work with them.
