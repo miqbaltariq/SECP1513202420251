@@ -24,6 +24,11 @@ I got to observed the work environment and I learned more about the facilities p
 
 • ASSIGNMENT 3 - ACADEMIC WRITING
 
+I learned how importance of both technical skills and management knowledge in IT industry. The speaker experience open my eyes to study harder and consistently putting an effort, so I can be successful in Computer Science in next four years. With creating network with seniors and mentors, I can refer to them through my academic and career journey.
+
+
+
+
 ASSIGNMENT 4 - POSTER ON CODE ROUTE WORKSHOP
 The Code Routes Workshop is about navigating careers in Computer Science. The speaker explains about career, soft skills, future trends. It helps me to understand the landscape of Computer Science, it's also about solving problem creatively and staying flexible. For this last poster, our group already familiar with the process of designing, which resulting a stronger outcome.
 
