@@ -12,3 +12,23 @@ I learned step-by-step on how to assemble and diassemble the PC. The PC assemble
 • ASSIGNMENT 1 - POSTER ON INDUSTRY TALK (CLARITY TECHWORKS)
 
 The Clarity Techworks employee's talk was a very eye-opening experience that helps me to gain knowledge on the IT industry. Each speakers explain their job scopes, skills needed and also give their advices. I also learned when the speakers encourage us to focus more on soft skills and communication as it is important for effective teamwork and navigate challenges.  Creating poster as a team was a great experience because we share our ideas and creativity.
+
+
+
+• ASSIGNMENT 2 - INDUSTRIAL VISIT TO UTMDIGITAL
+I got to observed the work environment and I learned more about the facilities provided. I also got advices from the UTM staff to capture new trends, things and technologies because technologies is too fast. The visit inspired me to explore more opportunities in this exiting field. Activities provide practical exposure to real-world applications of Technology Information System. Creating videos helps me to develop technical skills such as video editing.
+
+
+
+
+• ASSIGNMENT 3 - ACADEMIC WRITING
+
+ASSIGNMENT 4 - POSTER ON CODE ROUTE WORKSHOP
+The Code Routes Workshop is about navigating careers in Computer Science. The speaker explains about career, soft skills, future trends. It helps me to understand the landscape of Computer Science, it's also about solving problem creatively and staying flexible. For this last poster, our group already familiar with the process of designing, which resulting a stronger outcome.
+
+
+
+
+• DESIGN THINKING - SAFE LINK CHECKER
+
+
