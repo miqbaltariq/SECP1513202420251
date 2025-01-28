@@ -16,7 +16,7 @@
 | 2 |Video|2000|blablabla|
 | 3 |Report|2000|blablabla|
 | 4 |Poster|2000|blablabla|
-| 5 |Report|2000|blablabla|
+| 5 |Project|2000|blablabla|
 
 
 <h3 align="left">Connect with me:</h3>
