@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" />
-</p>
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="Centered Image">
+</div>
+
 
 # Hello! I'm Firdaus 🕊
 
