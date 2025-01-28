@@ -54,7 +54,7 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliffhelmi05&show_icons=true&locale=en" alt="aliffhelmi05" /></p>
 
 
-# 🖥️ Technology Infirmation System
+# 🖥️ Technology Information System
 
 
 | No. | Assignments | Date | Reflections |
