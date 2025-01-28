@@ -1,4 +1,4 @@
-# Hi, I'm Siti Nur Iman Nadhirah 👋  
+# Hi ! I'm Siti Nur Iman Nadhirah 👋
 ### 🎓 Data Engineering Student | 🎥 Content Creator | 🌍 Travel  
 
 Welcome to my GitHub! I'm a student passionate about learning, exploring technology, and sharing my journey through content creation.  
