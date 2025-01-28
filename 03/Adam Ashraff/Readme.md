@@ -1,3 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #00599C;
+            color: white;
+            border-radius: 10px;
+        }
+        .content {
+            margin: 20px auto;
+            max-width: 800px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #339933;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background-color: #267326;
+        }
+        #message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #00599C;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>👋 Welcome to My Portfolio!</h1>
+        <p>Hi, I'm Muhammad Adam Ashraff, a first-year Data Engineering student passionate about programming and data.</p>
+    </div>
+
+    <div class="content">
+        <h2>💻 Skills</h2>
+        <p>Click the button to display a fun message!</p>
+        <button class="btn" onclick="showMessage()">Click Me!</button>
+        <p id="message"></p>
+
+        <h2>📘 Reflections</h2>
+        <p>Here are some of my experiences and reflections on university assignments and projects.</p>
+    </div>
+
+    <script>
+        function showMessage() {
+            const messages = [
+                "Data is the new oil!",
+                "Programming is not just coding; it's a superpower.",
+                "Keep learning and growing every day!",
+                "Teamwork makes the dream work!",
+                "Who has the data has the power!"
+            ];
+            const randomMessage = messages[Math.floor(Math.random() * messages.length)];
+            document.getElementById("message").innerText = randomMessage;
+        }
+    </script>
+</body>
+</html>
 
 # 👋 I'm Muhammad Adam Ashraff bin Zamri!
 
