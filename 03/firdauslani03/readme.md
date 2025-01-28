@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="Python" width="400">
+<img src="https://github.com/user-attachments/assets/964fcd8d-09c2-4efb-8592-c50a85049ce0" alt="Python" width="2000">
 
 # Hello! I'm Firdaus 🕊
 
