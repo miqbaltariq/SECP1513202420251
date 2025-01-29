@@ -1,19 +1,21 @@
-# Welcome to My Workspace! 👩‍💻
+# Welcome to My Workspace! 
 
 Hi there! I'm **Nurin Iffah**, a first-year Computer Science (Data Engineering) student at UTM Johor Bahru.
 
-### About Me
+## About Me 🚀
 - 🔭 Currently learning: **Data Engineering** and **C++ programming**  
 - 🌱 Exploring: **Big Data**, **Cloud Computing**, and **Machine Learning**  
 - 💡 Always curious about: **Innovative tech solutions**  
 
-### Let's Connect!
-- 🌐 Portfolio Website:   
+## Let's Connect! 🌍 
 - 💼 LinkedIn: www.linkedin.com/in/nurin-iffah-ahmad-borhan 
-- 📫 Reach me: nuriniffah@gmail.com
+- 📫 Email: nuriniffah@gmail.com
 
+## This is my Team Members TechTitans 🦾
+![image](https://github.com/user-attachments/assets/de0f1a60-64c9-4327-889a-1b9f3d3a5fa8)
+From left: Jun Ler, Aliff, Wildan, Syarah, Iffah
   
-### Reflection of My Assignment
+## Reflection of My Assignment 👩‍💻
 | Assignment       | Description                            | Date       | Reflection                          |
 |------------------|----------------------------------------|------------|-------------------------------------|
 | Assignment 1     | CLARITY TECHWORKS SDN. BHD. POSTER |21 NOV 2024 |The talk by **Clarity Techworks Sdn. Bhd.** provided valuable insights into career opportunities in the tech industry, highlighting the skills, tools, and expectations for roles like Junior Developer, UI/UX Designer, QA Specialist, and Web Developer. Networking, building a strong portfolio, and applying classroom knowledge to real-world projects were emphasized as essential strategies for bridging the gap between academic learning and industry demands. Continuous skill development, industry involvement, and hands-on project experience will be key to achieving success in the ever-evolving tech landscape.  |
