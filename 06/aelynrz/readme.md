@@ -1,6 +1,3 @@
-Gotcha! Here’s your revamped e-portfolio with a fun and engaging twist, complete with emojis to make it stand out!  
-
----
 
 ## 🎉 Welcome to *Ezra's Eportfolio* !!! 🎉  
 
