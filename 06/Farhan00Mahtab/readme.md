@@ -1,6 +1,6 @@
 # Welcome to Farhan's Workspace
 
-I am a student of Universiti Teknology Malaysia, studying **Computer Networks and Securuty**. Currently I am in 1st semester. Below are the assignments of the subject **Technology and Information System**, along with the reflections I gained from them:
+HI! I am a student of Universiti Teknology Malaysia, studying **Computer Networks and Securuty**. Currently I am in my 1st semester. Below are the assignments of the subject **Technology and Information System**, along with the reflections I gained from them:
 
 
 
