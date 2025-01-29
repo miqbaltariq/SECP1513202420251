@@ -1,1 +1,1 @@
-[![Watch TECH Debuggers at UTM Digital](https://img.youtube.com/vi/8lMLOhbaf7U/maxresdefault.jpg)](https://youtu.be/8lMLOhbaf7U)
+[![TECH Debuggers at UTM Digital](https://i.imgur.com/kcwVp7u.png)](https://youtu.be/8lMLOhbaf7U)
