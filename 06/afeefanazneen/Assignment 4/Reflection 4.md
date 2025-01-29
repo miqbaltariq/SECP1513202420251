@@ -1,4 +1,4 @@
-#Reflection on Flutter Workshop
+# Reflection on Flutter Workshop
 In this online workshop, Mr. Caspian King introduced us to Flutter and its functionality in app development, particularly with the integration of Artificial Intelligence (AI). I learned a lot, especially during the tutorial on building a food calorie tracking app, which involved using multiple tools and applications. At first, it was challenging because we had to adapt to a new programming language called Dart. However, Mr. Caspian’s consistent guidance and the slow-paced structure of the workshop helped us catch up and understand the concepts better. Although, I believe I would have grasped the material more deeply if I had researched and explored Flutter on my own before the workshop. This would have made it easier to follow along with the tutorial.
 
 As for the assignment, conducting further research on Flutter helped me gain a deeper understanding of its capabilities. I now appreciate its potential, especially for app developers, due to its built-in features and the variety of benefits it offers.
