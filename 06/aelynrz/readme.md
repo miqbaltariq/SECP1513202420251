@@ -1,7 +1,7 @@
 
 ## 🎉 Welcome to *Ezra's Eportfolio* !!! 🎉  
 
-#### Hey there! 👋 This is where I share my journey through *TIS* over the past few months. Each experience has been a mix of challenges, teamwork, and new discoveries. Scroll down and check out what I’ve learned along the way! 🚀✨  
+#### Hey there! 👋 This is where I share my journey through *TIS* over the past few months. Each experience has been a mix of challenges, teamwork, and new discoveries. Scroll down and check out what I’ve learned along the way! ✨  
 
 | **Activity** | **Reflection** |  
 |--------------|---------------|  
@@ -10,7 +10,8 @@
 | **🎥 Assignment 2** |For this assignment, we visited UTM Digital 🏢, where I had the opportunity to interview professionals in the field. Listening to their personal experiences and career journeys was truly inspiring—it gave me a clearer picture of the industry and the different paths I could take. This experience made me realize the importance of networking and learning directly from those in the field. 🗣️✨ |  
 | **📑 Assignment 3** | Another industry talk, another assignment! This time, it was all about academic writing ✍️. I learned the IRPA Method 📌, which is actually useful for job and business applications. |  
 | **🔍 Assignment 4** | No industry visit this time 😔, but we did attend a cybersecurity workshop at CODE’25 called *"OSINT-Beginner’s Guide."* 🕵️‍♂️ and it was definitely amazing! We weren’t just listening to speakers—we got hands-on experience with challenges that made learning even more engaging. Solving real-world cybersecurity problems felt like a game, and the speakers were super helpful in guiding us through it. It was an exciting and interactive way to explore a field I hadn’t dived into before! 🔐🚀 |  
-| **💡 Design Thinking Project** | This was a long-term project with everything from brainstorming to prototyping and video creation 🎭📊. It was a huge reminder of how vital teamwork is in keeping everything running smoothly. It also made me realize how fast technology is evolving 🚀, turning creative ideas into reality faster than ever. |  
+| **💡 Design Thinking Project** | This was a long-term project with everything from brainstorming to prototyping and video creation 🎭📊. I contributed by brainstorming and using my creativity to help develop the prototype. It was a great reminder of how teamwork enhances efficiency and how quickly technology turns ideas into reality 🚀! |
+ 
 
 ---
 
