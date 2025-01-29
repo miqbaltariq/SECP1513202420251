@@ -33,5 +33,6 @@ Reflection of my assignment and project
 |     3   |Academic Report of Industry Talk: Skills required by computer science and industry|This assignment helps me develop soft skills such as communication and teamwork. It also guides me in understanding industry expectations and planning my career, allowing me to align my academic growth with real-world success in computer science.|
 |     4   |Poster of Industry visit 2 at CODE'25|Through this assignment, I explored essential technical skills like python, TensorFlow, Git and Docker. Learning this tools will make me stay competitive and adaptable in this industry.|
 |     5   |Design Thinking Project|From this project, I learned how AR can improve campus efficiency by developing ARNAVI. ARNAVI will especially help first year student to navigate inside faculty of computing. |
+|6|PC Assemble|I learned about the part of component hardware in CPU. I also learned how to assemble and diassemble the component. It was fun to learn it because I got to know how the CPU work.|
 
 ### 🌟 Thank you for visiting my ePortfolio!  
