@@ -1,15 +1,16 @@
-# Welcome to StackEdit!
+# Welcome to Farhan's Workspace
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+I am a student of Universiti Teknology Malaysia, studying **Computer Networks and Securuty**. Currently I am in 1st semester. Below are the assignments of the subject **Technology and Information System**, along with the reflections I gained from them:
 
 
-## SmartyPants
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
+| NO            |Assignments                          |Reflections
+|------|-------------------------------|-----------------------------|
+|1|PC Assemble                     |Building a PC was a hands-on learning experience that boosted my confidence with hardware. Though I faced challenges like motherboard alignment and boot issues, troubleshooting them made the process even more rewarding. It was a great way to apply my knowledge and sharpen my problem-solving skills.|
+|2|Assignment 1                    |Creating the **Industry Talk 1** poster was a great learning experience that gave me a better understanding of different ICT careers like UI/UX design, web and Android development, and QA testing. It was interesting to see how these roles contribute to the industry and what skills are needed to succeed. Working on the poster also helped me improve my research, design, and teamwork skills while making sure the information was clear and engaging. Overall, this assignment reinforced the importance of continuous learning and adaptability in the tech world.|
+|3|Assignment 2                    |Our visit to UTM Digital was a great experience that gave us a behind-the-scenes look at how they enhance the university’s digital experience. They welcomed us with a seminar, explaining their role and ongoing efforts to improve IT services and system management. Touring their offices and seeing their teams in action made me appreciate the hard work that goes into maintaining a smooth digital environment at UTM. Recording the visit helped us reflect on everything we learned, making it a truly insightful and engaging experience.|
+|4|Assignment 3                    |This assignment helped me understand what it takes to succeed in the IT industry. **Mohd Haqimi Iqmall’s** talk showed how both technical and soft skills are crucial for career growth. His journey was inspiring and made me realize the importance of continuous learning and real-world experience in shaping a successful future in tech.|
+|5|Assignment 4                    |Attending the **Code Routes** talk was a great way to explore different career paths in tech, from software development to data science and cybersecurity. It really emphasized how both **technical skills** like Python and Git, and **soft skills** like teamwork and communication, play a big role in success. Creating the poster helped me process and present what I learned, making me realize how important it is to stay adaptable and keep growing in this ever-changing field.|
+|6|Design Thinking Project         |Working on the Safe Link Checker was a really interesting experience. We explored how to design a simple, user-friendly system to detect malicious links, focusing on how it would function rather than actually building it. Brainstorming ideas and sketching the interface helped us understand the challenges of cybersecurity and how to make solutions more accessible. Creating the demo video also strengthened our teamwork and communication skills, making this project both enjoyable and insightful.|
