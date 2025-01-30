@@ -1,6 +1,6 @@
 # Welcome to my work archive!
 
-Hi! I"m Danish Izz Khan and this is my work archive consisting of all the assignments done for SECP1513 for session 24/25, semester 1.
+Hi! I'm Danish Izz Khan and this is my work archive consisting of all the assignments done for SECP1513 for session 24/25, semester 1.
 
 ## Assignments
 
