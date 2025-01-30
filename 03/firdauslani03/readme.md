@@ -61,7 +61,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 ## About My Team! 🤝
 ![image alt](https://github.com/user-attachments/assets/3208db41-931a-4488-be4a-0653b6a82ff6)
 
-## 🧑🏻‍🎓 Assignment Refkections
+## 🧑🏻‍🎓 Assignment Reflections
 
 ### ○ Assignment 1 [Industrial Talk Poster]
 
