@@ -1,10 +1,13 @@
 # <p align="center">Hello, Nive here! </p>
+<p align="center">
+
+
 <p align="center">Hi, I am Niveethita A/P Pandia Rajan. You can just call me Nive! 
 <p align="center">I am a year 1 student studying computer science (data engineering) course in University Teknologi Malaysia (UTM).
 
 >**Random Facts!**   
->I enjoy practising yoga and have attended few International Competition   
->I would describe my music taste to be so vast, ranging from EDM and Metal to Indie and Carnatics!   
+>Enjoy practising yoga and have attended few International Competition   
+>My music taste is so random and unpredictable, ranging from EDM and Metal to Indie and Carnatics!   
 >I’ve been learning French and completed the DELF A2 exam for now   
 
 $${\color{maroon}ACADEMIC}$$ $${\color{maroon}JOURNEY}$$   
@@ -21,6 +24,7 @@ $${\color{maroon}ACADEMIC}$$ $${\color{maroon}JOURNEY}$$
 **|** _SPM : 6A+, 4A, 1A-_   
 **|**      
 **⚬ 2012 - 2017 : SJK(T) Kajang**     
+
 
 
 
