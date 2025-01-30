@@ -46,15 +46,14 @@
 <h1 align="center">TIS PROJECT AND ASSIGNMENTS</h1>
 
 <h2> MEET THE TEAM </h2>
-<h3 align="center"> <img src="https://github.com/user-attachments/assets/fb64b313-6816-43ce-9594-a1b14731048c" alt="image" width="400" height="auto" /> </h3>
+<h3> TECHTICIANS </h3>
+<h3 align="center"> <img src="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/kavivarthanmannivanan/group%20pic%20techticians.png" alt="image" width="400" height="auto" /> </h3>
 
-
-
-
-
-
-
-
+<h3> From left:</h3> <br>
+1. 
+2.
+3.
+4.
 
 <h3 align="left">ASSIGNMENT 1: POSTER</h3>
 <h3> CLICK HERE TO VIEW THE POSTER⬇️⬇️: </h3>
