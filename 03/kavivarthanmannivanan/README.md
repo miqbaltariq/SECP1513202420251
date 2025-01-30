@@ -28,7 +28,7 @@
   
   >🎥📷 Chief Editor - Publication and Information Bureau, Student Representative Committee, Selangor Matriculation College
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://https://www.linkedin.com/in/kavi-mani-384480346/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavi-mani-384480346/" height="30" width="40" /></a>
 <a href="mailto: kavivarthan198@gmail.com">
@@ -46,14 +46,18 @@
 <h1 align="center">TIS PROJECT AND ASSIGNMENTS</h1>
 
 <h2> MEET THE TEAM </h2>
-<h3> TECHTICIANS </h3>
-<h3 align="center"> <img src="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/kavivarthanmannivanan/group%20pic%20techticians.png" alt="image" width="400" height="auto" /> </h3>
+<h3 align ="center">TECHTICIANS </h3>
+<h3 align="center"> <img src="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/kavivarthanmannivanan/group%20pic%20techticians.png" alt="image" width="500" height="auto" /> </h3>
 
-<h3> From left:</h3> <br>
-1. 
-2.
-3.
-4.
+<h3> From left:</h3>
+1. KAVIVARTHAN A/L MANNIVANAN <br>    
+A24CS0093 <br>
+2. LIM BEI EN  <br>                    
+A24CS5080 <br>
+3. PHANG SOUH XIN   <br>               
+A24CS5051 <br>
+4. MUHAMMAD FIRDAUS BIN MD LANI   <br> 
+A24CS0132 <br>
 
 <h3 align="left">ASSIGNMENT 1: POSTER</h3>
 <h3> CLICK HERE TO VIEW THE POSTER⬇️⬇️: </h3>
@@ -97,7 +101,9 @@
 <h3> The proposal of our project and video presentation are attached below: </h3> <br>
 
 [PROJECT PROPOSAL](https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/kavivarthanmannivanan/Design%20Thinking%20Project%20(Eyedentity%20Proposal).pdf
-)
+) <br>
+
+
 [VIDEO PRESENTATION](https://www.youtube.com/watch?v=UahuLUPwDV4)
 
 
