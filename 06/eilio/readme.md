@@ -12,5 +12,5 @@ This subject has been a fun experience from building PCs to making videos of my 
 |Assignment 1 (Industry Talk Poster)             |The industry talk was really interesting, AirAsia gave us a very amazing talk and taught us how ICT and CS help them and other multi-national companies scale beyond imagination, I also learned how communication is a very important skill, especially in big companies, it helps them bridge the cultural and operational challenges and helps them build a strong and understanding community. |
 |Assignment 2 (Industrial Visit Video)               |For Assignment 2, it's quite unfortunate for me that I couldn't make it. I had a midterm, and I couldn't attend the industry visit because it clashed with my exam. I'm really sad that I missed it because many of my friends who went said it was really fun.|
 |Assignment 3 (Academic Writing)             ||
-|Assignment 4 (Poster on CODE'25)             ||
-|Design Thinking Project            ||
+|Assignment 4 (Poster on CODE'25)             |The Bioinformatics Unbound workshop has opened my eyes to a completely new field. I learned how biological research can be enhanced through computational tools and data analysis, which was something I never thought was possible. The experience was inspiring and made me curious about how technology can drive advancements in areas like healthcare, genetics, and scientific discovery.|
+
