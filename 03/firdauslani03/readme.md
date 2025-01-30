@@ -78,7 +78,7 @@ Based on the talk, they showed me insights as well as tips for me to develop num
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eba5d77f-37e6-482a-ad83-dc6f3ccf5130" alt="Image" height="850">
+  <img src="https://github.com/user-attachments/assets/eba5d77f-37e6-482a-ad83-dc6f3ccf5130" alt="Image" width="850">
 </p>
 [Click this to Watch the Video!](https://youtu.be/gEowHrMlMjI?si=awu1SXXDxHMYsx-P)
 <br>
