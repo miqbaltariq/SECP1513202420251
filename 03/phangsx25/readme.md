@@ -57,7 +57,8 @@ I enjoy finding ways to solve problems and make a real difference :eyes: <br>
 # TECHticians
 ![Image](https://github.com/user-attachments/assets/19f52bc8-cb0c-4e11-81ae-802cf718ac9c)
 
-(From left to right) Kavi，Bei En, me , Firdaus
+(From left to right) [Kavi](https://github.com/kavivarthanmannivanan)，[Bei En](https://github.com/beienn), [me](https://github.com/phangsx25) , [Firdaus](https://github.com/firdauslani03)
+
 
 
 
