@@ -1,13 +1,13 @@
 # Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+HI......I'm SANJANA DEVI D/O RAVI and this my turf for uploading my works related to TIS which is the Technology and Information System mainly my assignments and project...
 
-## SmartyPants
+## ASSIGNMENTS
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
+There are 4 of my assignments that i would like to share here...
+|                |FILES                          |COMMENT                      |
 |----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|ASSIGNMENT 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|ASSIGNMENT 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|ASSIGNMENT 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|ASSIGNMENT 4    |                               |                             |
