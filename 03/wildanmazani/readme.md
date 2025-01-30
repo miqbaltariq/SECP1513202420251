@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a first-year Data Engineering student at Universiti Teknologi Malaysia (UTM) with a strong passion for **data and programming. I thrive on solving real-world challenges through data-driven insights and innovative solutions.  I’m fluent in Malay and English. I can manage basic communication in all those languages. 
+<p align="left">I'm a first-year Data Engineering student at Universiti Teknologi Malaysia (UTM) with a strong passion for data and programming . I thrive on solving real-world challenges through data-driven insights and innovative solutions.  I’m fluent in Malay and English. I can manage basic communication in all those languages. 
 
 ###
 
