@@ -54,8 +54,7 @@
 
 <h3 align="left">ASSIGNMENT 2: VISIT TO UTM DIGITAL</h3>
 <h3> CLICK HERE TO WATCH THE VIDEO: </h3>
-<p> [UTMDIGITAL TOUR BY TECHTICIANS](https://www.youtube.com/watch?v=gEowHrMlMjI)</p>
-<br>
+[UTMDIGITAL TOUR BY TECHTICIANS](https://www.youtube.com/watch?v=gEowHrMlMjI)
 
 <h3> REFLECTION: </h3>
 <p> Besides creating an opportunity for group bonding, we are able to explore and get to know insights on how UTMDigital operates day-to-day. Personally, the information shared reagrding the databases used in UTM (SQL,mySQL and mainly oracle) benefits us in terms of the use of databases and the knowledge is efficient for the future of our undergraduate course.</p>
