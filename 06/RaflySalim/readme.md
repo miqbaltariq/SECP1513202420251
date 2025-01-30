@@ -1,1 +1,16 @@
 
+
+HI! My name is Rafly Salim Kaaffah Abdillah, I am a student of Universiti Teknology Malaysia, studying **Computer Networks and Securuty**. Currently I am in my 1st semester. Below are the assignments and also the reflections i have gotten from the subject **Technology and Information System**:
+
+
+
+
+
+| NO            |Assignments                          |Reflections
+|------|-------------------------------|-----------------------------|
+|1|PC Assemble                     |Building a PC was a hands-on learning experience that boosted my confidence with my knowledge on hardwares. Although I faced some difficulties like cable alignment and boot issues, fixing them made me feel a satisfaction towards the assembling process. It was a great way to apply my knowledge and also test my problem solving skill at the same time.|
+|2|Assignment 1                    |Creating the **Industry Talk 1** poster was an assignment that broaden my view and gave me a better understanding of different ICT careers like UI/UX designs, web development, and more. It was interesting to see how these roles contribute to the industry and what skills are needed to succeed in them. Working on the poster also helped me improve my research, design, and teamwork with my groupmate while making sure the information was clear and engaging. Overall, this assignment strengthen my view on the importance of continuously learning and the need to adapt in the field.|
+|3|Assignment 2                    |Our visit to UTM Digital  gave us a view at how they run the university’s websites, data, and registry. They welcomed us with a seminar, explaining their role and ongoing efforts to improve IT services and system management. Touring their offices and seeing the behind-the-scenes made me see the work that goes into maintaining a smooth digital environment at UTM. Recording the visit helped us reflect on everything we learned, making it a truly insightful and engaging experience.|
+|4|Assignment 3                    |This assignment helped me understand what it takes to succeed in the IT industry.The host,  **Mohd Haqimi Iqmall’s** talk showed how both technical and soft skills are crucial for career growth. His journey was inspiring and made me realize the importance of continuous learning and real-world experience in shaping a successful future in tech.|
+|5|Assignment 4                    |Attending the **Code Routes** talk was a great way to explore different career paths in tech, from software development to data analyst and cybersecurity. It really emphasized how both **technical skills** and **soft skills** play a big role in success. Creating the poster helped me process and present what I learned, making me realize how important it is to stay adaptable and keep growing in this ever-changing field.|
+|6|Design Thinking Project         |Working on the design project and video for **ARNAVI**, gives a good grasp towards experiencing an implementation of IOT in the real world, it puts my creativity and problem-solving skill to use and also broaden my view on the subject. Not only that, but having being made a group project makes me sharpen my social skill and teamwork too. Overall the experience is priceless for anyone thats new to the tech world.
