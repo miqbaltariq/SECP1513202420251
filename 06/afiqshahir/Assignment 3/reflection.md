@@ -1,0 +1,3 @@
+# Assignment 3 - report
+
+The talk made me realize that in order to be successful in this line of work, I’d have to work harder in mastering my technical skills and management skills. This would make me a more flexible worker that can be relied on a wide variety of task. I also will work more on my soft skill and my critical thinking about ways of facing problems in order to prepare myself for the industry. Lastly, I will build professional relationship by attending tech meetups, conferences and joining online communities like LinkedIn or GitHub will help me connect with industry professionals. 
