@@ -81,7 +81,7 @@ Based on the talk, they showed me insights as well as tips for me to develop num
   <img src="https://github.com/user-attachments/assets/eba5d77f-37e6-482a-ad83-dc6f3ccf5130" alt="Image" width="850">
 </p>
 
-**Click this to Watch the Video!** 👉🏻 [https://youtu.be/gEowHrMlMjI?si=awu1SXXDxHMYsx-P]
+**Click the link to Watch the Video!** 👉🏻 [https://youtu.be/gEowHrMlMjI?si=awu1SXXDxHMYsx-P]
 <br>
 
 In the industry visit, I was exposed to the data center facility of UTM which is UTM Digital. There, I went to a seminar talk, and they showed me around the whole building to give us an in-detailed explaination of the structure of UTM Digital. This visit gave me a clear-cut view about what UTM Digital offers for not only the students, but the whole entire UTM environment as a whole. From the WiFi, to the university's mobile app UTM Smart, everything is handled and monitored by UTM Digital. Additionally, the visit enabled me to connect with the workers so that they were able to share their experiences and jobscopes in order for me to understand better regarding our course.
@@ -107,4 +107,18 @@ This assignment was baed on a talk that was given to us by an IT Officer of UTM 
 </p>
 <br>
 
-In the industry visit, I was exposed to the data center facility of UTM which is UTM Digital. There, I went to a seminar talk, and they showed me around the whole building to give us an in-detailed explaination of the structure of UTM Digital. This visit gave me a clear-cut view about what UTM Digital offers for not only the students, but the whole entire UTM environment as a whole. From the WiFi, to the university's mobile app UTM Smart, everything is handled and monitored by UTM Digital. Additionally, the visit enabled me to connect with the workers so that they were able to share their experiences and jobscopes in order for me to understand better regarding our course.
+Based on the workshop, I found it very insightful as it gave me a great understanding of bioinformatics and its relevance in the job market. It highlighted how the combination of biology and computer science can solve real-world problems, such as disease detection. The speaker’s personal journey and experiences showed me that bioinformatics skills, like data visualization, are not only important but also transferable across various career paths. Moreover, this workshop motivated me to explore diverse applications within my field and stay updated with emerging trends like AI, ensuring that I am well-prepared for the job market.
+
+#
+### ○ Design Thinking Project
+
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b34e564-b986-497a-84a8-f9fbdf729a9c" width="850">
+</p>
+
+**Click the link to Watch the Video!** 👉🏻 [https://youtu.be/UahuLUPwDV4?si=x3zmoksHYLze1yDV]
+<br>
+
+This assignment was based on a talk that was given to us by an IT Officer of UTM Digital and the Chief Executive Officer (CEO) of Micro Semiconductor Sdn.Bhd.. The talk give me valuable insights into the skills needed for a successful career in the technology industry which will help me prepare for the job market in the future. The speakers strongly suggested me master my fundamentals, improve on problem-solving, and to continue learning through classes, clubs, and competitions. Moreover, The importance of networking, teamwork, and adaptability was also highlighted so that I was able to improve both my technical and interpersonal skills.
+
