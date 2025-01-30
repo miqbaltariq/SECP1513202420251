@@ -80,7 +80,9 @@ Based on the talk, they showed me insights as well as tips for me to develop num
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eba5d77f-37e6-482a-ad83-dc6f3ccf5130" alt="Image" width="850">
 </p>
-Click this to Watch the Video! 👉🏻 [https://youtu.be/gEowHrMlMjI?si=awu1SXXDxHMYsx-P]
+
+**Click this to Watch the Video!** 👉🏻 [https://youtu.be/gEowHrMlMjI?si=awu1SXXDxHMYsx-P]
+<br>
 
 Based on the talk, they showed me insights as well as tips for me to develop numerous skills to stay competitive and succeed in the jobmarket. The insights from Sharon Lim on SAP, Brandon Tang’s dynamic career journey, and Fakrul Arif’s expertise in web development have reinforced the importance of adaptability and continuous learning. I now recognize the true value of platforms such as GitHub, that induces self-learning and the need to embrace emerging technologies. EY’s commitment to nurturing talent has moved me to explore a wide-spread of career opportunities in Information Communication Technologies (ICT), making sure that I will be fully prepared for the challenges and obstacles in the near future.
 
