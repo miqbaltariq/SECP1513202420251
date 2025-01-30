@@ -1,12 +1,8 @@
-# Welcome to StackEdit!
-
-Hi! I'm a Student of Data Engineering in **Wildan**. If you want to learn about me, you can read me. If you want to interact with me, you can personal email to me.
-
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi There👋!</h1>
 
 ###
 
-<p align="left">My name is Ahmad Wildan Bin Mazani and I'm a  Student of Data Engineering in UTMM </p>
+<p align="left">My name is Ahmad Wildan Bin Mazani and I'm a  Student of Data Engineering in UTM </p>
 
 ###
 
@@ -21,6 +17,39 @@ Hi! I'm a Student of Data Engineering in **Wildan**. If you want to learn about 
 <h2 align="left">I code with</h2>
 
 ###
+# 🎓 Academic Background
+
+## 🏫 Primary School  
+**Sekolah Rendah Arab Jaim Al-Faizin**  
+
+## 🏫 Secondary School  
+**Sekolah Menengah Kebangsaan Dato' Dol Said**  
+📜 **SPM Results:** 4A+, 3A, 1A-, 1B+  
+
+## 🎓 Matriculation  
+**Malacca Matriculation College**  
+📊 **CGPA:** 3.96  
+
+## 🎓 Bachelor Degree  
+**Universiti Teknologi Malaysia** (Data Engineering)  
+
+---
+
+## 🏆 Participation in University Events  
+- 🌟 **Crew for SUSKOM' 24** (Protocol Unit)  
+- 🏃‍♂️ **Seloka Run 2024**  
+- ⚔️ **Mobile Legends Tournament** (OPERA' 25)  
+- 🏑 **Woodball Ria KTC**  
+- 🇯🇵 **Japan Edu-Tourism Exchange**  
+
+---
+
+## 📘 Currently Studying  
+- 🖥️ **Technology and Information System**  
+- ⚙️ **Digital Logic**  
+- 🔢 **Discrete Structures**  
+- 💻 **Programming Technique 1**  
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
