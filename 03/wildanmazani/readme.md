@@ -1,8 +1,8 @@
-<h1 align="left">Hi There👋!</h1>
+<h1 align="left">Hi👋, I am Ahmad Wildan bin Mazani!</h1>
 
 ###
 
-<p align="left">My name is Ahmad Wildan Bin Mazani and I'm a  Student of Data Engineering in UTM </p>
+<p align="left">I'm a first-year Data Engineering student at Universiti Teknologi Malaysia (UTM) with a strong passion for **data and programming. I thrive on solving real-world challenges through data-driven insights and innovative solutions.  I’m fluent in Malay and English. I can manage basic communication in all those languages. 
 
 ###
 
@@ -10,24 +10,21 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨Hobby: Reading books <br>📚Origin : Klang, Selangor <br>🎯 Goals: CGPA 3.90 <br>🎲 Softskills: Leadership & Entrepreneurship </p>
 
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 # 🎓 Academic Background
 
 ## 🏫 Primary School  
-**Sekolah Rendah Arab Jaim Al-Faizin**  
+**Sekolah Rendah Ibn Khaldun**  
 
 ## 🏫 Secondary School  
-**Sekolah Menengah Kebangsaan Dato' Dol Said**  
-📜 **SPM Results:** 4A+, 3A, 1A-, 1B+  
+**Maktab Renda Sains Mara (MRSM) Taiping**  
+📜 **SPM Results:** 3A+,4A, 1B+  
 
 ## 🎓 Matriculation  
-**Malacca Matriculation College**  
+**Kolej MARA Kuala Nerang**  
 📊 **CGPA:** 3.96  
 
 ## 🎓 Bachelor Degree  
@@ -36,11 +33,28 @@
 ---
 
 ## 🏆 Participation in University Events  
-- 🌟 **Crew for SUSKOM' 24** (Protocol Unit)  
-- 🏃‍♂️ **Seloka Run 2024**  
+- 🌟 **Crew for CODE' 25** (Protocol Unit)  
+- 🏃‍♂️ **Futsal SEGA**  
 - ⚔️ **Mobile Legends Tournament** (OPERA' 25)  
-- 🏑 **Woodball Ria KTC**  
-- 🇯🇵 **Japan Edu-Tourism Exchange**  
+- 🏑 **CODERUSH 25**  
+- 🇯🇵 **Japan Edu-Tourism Exchange**
+- **C++ Clinic 2024 (Cc'24)**
+- **Majlis Perutusan Tahun Baru 2025 Menteri Pendidikan Tinggi**
+- **Majlis Solat Hajat Dan Bacaan Yasin 2025**
+- **Sukan Sains Komputer 2024 (Suskom' 24)**
+- **Kuliah Tafaqquh Fiddin 3.0 2024/2025 (Siri 2)**
+- **Grow With Purpose, Build With Trust By Celcom Digi**
+- **Majlis Berbuka Puasa**
+- **Majlis Pengenalan Kelab Kolej Tun Dr. Ismail 2024 (Mapek'24)**
+- **Latihan Kebakaran Kolej Tun Dr Ismail ‘24**
+- **Uniform Bodies, Clubs & Societies Exhibition (Unbocs)**
+- **Engagement With Principal And Council Of Fellows Ktdi 2024/2025 (Epf ‘24)**	
+- **Penganjuran Program Introduction To Iem**	
+- **Malam Kebudayaan Mmm Sesi 2024/2025**	
+- **Slot Kpt Sempena Minggu Mesra Mahasiswa Sesi 2024/2025**	
+- **Majlis Perasmian Dan Bacaan Ikrar Serta Sesi Bersama Tnchepa Bagi Mmm 2024**	
+- **Slot Kpt Sempena Minggu Mesra Mahasiswa Sesi 2024/2025**	
+- **Sesi Bersama Majlis Perwakilan Pelajar Utm Sempena Minggu Mesra Mahasiswa 2024/2025**
 
 ---
 
@@ -50,23 +64,8 @@
 - 🔢 **Discrete Structures**  
 - 💻 **Programming Technique 1**  
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
 ###
+
+<h2 align="left">I code with</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="150">
