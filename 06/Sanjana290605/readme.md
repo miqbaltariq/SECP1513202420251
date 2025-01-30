@@ -7,7 +7,7 @@ HI......I'm SANJANA DEVI D/O RAVI and this my turf for uploading my works relate
 There are 4 of my assignments that i would like to share here...
 |                |FILES                          |COMMENT                      |
 |----------------|-------------------------------|-----------------------------|
-|ASSIGNMENT 1    |`'Isn't this fun?'`            |'Isn't this fun?'            |
-|ASSIGNMENT 2    |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|ASSIGNMENT 3    |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|ASSIGNMENT 1    |                               |                             |
+|ASSIGNMENT 2    |                               |                             |
+|ASSIGNMENT 3    |                               |                             |
 |ASSIGNMENT 4    |                               |                             |
