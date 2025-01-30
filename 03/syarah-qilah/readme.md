@@ -1,59 +1,45 @@
+# 👋 Welcome to Syarah's Realm!🧚‍♀️
 
-
-Hi there! 👋 I'm excited to share a bit about myself, my educational journey, and my skills. This serves as a quick professional overview that you can explore right here on my GitHub.
-I'm a first year student in Universiti Teknologi Malaysia taking Bachelors in Science Computer (Data Engineering) with Honours. 
+Hi there! 🤗 Here's a little space about me serving quick professional overview about myself, my education and also my projects. Let's dive in 👀!				
 ---
 
-## 👤 **About Me**
-- **Name:** [Syarah Aqilah binti Ya'acob]
-- **Skills:** [Programming, Graphic Designing, Crocheting]
-- **Languages:** [Malay, English]
-![About Me](https://via.placeholder.com/800x200?text=About+Me+Graphic)
+## 🧕**About Me**
+***Name:** [Syarah Aqilah binti Ya'acob]
+***Skills:** [Programming, Graphic Designing, Crocheting]
+***Languages:** [Malay, English]
 
 ---
 
 ## 🎓 **Education Background**
-- **[Degree]** – [Universiti Teknologi Malaysia (UTM), Johor Bahru ]
-- _[2024-2028]_
+ **🌷[Degree _(2024-2028)_]** –> [ Universiti Teknologi Malaysia (UTM), Johor Bahru ]
 - Course : Bachelors in Science Computer (Data Engineering) with Honours
 
-- **[Foundation]** – [Pusat Asasi Universiti Teknologi Mara (UiTM), Dengkil ]
-- _[2023-2024]_
+**🪻[Foundation_(2023-2024)_]** –> [Pusat Asasi Universiti Teknologi Mara (UiTM), Dengkil ]
 - Course : Foundation in Engineering
 * CGPA : 4.00
 * MUET : 4.5
 
-- **[High School]** – [MRSM Tun Dr. Ismail, Pontian ]
-- _[2018-2023]_
+**🌻[High School _(2018-2023)_]** –> [MRSM Tun Dr. Ismail, Pontian ]
 - Course : Science Stream
 * SPM : 5A+ 1A- 3B+
-* 
-![Education Background](https://via.placeholder.com/800x200?text=Education+Graphic)
 
 ---
 
 ## 🛠️ **Skills**
-Here are some of the key tools and technologies I work with:
-
-- **Programming Languages:** [e.g., C, C++]
+**Programming Languages:** [C, C++]
 - **Tools:** [Dev C++]
-- **Skills:** [e.g., Graphic Design, Video Editing]
+**Skills:** [Graphic Design, Video Editing]
 - **Tools:** [Canva, Capcut,Vn]
-
-![Skills Graphic](https://via.placeholder.com/800x200?text=Skills+Graphic)
 
 ---
 
 ## 🤝 **Let’s Connect**
-Feel free to reach out if you’d like to collaborate, discuss ideas, or simply connect.
-
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 
-![Let’s Connect](https://via.placeholder.com/800x200?text=Let’s+Connect+Graphic)
 
+---
 
-List of Assignments for subject Technology and Information System (SECP1513) 
+## 🖥 **List of Assessments for subject Technology and Information System (SECP1513)**
 
 |     Task     |            Title                      |        Details              |       Reflection             |
 |--------------|---------------------------------------|-----------------------------|------------------------------|
