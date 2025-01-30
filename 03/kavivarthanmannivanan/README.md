@@ -45,5 +45,8 @@
 
 <h1 align="center">TIS PROJECT AND ASSIGNMENTS</h1>
 <h3 align="left">ASSIGNMENT 1: POSTER</h3>
+<h3 align="center"> <img src="https://github.com/user-attachments/assets/fb64b313-6816-43ce-9594-a1b14731048c" alt="image" width="400" height="auto" /> </h3>
+<br>
+
 
 <p> By involving in completing this poster project, we are able to get in-depth knowledge regarding EY Consulting company and how a data consulting company operates in real life and the skills required by industries in a future employee.</p>
