@@ -84,7 +84,7 @@ Based on the talk, they showed me insights as well as tips for me to develop num
 **Click this to Watch the Video!** 👉🏻 [https://youtu.be/gEowHrMlMjI?si=awu1SXXDxHMYsx-P]
 <br>
 
-Based on the talk, they showed me insights as well as tips for me to develop numerous skills to stay competitive and succeed in the jobmarket. The insights from Sharon Lim on SAP, Brandon Tang’s dynamic career journey, and Fakrul Arif’s expertise in web development have reinforced the importance of adaptability and continuous learning. I now recognize the true value of platforms such as GitHub, that induces self-learning and the need to embrace emerging technologies. EY’s commitment to nurturing talent has moved me to explore a wide-spread of career opportunities in Information Communication Technologies (ICT), making sure that I will be fully prepared for the challenges and obstacles in the near future.
+In the industry visit, we were exposed to the data center facility of UTM which is UTM Digital. There, we went to a seminar talk, and they showed us around the whole building to give us an in-detailed explaination of the structure of UTM Digital. This visit gave me a clear-cut view about what UTM Digital offers for not only the students, but the whole entire UTM environment as a whole. From the WiFi, to the university's mobile app UTM Smart, everything is handled and monitored by UTM Digital. Additionally, the visit enabled us to connect with the workers so that they shared their experiences and jobscopes in order for us to understand better regarding our course.
 
 
 
