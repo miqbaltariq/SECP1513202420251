@@ -87,4 +87,13 @@ Based on the talk, they showed me insights as well as tips for me to develop num
 In the industry visit, we were exposed to the data center facility of UTM which is UTM Digital. There, we went to a seminar talk, and they showed us around the whole building to give us an in-detailed explaination of the structure of UTM Digital. This visit gave me a clear-cut view about what UTM Digital offers for not only the students, but the whole entire UTM environment as a whole. From the WiFi, to the university's mobile app UTM Smart, everything is handled and monitored by UTM Digital. Additionally, the visit enabled us to connect with the workers so that they shared their experiences and jobscopes in order for us to understand better regarding our course.
 
 
+#
+### ○ Assignment 3 [Academic Writing]
 
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bec2afdd-4cb5-44e2-9f9e-dfcfe5f87030" height="850">
+</p>
+<br>
+
+In the industry visit, we were exposed to the data center facility of UTM which is UTM Digital. There, we went to a seminar talk, and they showed us around the whole building to give us an in-detailed explaination of the structure of UTM Digital. This visit gave me a clear-cut view about what UTM Digital offers for not only the students, but the whole entire UTM environment as a whole. From the WiFi, to the university's mobile app UTM Smart, everything is handled and monitored by UTM Digital. Additionally, the visit enabled us to connect with the workers so that they shared their experiences and jobscopes in order for us to understand better regarding our course.
