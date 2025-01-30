@@ -1,4 +1,4 @@
-# Welcome to Syarah Aqilah's E-Portfolio!
+
 
 Hi there! 👋 I'm excited to share a bit about myself, my educational journey, and my skills. This serves as a quick professional overview that you can explore right here on my GitHub.
 I'm a first year student in Universiti Teknologi Malaysia taking Bachelors in Science Computer (Data Engineering) with Honours. 
