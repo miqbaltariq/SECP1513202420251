@@ -45,8 +45,18 @@
 
 <h1 align="center">TIS PROJECT AND ASSIGNMENTS</h1>
 <h3 align="left">ASSIGNMENT 1: POSTER</h3>
-<h3 align="center"> <img src="https://github.com/user-attachments/assets/fb64b313-6816-43ce-9594-a1b14731048c" alt="image" width="400" height="auto" /> </h3>
+<h3> CLICK HERE TO VIEW THE POSTER: </h3>
+<p> align="center"> <img src="https://github.com/miqbaltariq/SECP1513202420251/blob/main/03/kavivarthanmannivanan/TIS%20ASSIGNMENT%201.jpg" alt="image" width="400" height="auto"> </p>
 <br>
 
-
+<h3> REFLECTION: </h3>
 <p> By involving in completing this poster project, we are able to get in-depth knowledge regarding EY Consulting company and how a data consulting company operates in real life and the skills required by industries in a future employee.</p>
+
+<h3 align="left">ASSIGNMENT 2: VISIT TO UTM DIGITAL</h3>
+<h3> CLICK HERE TO WATCH THE VIDEO: </h3>
+<p> [UTMDIGITAL TOUR BY TECHTICIANS](https://www.youtube.com/watch?v=gEowHrMlMjI)</p>
+<br>
+
+<h3> REFLECTION: </h3>
+<p> Besides creating an opportunity for group bonding, we are able to explore and get to know insights on how UTMDigital operates day-to-day. Personally, the information shared reagrding the databases used in UTM (SQL,mySQL and mainly oracle) benefits us in terms of the use of databases and the knowledge is efficient for the future of our undergraduate course.</p>
+
