@@ -12,11 +12,11 @@ _Hi there! 🤗 Here's a little space about me serving quick professional overvi
 ---
 
 ## 🎓 **Education Background**
- **🌷[Degree _(2024-2028)_ ]** –> [ Universiti Teknologi Malaysia (UTM), Johor Bahru ]
+ **🌹[Degree _(2024-2028)_ ]** –> [ Universiti Teknologi Malaysia (UTM), Johor Bahru ]
  
 ~ Course : Bachelors in Science Computer (Data Engineering) with Honours
 
-**🪻[Foundation _(2023-2024)_  ]** –> [Pusat Asasi Universiti Teknologi Mara (UiTM), Dengkil ]
+**🌷[Foundation _(2023-2024)_  ]** –> [Pusat Asasi Universiti Teknologi Mara (UiTM), Dengkil ]
 
 ~ Course : Foundation in Engineering
 * CGPA : 4.00
