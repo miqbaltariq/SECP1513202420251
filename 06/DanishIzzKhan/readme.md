@@ -1,10 +1,10 @@
-# Welcome to StackEdit!
+# Welcome to my work archive!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi! I"m Danish Izz Khan and this is my work archive consisting of all the assignments done for SECP1513 for session 24/25, semester 1.
 
-## SmartyPants
+## Assignments
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+The table below showcases all the assignments done for the following subjects as well as reflection on the overall experience while doing the assignments.
 
 
 |                |Files/Links                         |Reflection                         |
