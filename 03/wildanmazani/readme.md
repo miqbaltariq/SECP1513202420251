@@ -6,7 +6,7 @@ Hi! I'm a Student of Data Engineering in **Wildan**. If you want to learn about 
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Ahmad Wildan Bin Mazani and I'm a  Student of Data Engineering in UTMM </p>
 
 ###
 
