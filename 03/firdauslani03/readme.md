@@ -71,7 +71,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 </p>
 <br>
 
-In this assignment, I was introduced regarding a consulting company called EY CONSULTING. The industry talk showed me regarding the companies operation and they gave us an insight as well as tips in order to succeed in the job market. Additionally they also shared key skills that are required for a graduate to stand-out and be more appealing to employers in the future.
+Based on the talk, they showed me insights as well as tips for me to develop numerous skills to stay competitive and succeed in the jobmarket. The insights from Sharon Lim on SAP, Brandon Tang’s dynamic career journey, and Fakrul Arif’s expertise in web development have reinforced the importance of adaptability and continuous learning. I now recognize the true value of platforms such as GitHub, that induces self-learning and the need to embrace emerging technologies. EY’s commitment to nurturing talent has moved me to explore a wide-spread of career opportunities in Information Communication Technologies (ICT), making sure that I will be fully prepared for the challenges and obstacles in the near future.
 
 
 
