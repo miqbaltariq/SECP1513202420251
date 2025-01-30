@@ -30,7 +30,7 @@ Working with a fantastic group of like-minded individuals has been a key part of
 - **[Chin Wei Yao](https://github.com/chinweiyao):**   
 
 Here’s a photo of my team:  
-![WhatsApp Image 2025-01-06 at 03 03 53](https://github.com/user-attachments/assets/b7b66ef8-a4c9-427e-bda5-492b87da04ff)
+![WhatsApp Image 2025-01-28 at 22 08 19](https://github.com/user-attachments/assets/b7b66ef8-a4c9-427e-bda5-492b87da04ff)
 
 ---
 List of Assignment I did with my incredible teammates: 
