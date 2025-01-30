@@ -71,7 +71,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 </p>
 <br>
 
-
+In this assignment, I was introduced regarding a consulting company called EY CONSULTING. The industry talk showed me regarding the companies operation and they gave us an insight as well as tips in order to succeed in the job market. Additionally they also shared key skills that are required for a graduate to stand-out and be more appealing to employers in the future.
 
 
 
