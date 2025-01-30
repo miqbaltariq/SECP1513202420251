@@ -71,16 +71,7 @@ I’m a **Computer Science** student specializing in Data Engineering at **Unive
 </p>
 <br>
 
-HOUSE: Foreman, go do a stress echo test to see if he's right. Cameron, check out the dorm and redo the ER labs. [Ducklings leave.] [Calling out after them.] I'll get going on Foreman's farewell party. Everybody good with a mermaid under the stars theme? [They all give him a weird look and then continue leaving.]
-[Cut to Foreman and Chase watching the results of the stress echo.]
-CHASE: So, why are you leaving? Or is it just some sort of power play?
-FOREMAN: You can have my parking space, my locker.
-CHASE: Is it about House?
-FOREMAN: [Sarcastic.] Let me get all sensitive and confide in you. [Pushes the microphone button.] Addie, pedal harder. Need your heart rate at 170. [Addie pedals faster.]
-CHASE: Why wouldn't you want to tell me?
-FOREMAN: I don't like you. Never have, never will. You want me to share some more?
-CHASE: Even if you do hate me, if you found another job you'd tell me. If House did something to drive you out of here, you'd tell me. The fact that you won’t tell me means whatever the real reason is, you're ashamed of it.
-ADDIE: Guys? I'm at 170. [Stops pedalling.]
+
 
 
 
