@@ -1,8 +1,9 @@
 # **AKRAM ALI MURSHED ALSHAMI'S WORKSPACE**
 
-### *Welcome to My e-Portfolio!*
+Welcome to My e-Portfolio!
 
-Hi! I'm **Akram Ali Murshed Al-Shami** (A23CS4022), a **first-year Software Engineering student** at **Universiti Teknologi Malaysia (UTM)**. Here, I’ve shared my **work, assignments, and a project** from my **Technology and Information Systems (SECP1513) course** in my first year. Each entry includes **my learnings, challenges faced, and reflections**. Let’s take a look! 🚀
+Hello and welcome to my e-portfolio! 
+My name is Akram Ali Murshed Al-Shami (A23CS4022), and I am currently a first year Software Engineering student at Universiti Teknologi Malaysia (UTM). This platform showcases my academic journey, projects, and reflections from the Technology and Information Systems (SECP1513) course. Here, you will find insights into my learning experiences, challenges faced, and skills acquired throughout my coursework. I am passionate about exploring new technologies, problem solving, and continuous learning. Join me as I share my experiences and growth in the world of software engineering! 🚀
 
 ---
 
