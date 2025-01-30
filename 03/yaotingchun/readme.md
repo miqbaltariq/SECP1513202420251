@@ -8,7 +8,8 @@
 - 🏠 I'm from Johor Bahru, Malaysia.
 - 🗣 Proficient in English, Chinese and Malay. 
 - 💻 Prefer C++ as programming language.
-- 📧 You can contact me at lightchaser1125@gmail.com.
+- 📧 You may contact me at [lightchaser1125@gmail.com](mailto:lightchaser1125@gmail.com).
+- 🌐 You may also have a look at my [E-portfolio Website](https://yaotingchun.github.io/)!
 - ✨ Trust the process! 
 
 ***
