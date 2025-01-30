@@ -9,4 +9,7 @@ This is the collection of all the works i've done in this subject throughout the
 |        1       |`PC Assemble`                                   |
 |        2       |`Assignment 1 - poster of UTMDigital X petronas`|
 |        3       |`Assignment 2 - video on industry visit 1`      |
+|        4       |`Assignment 3 - report on industry talk`        |
+|        5       |`design thinking project proposal - project proposal and video on project proposal`      |
+|        6       |`Assignment 4 - Poster of CODE'25 CodeRoutes `      |
 
