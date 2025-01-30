@@ -10,4 +10,4 @@ Researching real-world applications, such as Google Ads and Reflectly, helped me
 
 Overall, this assignment helped me appreciate the importance of choosing the right development framework and how technology is evolving to make app development more efficient. It has also motivated me to explore Flutter further and possibly use it in future projects.|
 |6|Design Thinking Project         |Working on the Safe Link Checker was a really interesting experience. We explored how to design a simple, user-friendly system to detect malicious links, focusing on how it would function rather than actually building it. Brainstorming ideas and sketching the interface helped us understand the challenges of cybersecurity and how to make solutions more accessible. Creating the demo video also strengthened our teamwork and communication skills, making this project both enjoyable and insightful.|
-
+|7|Project Design Thinking         ||
