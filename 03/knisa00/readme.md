@@ -1,7 +1,9 @@
 ## About Me
 
+
 ### Introduction
-Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!
+Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!![](https://github.com/user-attachments/assets/a16fab71-9624-45a2-90cb-087300132dcc)
+
 
 ## Education
 
@@ -10,7 +12,7 @@ Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm 
 - Foundation: 4.00 [Universiti Teknologi MARA Dengkil](https://selangor.uitm.edu.my/index.php/en/ucampuses/kampus-dengkil)
 - Degree: Pursuing Bachelor of Computer Science (Data Engineering) with Honours [Universiti Teknologi Malaysia Skudai](https://www.utm.my/)
 
-## Roles
+## Positions
 
 - Exco Multimedia of Himpunan Siswazah Kelantan Club [(HIMSAK)](https://www.instagram.com/himsak_utm?igsh=MXc3c3UxM3R4eXY4Zg==)
 - Committee Member of Ashabul Falaq Club (KAF)
@@ -21,6 +23,9 @@ Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm 
 - Programming Technique I
 - Discrete Structure
 - Digital Logic
+- English Language
+- Japanese Language
+- Arabic Langugae
 
 ## Programming skills
 
@@ -44,7 +49,11 @@ From left, [Adam](https://github.com/AdamAshraffZamri), [Hafiz](https://github.c
 
 ### Reflection of Assesments
 
-1. **PC Assemble** 
+
+1. **Lab : [Personal Computer (PC) Assemble](https://github.com/user-attachments/assets/ff402d53-2c70-4ae5-ac4d-319204a4cdd3)**
+
+Through this lab activity, I gained hands-on experience in assembling PC components, deepening my understanding of their functions and interconnections. My team got try twice to make sure the PC worky succesfully, thus I learned how crucial each part, such as the motherboard, CPU, RAM, power supply, and storage devices—is in ensuring the system operates efficiently. Additionally, troubleshooting minor issues during assembly enhanced my problem-solving skills, making the learning experience more engaging and practical.
+   
 2. **Assignment 1: [Poster - Industry Talk by AirAsia](https://github.com/user-attachments/assets/e3c2f053-484a-44ae-af03-743289c0a95c)**
 
 From the AirAsia talk, I realized the significant role that collaboration plays in AirAsia, and I see how it can apply to working in a team for our assignment. Since this is my first assignment with my groupmates, it’s crucial to establish clear communication from the very beginning. First, proper planning is key to ensure everyone understands the goals, deadlines and their individual responsibilities. Embracing feedback from each other and openly discussing different perspectives will enhance the quality of our work. This collaborative mindset will not only make the assignment process smoother but also strengthen our teamwork skills for future projects.
