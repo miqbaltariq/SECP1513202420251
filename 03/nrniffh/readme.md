@@ -5,7 +5,16 @@ Hi there! I'm **Nurin Iffah**, a first-year Computer Science (Data Engineering) 
 ## About Me 🚀
 - 🔭 Currently learning: **Data Engineering** and **C++ programming**  
 - 🌱 Exploring: **Big Data**, **Cloud Computing**, and **Machine Learning**  
-- 💡 Always curious about: **Innovative tech solutions**  
+- 💡 Always curious about: **Innovative tech solutions**
+  
+## Education 🎓
+
+- **Foundation in Engineering and Technology** – *Kolej MARA Kuala Nerang*  
+  📍 *2023 - 2024* | **CGPA: 3.98**  
+
+- **Bachelor of Computer Science (Data Engineering)** – *Universiti Teknologi Malaysia (UTM)*  
+  📍 *2024 - Present*  
+
 
 ## Let's Connect! 🌍 
 - 💼 LinkedIn: www.linkedin.com/in/nurin-iffah-ahmad-borhan 
