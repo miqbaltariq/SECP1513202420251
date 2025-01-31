@@ -14,7 +14,7 @@
 - 😍A table tennis 🏓 & volleyball 🏐 player
 - 🌐Currently learning **C++** 
 - 🔥Excited to learn more!
-- 🔍Access my [E-portfolio](https://hengzhiqiang.github.io) to know more about me!
+- 🔍Access my <!--[E-portfolio](https://hengzhiqiang.github.io)--> to know more about me!
   
     
 ## 📖EDUCATION 
