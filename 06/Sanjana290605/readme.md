@@ -14,9 +14,6 @@ There are 4 of my assignments that i would like to share here...
                            
 ## PROJECT
 
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
+|----------------------------------|--------------------------|
 |PROJECT DESIGN THINKING PROPOSAL  |                          |
 |END PROJECT (VIDEO)               |                          |
