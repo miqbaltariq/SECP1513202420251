@@ -14,29 +14,24 @@
 
 **EDUCATION**
 * Primary School
-  - 📍 [SJK(C) Pu Sze](https://www.facebook.com/sjkcpuszeskudai) 
-  - 📝 UPSR: 8 A's
+  - 📍 SJK(C) Kuo Kuang 2
 
 * Secondary School
-  - 📍 [Seri Omega Private and International School](https://www.seriomega.edu.my/)
-  - 📝 SPM: 10 A's
+  - 📍 Seri Omega Private and International School
 
 * Pre-University
-  - 📍 [School of Professional and Continuing Education (UTMSPACE)](https://utmspace.edu.my/)
+  - 📍 School of Professional and Continuing Education (UTMSPACE)
   - 👨‍🎓 Foundation in Physical Science
-  - 📝 CGPA : 4.00
-  - 🗣️ MUET : 4.0
- 
+
 * Degree
-  - 📍 [University of Technology Malaysia (UTM)](https://www.utm.my/)
-  - 💻 Bachelor of Computer Science (Data Engineering) with Honours
+  - 📍 University of Technology Malaysia (UTM)
+  - 💻 Bachelor of Computer Science (Computer Network and Security) with Honours
 
 ***
 
 **HOBBY**
-- 🚶 Night Walk 
-- 🎼 Enjoy Music 
-- 🧑‍🍳 Play Overcooked!
+- 🏸 Badminton
+- 🎼 Listen to Music 
 
 ***
 
