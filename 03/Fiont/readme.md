@@ -30,7 +30,7 @@ Hi! I'm FION TEE XIN YUE, currently a student from **UNIVERSITI TEKNOLOGI MALAYS
 | **Assignment 4 (Poster)**     | After attending the OSINT Beginner's Guide on Computing Open Day & Exhibition 2025 (CODE'25), I learnt that I need to be always alert and stay informed about all the changes. It is essential to be aware in cybersecurity. OSINT techniques will be a benefit skill if I learn and familiar with it. In summary, I will use it wisely to maximise the benefit it brings to me.                                     |
 | **Project (Smart Hospital)**    | This project allows me to involve myself to apply all the knowledges we learnt in this semester. Moreover, it practised my thinking and problem-solving skills by solving all the problems that we met. It makes me more understand and closed to the smart hospital. I also improve my communication skill by communicating with my teammate.                                        |
 
-# My TEAMMATE
+# My TEAMMATES
 Our Group Name: #TECHNoLimits🤖
 
 # Programming Language💻
