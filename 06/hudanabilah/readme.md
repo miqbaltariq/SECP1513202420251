@@ -1,12 +1,15 @@
-# Welcome to StackEdit!
+# Welcome to my e-portfolio👋!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-## SmartyPants
+Hi! My name is **Nurul Huda Nabilah Binti Abdul Rahim**. I am a first year student of Computer Science (Network and Computer Security). I use this platform to showcase my knowledge through assignment and project. I also share my experiences learning TIS throughout the semester.😁.
+## Reflection
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+|  Activity               |Reflection                             |                   |
+|----------------|-------------------------------|-|
+|Assignment 1|This industrial talk was highly beneficial in enhancing my understanding of the PETRONAS program. I gained valuable insights into the Young Graduate Programme, about which i previously had limited knowledge. Additionally, this assignment helped me learn how to convert information into a poster format, allowing me to develop skills that contribute to my self-improvement         |            |
+|Assignment 2         |This industrial visit was very exciting for me as it was our first experience of such a visit. I explored many aspects, particularly the roles within the industry. I also learned about the various positions available at UTM digital. Additionly, they gave a talk about their work and its significance in the industry, which further motivated me. This assignment taught me how to express what i learned during the talk in video format.           | |
+|Assignment 3          |Throughout this assignment, I learned essential skills needed to feel valuable in the industry. The speaker shared their experiences and knowledge, inspiring us to improve ourselves. The content of the talk was very comprehensive and informative. In our group, we shared our opinions from different perspective to enrich the report with valuable information. We also communicated extensively by exchanging insights gained from the talk.||
+|Assignment 4| This time, we attended an amazing workshop! i learned a lot, especially because the facilitators were very helpful. They taught me about cybersecurity and how to manage my information to prevent cyber theft. We also participated in a quiz to test our knowledge, and i communicated a lot with my deskmate as we worked together to solve the question.
+|PC Assemble| Assembling a PC was a great experience for me, as i gained valuable knowledge about its internal components. I enjoyed this activity because my groupmates were very helpful. We taught each other what we knew and ensured that everyone participated in the process. Although it was a bit challenging to memorize the exact placement of each component to avoid mistake, we succesfully completed it thanks to the excellent teamwork within our group.
+|Project| For our project, our group decided to create a real-time bus tracking system. We held meetings and brainstormed ideas together to develop the best system. We shared our opinions on how to improve it and worked as a team to ensure the project's success. Everyone contributed, and no one left their tasks incomplete. As a part of the project, we had to create a simple model and record a short video explaining our system. Each teammates participated by presenting a section of the explanation. Since we were not allowed to use any software prototypes for the presentation, creating a handwritten prototype and explaining it in a video was a unnique and interesting experience for us.
