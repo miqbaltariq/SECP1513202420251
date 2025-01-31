@@ -2,22 +2,24 @@
 
 
 ### Introduction
-Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!![](https://github.com/user-attachments/assets/a16fab71-9624-45a2-90cb-087300132dcc)
+Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!
 
 
-## Education
+![](https://github.com/user-attachments/assets/a16fab71-9624-45a2-90cb-087300132dcc)
+
+### Education
 
 - UPSR: 3A 1B 2C [Sekolah Kebangsaan Bukit Jarum](https://www.facebook.com/sekkebBukitJarum/?locale=ms_MY)
 - SPM: 4A+ 4A 1A- [Sekolah Menengah Sains Pasir Puteh](https://www.facebook.com/SMSPPp/?locale=ms_MY)
 - Foundation: 4.00 [Universiti Teknologi MARA Dengkil](https://selangor.uitm.edu.my/index.php/en/ucampuses/kampus-dengkil)
 - Degree: Pursuing Bachelor of Computer Science (Data Engineering) with Honours [Universiti Teknologi Malaysia Skudai](https://www.utm.my/)
 
-## Positions
+### Positions
 
 - Exco Multimedia of Himpunan Siswazah Kelantan Club [(HIMSAK)](https://www.instagram.com/himsak_utm?igsh=MXc3c3UxM3R4eXY4Zg==)
 - Committee Member of Ashabul Falaq Club (KAF)
 
-## Currently Learning
+### Currently Learning
 
 - Technology and Information System
 - Programming Technique I
@@ -27,7 +29,7 @@ Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm 
 - Japanese Language
 - Arabic Langugae
 
-## Programming skills
+### Programming skills
 
 ![C](https://img.shields.io/badge/C-blue.svg)
 ![C++](https://img.shields.io/badge/C++-pink.svg)
@@ -37,7 +39,7 @@ Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm 
 - ![Dance Icon](https://img.icons8.com/ios-filled/50/000000/dancing.png) Workout Dances
 - ![Singing Icon](https://img.icons8.com/ios-filled/50/000000/singer.png) Singing
   
-## Let's connect 
+### Let's connect 
 
 - <a href="https://instagram.com/your_instagram__.oukey" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> INSTAGRAM
 - <a href="mailto:knisa74800@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> PERSONAL EMAIL
