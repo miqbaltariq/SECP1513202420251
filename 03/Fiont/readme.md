@@ -1,9 +1,10 @@
 # Welcome to FION'S Page!👋🏻
 
-Hi! I'm FION TEE XIN YUE, a student from **UNIVERSITI TEKNOLOGI MALAYSIA**.📖 If you want to learn more about me, you can read me!
-| **Field**           | **Details**                                      |
+Hi! I'm FION TEE XIN YUE, a student from **UNIVERSITI TEKNOLOGI MALAYSIA**.📖👩🏻‍💻 If you want to learn more about me, you can read me!
+| **About ME**           | **Details**                                      |
 |---------------------|--------------------------------------------------|
 | **Name**           | FION TEE XIN YUE                                      |
+| **Birthday**            | 5 March                                               |
 | **Age**            | 21                                               |
 | **Nationality**    | Malaysian                                       |
 | **State**     | Johor                                     |
@@ -11,7 +12,7 @@ Hi! I'm FION TEE XIN YUE, a student from **UNIVERSITI TEKNOLOGI MALAYSIA**.📖 
 | **Course**         | Bachelor of Computer Science (Computer Networks & Security)             |
 | **Year**           | 1st Year                                        |
 
-# Academic Background💯
+# Academic Background✍🏻
 | **Educational Level**           | **Institution**                                      |
 |---------------------|--------------------------------------------------|
 | **Primary Education**           | SJK (C) SIN HWA, BUKIT PASIR🔚                                      |
@@ -19,3 +20,4 @@ Hi! I'm FION TEE XIN YUE, a student from **UNIVERSITI TEKNOLOGI MALAYSIA**.📖 
 | **Pre-U**    | SUNWAY COLLEGE KL🔚                                       |
 | **Undergraduate Degree**     | UNIVERSITI TEKNOLOGI MALAYSIA (UTM)🔛                                     |
 
+# 
