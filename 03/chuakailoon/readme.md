@@ -1,14 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=yaotingchun&color=blueviolet&label=VISITORS)
-# **Hi there! My name is Chun Yao Ting. 👋**
+# **Hi there! My name is Chua Kai Loon. 👋**
 
 **ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡**
 - 🏫 1st Year Student of University of Technology Malaysia (UTM). 
-- 🎓 Currently pursuing Bachelor of Computer Science (Data Engineering). 
-- 🥇 Champion of CodeRush'25 UTM.
-- 🏠 I'm from Johor Bahru, Malaysia.
-- 🗣 Proficient in English, Chinese and Malay. 
-- 💻 Prefer C++ as programming language.
-- 📧 You may contact me at [lightchaser1125@gmail.com](mailto:lightchaser1125@gmail.com).
+- 🎓 Bachelor of Computer Science (Computer Network and Security). 
+- 🏠 Skudai, Johor, Malaysia.
+- 💻 C++ as programming language.
+- 📧 (chuakailoon20050522@gmail.com)
 - 🌐 You may also have a look at my [E-portfolio Website](https://yaotingchun.github.io/)!
 - ✨ Trust the process! 
 
