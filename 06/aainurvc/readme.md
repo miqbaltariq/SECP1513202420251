@@ -1,8 +1,27 @@
+![](https://komarev.com/ghpvc/?username=aainurvc&color=green&label=VISITORS)
+
 # Welcome to Ainur Mardhiah's E-portfolio ✮ ⋆ ˚｡𖦹 ⋆｡°✩!!
-Hi! I'm Ainur Mardhiah, a first-year student at Universiti Teknologi Malaysia (UTM), pursuing a degree in Computer Science (Network and Computer Security)👩‍💻.Here are my reflections for all the assignments throughout this Semester 1. Feel free to explore my work and see how I’m developing my skills in the field!
+Hi! I'm Ainur Mardhiah, a first-year student at Universiti Teknologi Malaysia (UTM)👩‍💻.
+***
 
+**EDUCATION**
+* Primary School
+  - 📍 SK Bandar Baru UDA 2
+    
+* Secondary School
+  - 📍 Sekolah Tun Fatimah
+    
+* Pre-University
+  - 📍 UiTM Dengkil
+  - 👩‍⚕️ Foundation in Science
 
+* Degree
+  - 📍 University of Technology Malaysia (UTM)
+  - 👩‍💻 Bachelor of Computer Science (Computer Network and Security) with Honours
 
+ ***   
+
+Here are my reflections for all the assignments throughout this Semester 1. Feel free to explore my work and see how I’m developing my skills in the field!
 ## 📖Reflections
 
 |         NO       | ASSIGNMENT                         |REFLECTION                         |
