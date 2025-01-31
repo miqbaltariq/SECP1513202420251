@@ -49,7 +49,7 @@
 
   ## 🎒High School Education **[Sekolah Menengah Kebangsaan Bukit Sentosa]**
   - - **Duration**: [2018] - [2023]
-  - - **Achievements**: [I proudly represented my school at the national robotics championship.]
+  - - **Achievements**: [I proudly represented my school at the national robotics championship.],[SPM Result:7A 2B+],..
 
 ## 📚📚 My Core Subjects For First Sem Of Data Engineering (1st year)
 1. Discrete Structure 
