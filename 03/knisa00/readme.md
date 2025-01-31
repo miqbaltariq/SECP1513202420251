@@ -54,7 +54,7 @@ From left, [Adam](https://github.com/AdamAshraffZamri), [Hafiz](https://github.c
 
 1. **Lab : [Personal Computer (PC) Assemble](https://github.com/user-attachments/assets/ff402d53-2c70-4ae5-ac4d-319204a4cdd3)**
 
-Through this lab activity, I gained hands-on experience in assembling PC components, deepening my understanding of their functions and interconnections. My team got try twice to make sure the PC worky succesfully, thus I learned how crucial each part, such as the motherboard, CPU, RAM, power supply, and storage devices—is in ensuring the system operates efficiently. Additionally, troubleshooting minor issues during assembly enhanced my problem-solving skills, making the learning experience more engaging and practical.
+Through this lab activity, I gained hands-on experience in assembling PC components, deepening my understanding of their functions and interconnections. My team had to try twice to ensure the PC worked successfully, which helped me learned how crucial each part is in ensuring the system operates efficiently, such as the motherboard, CPU, RAM, power supply, and storage devices. Additionally, troubleshooting minor issues during assembly enhanced my problem-solving skills, making the learning experience more engaging and practical.
    
 2. **Assignment 1: [Poster - Industry Talk by AirAsia](https://github.com/user-attachments/assets/e3c2f053-484a-44ae-af03-743289c0a95c)**
 
