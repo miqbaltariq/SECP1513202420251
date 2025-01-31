@@ -7,7 +7,7 @@ Hi......I'm SANJANA DEVI D/O RAVI and this is my turf for uploading my works rel
 
 |HANDS ON         | COMMENT & REFLECTION |
 |-----------------|----------------------|
-|PC ASSEMBLE      |This was the first hands on experience for me in the Technology and system course. I was very excited to be able to detach and reattach the PC|
+|PC ASSEMBLE      |This was the first hands on experience for me in the Technology and system course. I was very excited to be able to detach and reattach the PC. I was able see and touch the hardware components inside the PC. This helped me to learn about hardware components which was very helpful for me to score in the quiz on the hardware components.|
 
 ## ASSIGNMENTS
 
