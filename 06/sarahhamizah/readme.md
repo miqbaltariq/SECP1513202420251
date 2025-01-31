@@ -1,12 +1,11 @@
-# Welcome to StackEdit!
+# Welcome to my e-portfolio!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi, my name is Sarah Hamizah. I'm a first year Computing student with a focus on Network and Computer Security.  
 
-## SmartyPants
+## Reflection
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |ASCII                          |HTML                         |
+|      No.       |Title                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
