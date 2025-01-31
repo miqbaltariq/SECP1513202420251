@@ -1,7 +1,9 @@
 
 # <p align="center"> Hello, Nive here! </p> 
 ![views](https://komarev.com/ghpvc/?username=niveethita&color=green)
-![Last Commit](https://img.shields.io/github/last-commit/niveethita/niveethita?logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/niveethita/niveethita?color=blue)
+
+
 
 
 <p align="center">
