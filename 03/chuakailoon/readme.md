@@ -1,66 +1,84 @@
+![](https://komarev.com/ghpvc/?username=yaotingchun&color=blueviolet&label=VISITORS)
+# **Hi there! My name is Chun Yao Ting. 👋**
 
-<h1 align="center">Welcome to my page</h1>
+**ABOUT ME ｡⁠◕⁠‿⁠◕⁠｡**
+- 🏫 1st Year Student of University of Technology Malaysia (UTM). 
+- 🎓 Currently pursuing Bachelor of Computer Science (Data Engineering). 
+- 🥇 Champion of CodeRush'25 UTM.
+- 🏠 I'm from Johor Bahru, Malaysia.
+- 🗣 Proficient in English, Chinese and Malay. 
+- 💻 Prefer C++ as programming language.
+- 📧 You may contact me at [lightchaser1125@gmail.com](mailto:lightchaser1125@gmail.com).
+- 🌐 You may also have a look at my [E-portfolio Website](https://yaotingchun.github.io/)!
+- ✨ Trust the process! 
 
-###
+***
 
-<h4 align="center">My name is <strong>MUHAMMAD HAFIZ BIN REEPEI</strong>. I am currently studying for a bachelor's degree in computer science with a specialization in data engineering.</h4>
+**EDUCATION**
+* Primary School
+  - 📍 [SJK(C) Pu Sze](https://www.facebook.com/sjkcpuszeskudai) 
+  - 📝 UPSR: 8 A's
 
-###
+* Secondary School
+  - 📍 [Seri Omega Private and International School](https://www.seriomega.edu.my/)
+  - 📝 SPM: 10 A's
 
-<h2 align="left">Short Biography</h2>
+* Pre-University
+  - 📍 [School of Professional and Continuing Education (UTMSPACE)](https://utmspace.edu.my/)
+  - 👨‍🎓 Foundation in Physical Science
+  - 📝 CGPA : 4.00
+  - 🗣️ MUET : 4.0
+ 
+* Degree
+  - 📍 [University of Technology Malaysia (UTM)](https://www.utm.my/)
+  - 💻 Bachelor of Computer Science (Data Engineering) with Honours
 
-###
+***
 
-<p align="left">🍴 I enjoy eating as it give me satisfaction and happiness<br>👾 Addicted gamer<br>🎶 Deep appreciation for music<br>🎂 7 February 2005<br>👱🏼 Cheerful, enthusiastic, friendly, outgoing<br>🎲 Fun fact: Cats and otters are my favorite animals</p>
+**HOBBY**
+- 🚶 Night Walk 
+- 🎼 Enjoy Music 
+- 🧑‍🍳 Play Overcooked!
 
-###
+***
 
-<h2 align="left">My Coding Languages</h2>
+### <h1> GROUP #HASHTECH #️⃣ </h1>
+![WhatsApp Image 2025-01-20 at 21 39 08_adc9cb40](https://github.com/user-attachments/assets/2aa2904e-3b21-4d30-a831-b4ec1bca4d9e)
+**<p>With my teammates [Parthiv Gunalan](https://github.com/Parv53), [Heng Zhi Qiang](https://github.com/hengzhiqiang), [Tang Wei Yang](https://github.com/tangweiyang) and [Ong Yi Wen](https://github.com/yiwen04).</p>**
 
-###
+---
+### **TECHNOLOGY AND INFORMATION SYSTEM PROJECTS** ℹ️
+|    **NO**   |                                 **PROJECT**                   |    **DATE**   | **REFLECTION**  |
+|-----------------------|-------------------------------------------------------------------|---------------|-----------------|
+|<p align="center">1</p>| [Poster (Industry Talk: Overview of ICT Jobs)](https://drive.google.com/file/d/1TnQoQpAkC85EtYGZ-TVlFK-ki6_priwh/view?usp=sharing)|  23 NOV 2024  | <p align="justify">Throughout the talk given by Clarity Techwork, I am introduced with different job roles in a tech company such as  UI/UX Developer, QA Testing Analysis and Web Developer. The seamless integration of each department allows the project to be done with ease. Besides, the talk also emphasizes on technical skills and soft skills that I need to develop to remain competitive in the market. Additionally, I found out that I also must actively explore the latest technology worldwide, as ICT field evolves rapidly. Moreover, I also able to master the features of Canva in this project.</p>|
+|<p align="center">2</p>| [Video (Industry Visit: UTM Digital)](https://drive.google.com/file/d/1svd3S-d1m-s2f7pQUQaddCeglenBGc_C/view?usp=sharing)|  10 DEC 2024  | <p align="justify">Throughout the visit to UTM Digital, I am able to visualize how an organization actually operate to produce desired outcome for customers. This is a great addition to my experience because I can gain exposure on the real working environment, which helps me to adapt to work life in future. Furthermore, I also can see how each departments work together and the work flow to achieve a successful project. Other than that, this project enables me to learn the very basic video editing skills, which could potentially benefits me in future. </p>|
+|<p align="center">3</p>| [Report (Industry Talk: Skills in University & Industry)](https://drive.google.com/file/d/1pSHC18H6se66jZ3MXhh7PSo9mBcTIH3Y/view?usp=sharing)|  17 DEC 2024  | <p align="justify">Throughout the talk, I found out that I am still lacking a lot of essential skills that are needed in ICT jobs. This talk motivates me to start sharpening the skills that I already mastered and start exploring the new skills that I haven't mastered yet. Besides, this talk also emphasizes on job application process, which I found very useful as guide for me to apply jobs in future. Other than that, the speaker also motivates us to have our own tech startup and teach us how to turn your business idea into reality. In addition, I also learn how to write a report in an academic style, which is crucial in my thesis writing later on. </p>  |
+|<p align="center">4</p>| [Poster (CODE'25: PowerBI Workshop)](https://drive.google.com/file/d/1EKWFYFVm7_U6fJXKFF8FFgNPYCad7SC6/view?usp=sharing)|  11 JAN 2024  | <p align="justify">Throughout the workshop, I am able to master the fundamentals of PowerBI, including the key terms of PowerBI, the process to come out with the report and dashboard, as well as the implementation of different visualization for different scenarios. PowerBI is such a powerful tool to visualize all the raw data into informative insights to help with decision making. As a data engineering students, it is a great opportunity to attend a workshop like this as it can be used as my extra skillset in my future workplace. Additionally, it helps to sharpen my designing skills by exploring more useful features in Canva. </p>|
+|<p align="center">5</p>| [Design Thinking Project (HashRemote)](https://youtu.be/SMFT7hZgijk)|  17 JAN 2025  | <p align="justify">Throughout this project, I am able to enhance my understanding on Internet of Things by applying its theory into actual solution, which is HashRemote. Besides, as I took part in designing the application prototype, I am also able to explore some of the UI/UX design knowledge. Last but not least, I now understood the flow of design thinking and how to implement it with the process like empathize, define, ideate, prototyping and testing phase.  </p> |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+***
+<br><br>
+## <p>RECENT ACHIEVEMENTS: CHAMPION OF CODERUSH'25 UTM </p>
+![Screenshot 2025-01-31 003344](https://github.com/user-attachments/assets/caf2e3b4-04b4-4102-9ff4-0951fe8bfae5)
+**<p>With my teammates [Lee Jun Ler](https://github.com/JunLerLee) and [Chew Jie Sheng](https://github.com/CHEW0203).</p>**
+***
+<br><br>
 
-###
+## <p>RECENT SEMINAR: BLOCKCHAIN TECHTALK </p>
+![Screenshot 2025-01-23 220549](https://github.com/user-attachments/assets/509179f0-2b5a-4996-9271-91514adfa36b)
+***
+<br>
 
-<h2 align="left">Contact</h2>
+<h3 align="left">Frameworks & Skills</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<div align="left">
-  <a href="https://wa.me/60134976641" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
-    <span>WhatsApp</span>
-  </a>
-  <a href="https://www.instagram.com/hafiz_._._._" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-    <span>Instagram</span>
-  </a>
-  <a href="mailto:mhafizreepei05@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-    <span>Gmail</span>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-###
-
-##
-
-ASSIGNMENT TIS
-
-##
-
-|ASSIGNMENT       |DATE                           | REFLECTION                        | ATTACHMENT                     |
-|-----------------|-------------------------------|-----------------------------------|--------------------------------|
-| PC ASSEMBLING   | 22/10/24    | `I had the opportunity to assemble a PC from scratch. This task required selecting compatible components, understanding their functionality, and physically putting them together. It was a hands-on experience that tested both my technical knowledge and problem-solving skills. This experience taught me a lot about hardware.`               | [PC Assembling](https://drive.google.com/file/d/1sjdRpCKXfbSIOYJ32M3BauvlvycgcrN0/view?usp=sharing)            |
-| Industry Talk (Poster)         | 23/11/24         | `I had the opportunity to attend the industry talk from the AirAsia. It was held online via WeBex platform. I learn a lot from AirAsia company, not only they do services mainly about flight, but they also have other services and products like hotels and rides. I also get to know their work culture, AirAsia's Internship programme, and discuss about career path as Software Engineer in AirAsia. The speaker also provided useful tips if you are consider doing work from home (WFH) jobs. I feel inspired to work in AirAsia after listened to the webinar, and hoping that I would get experience working there. `               | [ASSIGNMENT 1](https://drive.google.com/file/d/1RqQaej_miE6Srsi2rT_Fjb4wXIQCVnLT/view?usp=sharing)         |
-| Industrial Visit UTMDigital (Video)        | 17/12/24 | `I was able to explore in UTMDigital and interact with all the staff. They share their journey working here with us and give valuable advices. All the staff are working hard and have their goals in mind with burning passion in their eyes that leaves me feeling strangely energized and motivated and makes me wonder how it'll feels like on real work environment after I'm graduating. The staff are welcoming and kind. The visit shows various technology used by the staff to execute their daily task and presenting reports. This experience has left me feeling motivated to pursue my own goals with the same dedicationand enthusiasm I witnessed from the staff.   `   | [ASSIGNMENT 2](https://drive.google.com/file/d/1L-KlceDJzaPpmjyCwGyhZDqq1qgEmqXR/view?usp=sharing) |
-| Industrial Talk (Report Academic Writing) | 24/12/25 | `The talk was about industry and university skills that student should have prepare before graduating. The speakers talks a lot about their experience and skills they have made and progress so far. The talk was so informative and a bit rush but I learned so much from the insight shares. I need to familiarized myself with relevant software that frequently used by most industry out there and make a brave step ahead out of my comfort zone to turn my dreams into reality.` | [ASSIGNMENT 3](https://drive.google.com/file/d/1K00e9_xPiuFD74IzfBoop5mlGIi81oiz/view?usp=sharing)
-| Power BI Workshop (Poster)  | 19/01/25  | `This workshop is very interactive and informative. I have to utilize this opportunity of learning this software as my skills. With this skillset, I can leveraging this skillset to solve problems and present insights effectively. I felt more motivated to integrate Power BI into my skillset and use it to enhance both my academic and professional projects.` | [ASSIGNMENT 4](https://drive.google.com/file/d/1jZoIkBweujwdGVbbiKnzNDoqvgZ3BYMC/view?usp=sharing)
-
+<a href="https://github.com/yaotingchun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yaotingchun" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/yao-ting-chun-793405347/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaotingchun" height="40" width="40" /></a>
+<a href="https://instagram.com/y.ting_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaotingchun" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/TehOLimauAis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yaotingchun" height="40" width="40" /></a>
+</p>
 
 
