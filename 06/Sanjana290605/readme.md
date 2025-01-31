@@ -1,7 +1,8 @@
 # Welcome to my e-portfolio 😍
 
-Hi ✌️......I'm SANJANA DEVI D/O RAVI and this is my turf for uploading my works related to TIS stands for Technology and Information System. 
-Mainly my assignments and project...
+Hi...✌️I'm SANJANA DEVI D/O RAVI... A first year student doing bachelors degree in network and security ( Computer Science )...
+
+# This is my turf for uploading my works related to TIS stands for Technology and Information System. Mainly my assignments and project...
 
 ## HANDS ON EXPERIENCE, ASSIGNMENTS & PROJECT
 
