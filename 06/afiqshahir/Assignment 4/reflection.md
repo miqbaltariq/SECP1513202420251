@@ -1,4 +1,4 @@
 # Assignment 4 - poster of CODE'25
 
-The talk made me realize that i need to focus more on improving my technical and soft skills because as the technology is evolving, i'm also needed to continuously learning and adapting to the technology.
-After the talk, i'm also enlightened with a clearer understanding of career opportunities and industry expectations, preparing me for future challenges in tech world.
+This work made me realize that i need to focus more on improving my technical and soft skills because as the technology is evolving, i'm also needed to continuously learning and adapting to the technology.
+After the talk, i'm also enlightened with a clearer understanding of career opportunities and industry expectations, preparing me for future challenges in tech world. Finally, since this is the last group assignment of this semester, i can say that it has been very stressful experience since no one in the group really wants to take the first initiative. But in the end we got it all worked out somehow. So i have learned a valuable lesson through this semester that you must choose your groupmate properly and you musnt always go to your friend to form a group since you will have to seperate your work life and friend life as both of this doesnt really always work along together. 
