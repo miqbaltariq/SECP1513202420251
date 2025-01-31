@@ -41,6 +41,7 @@ I’m currently a first- year student studying Computer Science in Network and S
 Genuinely felt grateful to all my awesome teammates for all the hardwork and tolerance! 🙏🏻
 
 Here's my team - **TEAM TECHNOLIMITS**
+<img src="https://github.com/user-attachments/assets/67972563-a037-45eb-98af-00a8aacec24f"  width="500" />
 
 ## Assignment ✍🏻
 | **ASSIGNMENT**           | **DEETAILS**           | **REFLECTION**                                      |
