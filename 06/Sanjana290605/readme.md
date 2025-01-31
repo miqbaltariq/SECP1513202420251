@@ -14,6 +14,6 @@ There are 4 of my assignments that i would like to share here...
                            
 ## PROJECT
 
-|----------------------------------|--------------------------|
-|PROJECT DESIGN THINKING PROPOSAL  |                          |
-|END PROJECT (VIDEO)               |                          |
+|---------------- |------------------------------|
+|PROJECT DESIGN THINKING PROPOSAL                 |                              |
+|END PROJECT (VIDEO)                 |                              |
