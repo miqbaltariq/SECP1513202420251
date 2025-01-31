@@ -6,7 +6,7 @@
 Hi! I'm Ainur Mardhiah, a first-year student at Universiti Teknologi Malaysia (UTM)👩‍💻.
 ***
 
-**EDUCATION**
+**🎓EDUCATION**
 * Primary School
   - 📍 SK Bandar Baru UDA 2
     
