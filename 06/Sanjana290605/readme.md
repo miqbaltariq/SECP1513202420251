@@ -14,7 +14,7 @@ There are 4 of my assignments that i would like to share here...
                            
 ## PROJECT
 
-|                 |                              |
+|                 | REFLECTION                   |
 |---------------- |------------------------------|
-|PROJECT DESIGN THINKING PROPOSAL                 |                              |
-|END PROJECT (VIDEO)                 |                              |
+|PROJECT DESIGN THINKING PROPOSAL                 |The project design proposal was done by me and my teammates together using google docs. We decided to divide the task to make it more efficient. I was in-charge of doing the part for existing system in the project proposal. I had to compare between the existing system and the proposed system to prove the need for our new proposed system. Me and my team proposed real time bus tracking system in our campus replacing the current system which is the UTM fleet that operates based on a fixed schedule. This is because we want to reduce the uncertainty and waiting time of the passengers. It was a new experience for us to transfer our idea into a written proposal.                              |
+|END PROJECT (VIDEO)                 |The end project was to create a video explaining our proposed system with a written prototype and publishing it in the Youtube.  Each and every one of our teammates were involved in recording a part of them explaining our proposed system. I explained on the need for our new proposed system by comparing it with the current system, The video from each of my teammates including myself was then combined and edited to make it more creative. Then the video was published in the youtube while link was shared in TIS whatsapp group to complete the project submission. Creating a handwritten prototype and explaining it in a video was very interesting experience that we learned from this project. It was fun to create  prototype based on our own idea.                              |
