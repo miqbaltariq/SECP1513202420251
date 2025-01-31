@@ -32,6 +32,9 @@
 ![pypy](https://github.com/user-attachments/assets/56b76333-530b-49ec-8012-943d8838e6d7)
 ![thisclogo](https://github.com/user-attachments/assets/f764016d-9b44-4388-9d8c-f2ecf3e004d0)
 ## 📈Technology & Information System (TIS)
+We are team **TECH-nically Rebuilt** !   
+
+![grp](https://github.com/user-attachments/assets/3577f5fc-2d9b-411f-9b0d-14639ffa5ae9)    
 
 | No. | Assignment/Project | Date | Reflection |
 |----------|----------|----------|----------|
