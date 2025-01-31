@@ -40,7 +40,7 @@ At the start of the semester we had to form a group of 5 members. <br />
 Luckily, I got some good members, here's a picture of them : <br />
 <h3 align= "left"> Group #HashTech </h3>
 <h4 align="left"> [We all look awkward haha!] </h4>
-<img src= "https://github.com/user-attachments/assets/16ed1168-f0c2-4568-8b8d-2e12d954ff94" alt="gpic" width="700" />
+<img src= "https://github.com/user-attachments/assets/fae32ffa-9c98-4c95-b4fe-24fb0e5edc75" alt="gpic" width="700" />
 
 
 
