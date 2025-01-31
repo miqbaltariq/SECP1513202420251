@@ -7,8 +7,8 @@
 - 🏠 Skudai, Johor, Malaysia.
 - 💻 C++ as programming language.
 - 📧 chuakailoon20050522@gmail.com
-- 🌐 [E-portfolio Website](https://github.com/chuakailoon)!
-- ✨ Trust the process! 
+- 🌐 [E-portfolio Website](https://github.com/chuakailoon)
+- ✨ To infinity and beyond!
 
 ***
 
