@@ -1,0 +1,5 @@
+On December 20, 2024, participants engaged in a hands-on PC assembly and disassembly workshop to enhance their understanding of computer hardware. The activity covered key components, including the motherboard, CPU, RAM, GPU, storage devices, and power supply, while teaching proper handling and installation techniques.
+
+The process began by opening the computer case, mounting the motherboard, and installing the CPU with a cooler and thermal paste. The power supply was positioned, RAM was inserted into DIMM slots, and the GPU was secured in the PCIe slot. Storage devices were fitted and connected via power and data cables.
+
+After assembling the PC, participants disassembled and reassembled it to reinforce their learning. This exercise improved their problem-solving skills, attention to detail, and confidence in handling hardware. With guidance from assistants, teamwork and technical competency were emphasized, preparing participants for future academic and professional projects involving computer systems.
