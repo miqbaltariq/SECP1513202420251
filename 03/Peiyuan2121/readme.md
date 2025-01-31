@@ -23,6 +23,8 @@
 
 - Course 📅:Bachelor of Computer Science (Data Engineering)
 
+- Matric number ：A24CS0262
+
 - Now I'm one of the [PTUTM](https://www.instagram.com/ptutm?igsh=dDdmb2FteGFmenUy) member
 
 - Contact me at peiyuan050821@gmail.com
@@ -71,7 +73,7 @@ University 🎓
 **3. Academic Writing--Industry Talk 2: "Skill required for computer science and skills required by industry"** <br>
 `Date:17 Dec 2024`<br>
 
-[<img src="https://github.com/user-attachments/assets/1c7ef4c0-03b2-4c91-b777-4961ea6d7a2c" width="280" height="200">]( https://github.com/Peiyuan2121/Technology-and-Information-System/blob/fcc11b83a538db76437fcbe59c9a8ce6380a0d43/CLASSROOM%20TO%20CAREER.docx)<br>
+[<img src="https://github.com/user-attachments/assets/1c7ef4c0-03b2-4c91-b777-4961ea6d7a2c" width="280" height="200">](https://github.com/Peiyuan2121/Technology-and-Information-System/blob/25d2537be565c2c3c223226467e3e978a2fb8957/Assignment%203.pdf)<br>
 **Click here☝️to view our report**<br>
 <br>
 **Reflection:** The speaker-Mr Hakimi shared a lot of working experiences and emphasized the important of technical skill and management skill on industrial for a  computer science student.He also encounrage student to develop their soft skill during their degree such as communication skill and leadership by participate workshop and event.I gained a lot of valuable lessons and knowledge from this talk.
