@@ -28,7 +28,7 @@
 
 ![406056046-cb68eabe-ca39-435a-8cf1-f21ade97aa76](https://github.com/user-attachments/assets/cc8032b9-0787-4df4-8ceb-2cc11d2d09d3)
 
-<h3 align="left"> Champion in UTM Robocon Autocar Challenges</h3>
+<h3 align="left"> Champion in UTM Robocon Autocar Competition</h3>
 
 ![WhatsApp Image 2025-01-28 at 16 48 35_20633823](https://github.com/user-attachments/assets/0391fd8e-738c-466c-bdba-173324419850)
 
