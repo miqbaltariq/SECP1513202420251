@@ -9,11 +9,11 @@ Hi there! I'm **Nurin Iffah**, a first-year Computer Science (Data Engineering) 
   
 ## Education 🎓
 
-- **Foundation in Engineering and Technology** – *Kolej MARA Kuala Nerang*  
-  📍 *2023 - 2024* | **CGPA: 3.98**  
+- **Foundation in Engineering and Technology** | *2023 - 2024*  
+  📍 *Kolej MARA Kuala Nerang* | **CGPA: 3.98**  
 
-- **Bachelor of Computer Science (Data Engineering)** – *Universiti Teknologi Malaysia (UTM)*  
-  📍 *2024 - Present*  
+- **Bachelor of Computer Science (Data Engineering)**  | *2024 - Present*  
+  📍 *Universiti Teknologi Malaysia (UTM)*  
 
 
 ## Let's Connect! 🌍 
