@@ -10,8 +10,7 @@ There are 4 of my assignments that i would like to share here...
 |ASSIGNMENT 1    |https://github.com/miqbaltariq/
                   SECP1513202420251/blob/main/06/
                   Sanjana290605/petronas%20(Docum
-                  ent%20(A4))%20(1).pdf|
-
+                  ent%20(A4))%20(1).pdf          |                             |
 |ASSIGNMENT 2    |                               |                             |
 |ASSIGNMENT 3    |                               |                             |
 |ASSIGNMENT 4    |                               |                             |
