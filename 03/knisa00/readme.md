@@ -37,12 +37,12 @@ Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm 
 ### Hobbies
 - ![Volleyball Icon](https://img.icons8.com/ios-filled/50/000000/volleyball.png) Playing Volleyball
 - ![Dance Icon](https://img.icons8.com/ios-filled/50/000000/dancing.png) Workout Dances
-- ![Singing Icon](https://img.icons8.com/ios-filled/50/000000/singer.png) Singing
+- ![Singing Icon](https://api.iconify.design/emojione-v1:singer.svg) Singing
   
 ### Let's connect 
 
-- <a href="https://instagram.com/your_instagram__.oukey" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30"/></a> INSTAGRAM
-- <a href="mailto:knisa74800@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/></a> PERSONAL EMAIL
+- <a href="https://instagram.com/_.oukey" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30"/> </a>INSTAGRAM
+- <a href="mailto:knisa74800@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/> </a> PERSONAL EMAIL
 
 ## InfiniteTECH
 Introducing my group members through this sem for TIS subject!
