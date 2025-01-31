@@ -33,3 +33,8 @@ Hi! I'm FION TEE XIN YUE, currently a student from **UNIVERSITI TEKNOLOGI MALAYS
 ![image](https://github.com/user-attachments/assets/609f5641-91ac-47a6-993a-4ff68016d20f)
 
 # Contact Me☎️
+| **Contact**           | **Details**                                      |
+|---------------------|--------------------------------------------------|
+| **Email**           | fion@graduate.utm.my                                      |
+| **Github**            | Fiont                                               |
+| **Instagram**            | fiontxy_                                               |
