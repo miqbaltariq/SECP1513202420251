@@ -31,7 +31,7 @@ Hi! I'm FION TEE XIN YUE, currently a student from **UNIVERSITI TEKNOLOGI MALAYS
 | **Project (Smart Hospital)**    | This project allows me to involve myself to apply all the knowledges we learnt in this semester. Moreover, it practised my thinking and problem-solving skills by solving all the problems that we met. It makes me more understand and closed to the smart hospital. I also improve my communication skill by communicating with my teammate.                                        |
 
 # My TEAMMATE
-Our TEAM: #TECHNoLimits🤖
+Our Group Name: #TECHNoLimits🤖
 
 # Programming Language💻
 ![image](https://github.com/user-attachments/assets/609f5641-91ac-47a6-993a-4ff68016d20f)
