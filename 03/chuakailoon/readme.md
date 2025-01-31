@@ -48,30 +48,3 @@
 |<p align="center">3</p>| [Report (Industry Talk: Skills in University & Industry)](https://drive.google.com/file/d/1pSHC18H6se66jZ3MXhh7PSo9mBcTIH3Y/view?usp=sharing)|  17 DEC 2024  | <p align="justify">Throughout the talk, I found out that I am still lacking a lot of essential skills that are needed in ICT jobs. This talk motivates me to start sharpening the skills that I already mastered and start exploring the new skills that I haven't mastered yet. Besides, this talk also emphasizes on job application process, which I found very useful as guide for me to apply jobs in future. Other than that, the speaker also motivates us to have our own tech startup and teach us how to turn your business idea into reality. In addition, I also learn how to write a report in an academic style, which is crucial in my thesis writing later on. </p>  |
 |<p align="center">4</p>| [Poster (CODE'25: PowerBI Workshop)](https://drive.google.com/file/d/1EKWFYFVm7_U6fJXKFF8FFgNPYCad7SC6/view?usp=sharing)|  11 JAN 2024  | <p align="justify">Throughout the workshop, I am able to master the fundamentals of PowerBI, including the key terms of PowerBI, the process to come out with the report and dashboard, as well as the implementation of different visualization for different scenarios. PowerBI is such a powerful tool to visualize all the raw data into informative insights to help with decision making. As a data engineering students, it is a great opportunity to attend a workshop like this as it can be used as my extra skillset in my future workplace. Additionally, it helps to sharpen my designing skills by exploring more useful features in Canva. </p>|
 |<p align="center">5</p>| [Design Thinking Project (HashRemote)](https://youtu.be/SMFT7hZgijk)|  17 JAN 2025  | <p align="justify">Throughout this project, I am able to enhance my understanding on Internet of Things by applying its theory into actual solution, which is HashRemote. Besides, as I took part in designing the application prototype, I am also able to explore some of the UI/UX design knowledge. Last but not least, I now understood the flow of design thinking and how to implement it with the process like empathize, define, ideate, prototyping and testing phase.  </p> |
-
-***
-<br><br>
-## <p>RECENT ACHIEVEMENTS: CHAMPION OF CODERUSH'25 UTM </p>
-![Screenshot 2025-01-31 003344](https://github.com/user-attachments/assets/caf2e3b4-04b4-4102-9ff4-0951fe8bfae5)
-**<p>With my teammates [Lee Jun Ler](https://github.com/JunLerLee) and [Chew Jie Sheng](https://github.com/CHEW0203).</p>**
-***
-<br><br>
-
-## <p>RECENT SEMINAR: BLOCKCHAIN TECHTALK </p>
-![Screenshot 2025-01-23 220549](https://github.com/user-attachments/assets/509179f0-2b5a-4996-9271-91514adfa36b)
-***
-<br>
-
-<h3 align="left">Frameworks & Skills</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://github.com/yaotingchun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yaotingchun" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/yao-ting-chun-793405347/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaotingchun" height="40" width="40" /></a>
-<a href="https://instagram.com/y.ting_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaotingchun" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/TehOLimauAis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yaotingchun" height="40" width="40" /></a>
-</p>
-
-
