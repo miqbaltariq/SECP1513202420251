@@ -1,6 +1,7 @@
 
 # <p align="center"> Hello, Nive here! </p> 
-![Profile Views](https://komarev.com/ghpvc/?username=niveethita&color=green)
+![views](https://komarev.com/ghpvc/?username=niveethita&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/niveethita/niveethita?logo=github)
 
 
 <p align="center">
