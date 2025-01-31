@@ -67,9 +67,10 @@
 ## <p>RECENT SEMINAR: BLOCKCHAIN TECHTALK </p>
 ![Screenshot 2025-01-23 220549](https://github.com/user-attachments/assets/509179f0-2b5a-4996-9271-91514adfa36b)
 ***
-<br><br>
+<br>
 
-
+<h3 align="left">Frameworks & Skills</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
 
