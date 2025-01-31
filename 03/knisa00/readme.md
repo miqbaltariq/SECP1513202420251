@@ -1,25 +1,25 @@
-## ABOUT ME
+## 🌸ABOUT ME
 
-### Introduction
+### 👋Introduction
 
 Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!
 
 
 ![](https://github.com/user-attachments/assets/a16fab71-9624-45a2-90cb-087300132dcc)
 
-### Education
+### 🌟Education
 
 - UPSR: 3A 1B 2C [Sekolah Kebangsaan Bukit Jarum](https://www.facebook.com/sekkebBukitJarum/?locale=ms_MY)
 - SPM: 4A+ 4A 1A- [Sekolah Menengah Sains Pasir Puteh](https://www.facebook.com/SMSPPp/?locale=ms_MY)
 - Foundation: 4.00 [Universiti Teknologi MARA Dengkil](https://selangor.uitm.edu.my/index.php/en/ucampuses/kampus-dengkil)
 - Degree: Pursuing Bachelor of Computer Science (Data Engineering) with Honours [Universiti Teknologi Malaysia Skudai](https://www.utm.my/)
 
-### Positions
+### 📌Positions
 
 - Exco Multimedia of Himpunan Siswazah Kelantan Club [(HIMSAK)](https://www.instagram.com/himsak_utm?igsh=MXc3c3UxM3R4eXY4Zg==)
 - Committee Member of Ashabul Falaq Club (KAF)
 
-### Currently Learning
+### 📚Currently Learning
 
 - Technology and Information System
 - Programming Technique I
@@ -29,17 +29,17 @@ Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm 
 - Japanese Language
 - Arabic Langugae
 
-### Programming skills
+### 💻Programming skills
 
 ![C](https://img.shields.io/badge/C-blue.svg)
 ![C++](https://img.shields.io/badge/C++-pink.svg)
 
-### Hobbies
+### 😎Hobbies
 - ![Volleyball Icon](https://img.icons8.com/ios-filled/50/000000/volleyball.png) Playing Volleyball
 - ![Dance Icon](https://img.icons8.com/ios-filled/50/000000/dancing.png) Workout Dances
-- ![Singing Icon](https://api.iconify.design/emojione-v1:singer.svg) Singing
+- 🎤Singing
   
-### Let's connect 
+### 🤝Let's connect 
 
 - <a href="https://instagram.com/_.oukey" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30"/> </a>INSTAGRAM
 - <a href="mailto:knisa74800@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30"/> </a> PERSONAL EMAIL
@@ -107,8 +107,8 @@ Through completing this project, I gained a deeper understanding of cybersecurit
 I had a lot of fun working on all the assignments with my groupmates. They were really passionate about collaborating, which made the process enjoyable and productive. Even though we faced some barriers, such as setting up discussion times due to our differing schedules, we managed to complete all the assignments excellently. Without the team spirit and support from my groupmates, I don’t think I could have handled the workload and pressure on my own. This experience made me realize how important it is to choose the right members for an assignment group, especially since the assignment carries more than 50% of the total marks. The collaboration and shared effort made all the difference in ensuring we succeeded together.
 
 ### Fun Facts About Me
-- I competed in a national volleyball competition in 2018 when I was 13 years old, joining the Kelantan (MSSK) Under 18 team.
-- I also loved learning Tarannum, a traditional melodic style used in the recitation of the Quran.
+- 🏐 I competed in a national volleyball competition in 2018 when I was 13 years old, joining the Kelantan (MSSK) Under 18 team.
+- 🎤 I also loved learning Tarannum, a traditional melodic style used in the recitation of the Quran.
 
 ### My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
