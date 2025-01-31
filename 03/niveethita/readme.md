@@ -39,8 +39,11 @@
 | 3    | **Assignment 3** <br> Task : Academic Writing on Industry Visit 2 <br> Title : Skills in University and Industry  <br> -> [Academic Writing Report](Assignment%203%20TIS.pdf)   | 17/12/24   | I am inspired by the valuable insights and essential information on building a career in computer science from the talk. I also found it fascinating to learn about two different career paths within the same field. This experience inspired me to enhance my technical skills by engaging in self-directed learning beyond the classroom and participating in university activities to develop my soft skills. |
 | 4    | **Assignment 4**  <br> Task : Poster on  COMPUTING OPEN DAY & EXHIBITION 2025 <br> Title : Overview of CODE'25 Workshop  <br> -> [Poster](Assignment%204%20TIS.pdf)   | 11/01/25  | I find this Power BI Workshop to be beneficial for me as I gained basic skills to use Microsoft Power BI for data visualisation.I believe these skills will be valuable in the future. This is because the workshop covered important aspects of data engineering such as data cleaning, DAX expression application and visualisation for data analysis purposes. |
 | 5    | **Design Thinking Project** <br> -> [Video Presentation](https://youtu.be/m5wbRu24noE?si=VLLNdzLPzsz_Khuu) <br> -> [Project Proposal](Design%20Thinking%20Project.pdf) | 31/01/25  | This project provided an excellent opportunity for me to explore the possibilities of applying Augumented Reality (AR) in Interior Design industry. I gained a deeper understanding of AR, including the difference between Markerless and Marker Tracking methods through research before creating the prototype. Plus, my teammates and I has meaning discussions throughout the project by exchanging ideas and learning from each other. |
-<p align="center">
-Let's Connect!
 
-Thank you for your time!
+**Let's Connect!** 
+  
+[![linkedin](https://github.com/user-attachments/assets/5c905062-9111-4fc8-9d60-8a9e8a8ecd49)](https://www.linkedin.com/in/niveethita-pandia-rajan-4b2768331/)
+[![GitHub_logo](https://github.com/user-attachments/assets/fc752a92-9343-47a8-ac01-8081882cf18f)](https://github.com/niveethita)
+[![discord-logo-0-2048x2048](https://github.com/user-attachments/assets/44508497-15de-41a9-9510-ce338b0fa2b5)](https://discordapp.com/users/897812158547636237)
 
+*<p align="center">Thank you for your time!* </p>
