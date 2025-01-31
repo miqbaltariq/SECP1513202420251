@@ -25,7 +25,8 @@
 **|** _Pure Science_   
 **|** _SPM : 6A+, 4A, 1A-_   
 **|**      
-**⚬ 2012 - 2017 : SJK(T) Kajang**     
+**⚬ 2012 - 2017 : SJK(T) Kajang**   
+**|** _UPSR : 8As_   
 
 ## 💻 Programming Languages  
 ![pypy](https://github.com/user-attachments/assets/56b76333-530b-49ec-8012-943d8838e6d7)
