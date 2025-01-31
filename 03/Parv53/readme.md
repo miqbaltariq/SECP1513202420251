@@ -65,7 +65,7 @@ Luckily, I got some good members, here's a picture of them : <br />
 |23 NOV 2024 |Poster on Industry Talk |Had a collaborative moment with my team when making the poster. It was fun, we were goofing about drawing ugly pictures on the poster to taunt each other haha! |
 |17 DEC 2024 |Video on Industrial Visit to UTMDigital |During out visit to UTMDigital, we were prepared to record the video.Luckily, we had a delightful time getting the recording done. The utm staff were all great people and even agreed to help us to conduct an mini interview. Overall, we were all grateful to have the opportunity to visit and enjoy a good industrial time with Dr.Iqbal |
 |24 DEC 2024 |Academic Report on Required Insutry Level Skills |After finishing a talk about skill that are required for industries, we were tasked to do an academic report. The academic report had included a reflection on our future years.|
-|19 JAN 2024 |Poster on Power BI Workshop | |
+|19 JAN 2024 |Poster on Power BI Workshop | Similar to the first poster we made, all of us had a fun time creating the poster and choosing the right colour palette for the background. Overall during the making of the poster, we even taught each other more about the workshop and helped each other out more |
 |24 JAN 2025 |Demostration Video on Design Thinking Project |We, group #HashTech has successfully made a video presentation on our product.To add on, we had also made a prototype on which imitate our vision of the real product |
 
 
