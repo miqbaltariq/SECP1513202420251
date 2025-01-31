@@ -1,7 +1,7 @@
-## About Me
-
+## ABOUT ME
 
 ### Introduction
+
 Hello, I'm **Khairunnisa binti Mohd Hazani**! Welcome to my GitHub profile. I'm currently pursuing my degree in **Computer Science** with a focus on **Data Engineering**. Here's a look at some of my achievements, skills, and projects!
 
 
@@ -52,25 +52,51 @@ From left, [Adam](https://github.com/AdamAshraffZamri), [Hafiz](https://github.c
 ### Reflection of Assesments
 
 
-1. **Lab : [Personal Computer (PC) Assemble](https://github.com/user-attachments/assets/ff402d53-2c70-4ae5-ac4d-319204a4cdd3)**
+1. **Lab: Personal Computer (PC) Assemble)**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ff402d53-2c70-4ae5-ac4d-319204a4cdd3" width="1000"/>
+    </td>
+    <td>
+      Through this lab activity, I gained hands-on experience in assembling PC components, deepening my understanding of their functions and interconnections. My team had to try twice to ensure the PC worked successfully, which helped me learn how crucial each part is in ensuring the system operates efficiently, such as the motherboard, CPU, RAM, power supply, and storage devices. Additionally, troubleshooting minor issues during assembly enhanced my problem-solving skills, making the learning experience more engaging and practical.
+    </td>
+  </tr>
+</table>
 
-Through this lab activity, I gained hands-on experience in assembling PC components, deepening my understanding of their functions and interconnections. My team had to try twice to ensure the PC worked successfully, which helped me learned how crucial each part is in ensuring the system operates efficiently, such as the motherboard, CPU, RAM, power supply, and storage devices. Additionally, troubleshooting minor issues during assembly enhanced my problem-solving skills, making the learning experience more engaging and practical.
    
 2. **Assignment 1: [Poster - Industry Talk by AirAsia](https://github.com/user-attachments/assets/e3c2f053-484a-44ae-af03-743289c0a95c)**
-
-From the AirAsia talk, I realized the significant role that collaboration plays in AirAsia, and I see how it can apply to working in a team for our assignment. Since this is my first assignment with my groupmates, it’s crucial to establish clear communication from the very beginning. First, proper planning is key to ensure everyone understands the goals, deadlines and their individual responsibilities. Embracing feedback from each other and openly discussing different perspectives will enhance the quality of our work. This collaborative mindset will not only make the assignment process smoother but also strengthen our teamwork skills for future projects.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e3c2f053-484a-44ae-af03-743289c0a95c" width="1200"/>
+    </td>
+    <td>
+      From the AirAsia talk, I realized the significant role that collaboration plays in AirAsia, and I see how it can apply to working in a team for our assignment. Since this is my first assignment with my groupmates, it’s crucial to establish clear communication from the very beginning. First, proper planning is key to ensure everyone understands the goals, deadlines and their individual responsibilities. Embracing feedback from each other and openly discussing different perspectives will enhance the quality of our work. This collaborative mindset will not only make the assignment process smoother but also strengthen our teamwork skills for future projects.
+    </td>
+  </tr>
+</table>
 
 3. **Assignment 2: [Video - Industry Visit to UTM Digital](https://youtu.be/V82A5N3R-yY?si=u4PMZIoTT3tqkHZS)**
-
+   
 During the industrial visit at UTMDigital, I gained a wealth of new information and insights into the digital industry. I had the valuable opportunity to interview several staff members, which allowed me to learn about the latest trends and technologies being utilized in the field. These interactions gave me a deeper understanding of the practical applications of digital solutions and the challenges faced by professionals in the industry. I was particularly impressed by the team's approach to innovation, problem-solving and collaboration, which highlighted the importance of staying adaptable in such a fast-paced environment. This experience provided a clearer picture of what it's like to work in the digital sector and has motivated me to further develop my skills in this area.
+    
 
 4. **Assignment 3: [Written Report - Industry Talk about "Skills in University and Industry"](https://github.com/user-attachments/files/18568988/ASSIGNMENT.3.InfiniteTECH.pdf)**
 
 From the talk, I realized that while good grades are important, they are not the sole factor in determining career success. The speaker emphasized that industries are looking for more than just academic achievements, they are seeking individuals who possess a blend of technical skills, practical experience, and the ability to collaborate effectively. It became clear that knowing the specific skills in demand within the industry is crucial to standing out as a candidate. Additionally, staying updated with the latest trends and tools relevant to the field, can greatly enhance employability. By actively seeking out opportunities to build these skills through internships, side projects and networking, I can better position myself to meet the demands of the industry. This realization has shifted my focus from simply excelling in coursework to also developing the practical competencies that employers seek, ultimately increasing my chances of securing a job after graduation.
 
-5. **Assignment 4: [Poster - Power BI Workshop (CODE'25)](https://github.com/user-attachments/files/18569050/Assignment.4.-.Poster.on.the.PowerBI.Workshop.CODE.25.pdf)**
-
-From the workshop, I was introduced to Power BI, a powerful tool used by industry experts to visualize and analyze big data. This software allows users to transform complex datasets into interactive, easy-to-understand visual reports and dashboards, which is essential for making data-driven decisions. During the session, I learned how Power BI integrates with various data sources, from simple Excel sheets to more advanced databases. What stood out to me was its ability to create dynamic visualizations such as bar charts, pie charts and heat maps, which help users quickly identify trends, patterns, and outliers in large datasets. Gaining this knowledge has inspired me to explore Power BI further and improve my skills in data visualization, as it is clear that proficiency in such tools will be highly valuable in today's data-driven job market.
+5. **Assignment 4: [Poster - Power BI Workshop (CODE'25)](https://github.com/userattachments/files/18569050/Assignment.4.-.Poster.on.the.PowerBI.Workshop.CODE.25.pdf)**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d18b6ff1-0607-45b8-aa68-6d7bc8e038da" width="1200"/>
+    </td>
+    <td>
+      From the workshop, I was introduced to Power BI, a powerful tool used by industry experts to visualize and analyze big data. This software allows users to transform complex datasets into interactive, easy-to-understand visual reports and dashboards, which is essential for making data-driven decisions. During the session, I learned how Power BI integrates with various data sources, from simple Excel sheets to more advanced databases. What stood out to me was its ability to create dynamic visualizations such as bar charts, pie charts and heat maps, which help users quickly identify trends, patterns, and outliers in large datasets. Gaining this knowledge has inspired me to explore Power BI further and improve my skills in data visualization, as it is clear that proficiency in such tools will be highly valuable in today's data-driven job market.
+    </td>
+  </tr>
+</table>
 
 6. **Design Thinking Project: [Video - InfinitePROTECH Application](https://youtu.be/-n2pWXk1pg4)**
 
