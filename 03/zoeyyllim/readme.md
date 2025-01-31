@@ -52,4 +52,4 @@ Here's my team - **TEAM TECHNOLIMITS**
 | **Assignment 4 (Poster)**     | [Assignment 4 (Poster).pdf](https://github.com/user-attachments/files/18614635/Assignment.4.Poster.pdf) | After attending the OSINT Beginner's Guide on Computing Open Day & Exhibition 2025 (CODE'25), I finally have a basic understanding of how cybersecurity works. OSINT techniques is a bonus skill to us and will be need in the future. In conclusion, I I will learn it wisely to enhance my skills.                                     |
 | **Design Thinking Project (Smart Hospital)**    | [<img src="https://github.com/user-attachments/assets/4724ef0b-f513-4d38-b1b4-76acae18b906" style="width 20%">](https://youtu.be/Uj6N44ToVQo) | I had learned a lot of things in this project. This project requires me to use it practicaly what I had learn in this semester. Besides, I had enhance my problem solving skills and my thinking skills by create a new technology for our project. And importantly, I also learn teamwork spirit is important to make our work efficiently and I am glad to have my teammates.                                      |
 
-#
+# Thanks for visiting my portfolio! 👋🏻
