@@ -1,2 +1,3 @@
+[PROJECT DESIGN THINKING PROPOSAL.pdf](https://github.com/user-attachments/files/18618577/PROJECT.DESIGN.THINKING.PROPOSAL.pdf)
 
-[REPORT.pdf](https://github.com/user-attachments/files/18618479/REPORT.pdf)
+[ACADEMIC WRITING.pdf](https://github.com/user-attachments/files/18618580/ACADEMIC.WRITING.pdf)
