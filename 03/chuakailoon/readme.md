@@ -6,7 +6,7 @@
 - 🎓 Bachelor of Computer Science (Computer Network and Security). 
 - 🏠 Skudai, Johor, Malaysia.
 - 💻 C++ as programming language.
-- 📧 (chuakailoon20050522@gmail.com)
+- 📧 chuakailoon20050522@gmail.com
 - 🌐 You may also have a look at my [E-portfolio Website](https://yaotingchun.github.io/)!
 - ✨ Trust the process! 
 
