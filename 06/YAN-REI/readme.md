@@ -5,9 +5,6 @@
 |MATRIC NUMBER|`A24CS0029`  |  |
 |COURSE       |`SECP1513`   |  |                                          |
 
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
 |Assignment      |Reflection                                              |
 |----------------|---------------------------------------------------------
