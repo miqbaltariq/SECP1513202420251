@@ -4,7 +4,7 @@ Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is 
 
 PC Assemble
 
-Actually its not first time I assembele a pc because at home I have 1 pc that I used to update and upgrade pc component,so at the same time I learn it and with my knowledge about it I happy because I can help teammate to complete our task.
+Actually its not first time I assemble a pc because at home I have 1 pc that I used to update and upgrade pc component,so at the same time I learn it and with my knowledge about it I happy because I can help teammate to complete our task.
 
 Assignment 1 - POSTER ON INDUSTRY TALK
 
