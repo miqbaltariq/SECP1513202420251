@@ -7,9 +7,9 @@ As I progress through my degree, I'll be sharing:
 
 - 📝 Assignments - Coursework and practical exercises from my classes.
 
-- 💡 Projects - Personal and academic projects related to networking and cybersecurity.
+- 💡 Projects - Personal and academic projects related to my studies.
 
-🔄 Reflections - My thoughts on what I learned, challenges I faced, and how I overcame them.
+- 🔄 Reflections - My thoughts on what I learned, challenges I faced, and how I overcame them.
 
 ## 🔬 Reflections of My Projects & Assignments
 
