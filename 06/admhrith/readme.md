@@ -2,6 +2,10 @@
 
 Hi! I'm a first year student at Universiti Teknologi Malaysia (UTM) and this is where I upload my work on SECP1513.
 
+PC Assemble
+
+Actually iits not first time I assembele a pc because at home I have 1 pc that I used to update and upgrade so at the same time I learn it and I happy because I can help teammate to complete our task.
+
 Assignment 1 - POSTER ON INDUSTRY TALK
 
 This is our first group project that brought us closer to know our teammate. Firstly, i dont have any clue how we gonna work for but after we make discussion and decide to divide the work and check each other's progress. Everithing turned out well, and it strengthen our teamwork.
