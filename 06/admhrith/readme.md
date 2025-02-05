@@ -16,7 +16,7 @@ The speaker highlighted the importance of both technical skills and management k
 
 Assignment 4 - POSTER ON CODE ROUTE WORKSHOP
 
-The "Code Routes" workshop explores careers in Computer Science, highlighting job options, soft skills, and future trends. It taking on creative problem-solving and be more creative. Despite challenges, solving real-world problems and advancing technology make the journey worldwide. Fpr the prster, I already familiar with the design process, everything run smoothly.
+The Code Routes workshop explores careers in Computer Science, highlighting job options, soft skills, and future trends. It taking on creative problem-solving and be more creative. Despite challenges, solving real-world problems and advancing technology make the journey worldwide. For the poster, I already familiar with the design process, everything run smoothly.
 
 Design Thinking - SAFE LINK CHECKER
 
