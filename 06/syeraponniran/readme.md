@@ -13,7 +13,6 @@ As I progress through my degree, I'll be sharing:
 
 ## 🔬 Reflections of My Projects & Assignments
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
 |    ASSIGNMENT    |              ACTIVITY             |                        REFLECTION                        |
 |------------------|-----------------------------------|----------------------------------------------------------|
