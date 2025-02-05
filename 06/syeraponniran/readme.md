@@ -17,10 +17,8 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 |    ASSIGNMENT    |              ACTIVITY             |                        REFLECTION                        |
 |------------------|-----------------------------------|----------------------------------------------------------|
-|PC Assemble       |- Connect power supply and cables  | The activity was a great learning experience.            |
-|                  |- Install RAM, CPU fan and hard    | I learned how to assemble a PC step by step              |
-|                  |  disk to the computer.            | and understood the importance of handling parts          |
-|                  |                                   | carefully.                                               |
+|PC Assemble       |- Connect power supply and cables
+- Install RAM, CPU fan, and harddisk to the computer.| The activity was a great learning experience. I learned how to assemble a PC step by step and understood the importance of handling parts carefully.|
 |Assignment 1      |- Poster on Industry Talk          | The talk gave me a better understanding of a             |
 |                  |  From AirAsia company             | software engineer's role at AirAsia. It increased        |
 |                  |                                   | my interest in technology and motivated me to build      |
