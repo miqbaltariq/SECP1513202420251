@@ -1,7 +1,7 @@
 # Welcome to my e-portfolio!
 
-Hello! my name is Rayan Baha Eldin Elkhir Elawad, a first year student of Computer Science(Network and Security) at University Technology Malaysia (UTM).
-This is my reflection about assignments and activities throughout the semester 
+Hello! My name is Rayan Baha Eldin Elkhir Elawad, and I am a first-year Computer Science student specializing in Network and Security at the University of Technology Malaysia (UTM). 
+This is my reflection on the assignments and activities throughout the semester.
 
 
 
