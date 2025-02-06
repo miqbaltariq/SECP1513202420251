@@ -8,6 +8,6 @@ I will share my reflection for assignments and activities of this semester.
 
 |                |ASCII                          |                         
 |----------------|-------------------------------|
-|Single backticks|`'Isn't this fun?'`            |          
+|PC Assembly |`I Learned about the components of the CPU, its internal structure, the exact location if each part, and its function.            |          
 |Quotes          |`"Isn't this fun?"`            |           
 |Dashes          |`-- is en-dash, --- is em-dash`|
