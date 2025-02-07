@@ -1,18 +1,18 @@
 - <h1 align="center">Hi 👋, I'm tangweiyang</h1>
 IF you want to learn more about it,you can read it.
 <form>
-＃＃EDUCATION
+<h1 align="center">Education</h1>
 
 ✨Primary School
 
  SJK(C) Kuo Kuang 2
 📝 UPSR: 5 A's
----
+
 ✨Secondary School
 
 SMK Mutiara Rini
 📝 SPM: 6 A's
----
+
 ✨Pre-University
 
  School of Professional and Continuing Education (UTMSPACE)
@@ -20,7 +20,7 @@ SMK Mutiara Rini
 📝 CGPA : 3.7
 🗣️ MUET : 3.5
 Degree
----
+
 ✨University of Technology Malaysia (UTM)
 💻 Bachelor of Computer Science (NETWORK SECURITY) with Honours
 
@@ -40,12 +40,12 @@ Degree
 - 💬 Ask me about **whatsapp**
 
 - 📫 How to reach me **weiyangtang3@gmail.com**
-
+---
 My hobby is
 -joging🏃🏻‍♂️
 -playing chess♟️
 -listen music🎵
- 
+---
 
 - My team name is:
 GROUP #HASHTECH 
