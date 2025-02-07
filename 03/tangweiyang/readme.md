@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm tangweiyang</h1>
 IF you want to learn more about it,you can read it.
 <form>
-EDUCATION
+＃＃EDUCATION
 
 ✨Primary School
 
