@@ -42,6 +42,10 @@ Degree
 - 📄 Know about my experiences [https://github.com/tangweiyang](https://github.com/tangweiyang)
 
 - ⚡ Fun fact **time is money**
+- GROUP #HASHTECH #️⃣
+WhatsApp Image 2025-01-20 at 21 39 08_adc9cb40
+
+With my teammates Parthiv Gunalan, Heng Zhi Qiang, Tang Wei Yang and Ong Yi Wen.
 
 <a href="/-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="-" height="30" width="40" /></a>
 </p>
