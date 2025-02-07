@@ -41,7 +41,11 @@ Degree
 
 - 📫 How to reach me **weiyangtang3@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/tangweiyang](https://github.com/tangweiyang)
+My hobby is
+joging🏃🏻‍♂️
+playing chess♟️
+listen music🎵
+ 
 
 - ⚡ Fun fact **time is money**
 
@@ -109,7 +113,7 @@ I also learned the structured approach of design thinking, from empathizing with
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-- 👀 I’m interested in chess
+
 
 - 🌱 I’m currently learning c++
 
