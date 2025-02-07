@@ -43,13 +43,15 @@ Degree
 
 - <h1 align="center">Hobby👋</h1>
 -joging🏃🏻‍♂️
--playing chess♟️
--listen music🎵
----
 
+-playing chess♟️
+
+-listen music🎵
+
+---
 - My team name is:
 GROUP #HASHTECH 
-
+---
 With my teammates Parthiv Gunalan, Heng Zhi Qiang, Tang Wei Yang and Ong Yi Wen.
 
 Below is our project
