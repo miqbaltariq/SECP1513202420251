@@ -7,12 +7,12 @@ IF you want to learn more about it,you can read it.
 
  SJK(C) Kuo Kuang 2
 📝 UPSR: 5 A's
-
+---
 ✨Secondary School
 
 SMK Mutiara Rini
 📝 SPM: 6 A's
-
+---
 ✨Pre-University
 
  School of Professional and Continuing Education (UTMSPACE)
@@ -20,7 +20,7 @@ SMK Mutiara Rini
 📝 CGPA : 3.7
 🗣️ MUET : 3.5
 Degree
-
+---
 ✨University of Technology Malaysia (UTM)
 💻 Bachelor of Computer Science (NETWORK SECURITY) with Honours
 
