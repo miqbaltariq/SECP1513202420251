@@ -61,7 +61,7 @@ This talk highlighted the skills gap between university education and industry e
 
 This workshop introduced me to PowerBI, a powerful data visualization tool. I learned how to transform raw data into meaningful insights using dashboards and reports. As a Data Engineering student, mastering PowerBI is a valuable addition to my skillset. Additionally, designing the project poster helped refine my creative and presentation skills.
 
-5. Design Thinking Project (HashRemote) – 17 JAN 2025
+5. Design Thinking Project (HashRemote) – 17 JAN 2025 https://youtu.be/SMFT7hZgijk
 
 This project deepened my understanding of the Internet of Things (IoT) by applying theory to a real-world solution. As part of the UI/UX design team, I explored fundamental design principles and user-centered thinking. I also learned the structured approach of design thinking, from empathizing with users to prototyping and testing solutions.
 
