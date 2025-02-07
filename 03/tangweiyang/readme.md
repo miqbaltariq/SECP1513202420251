@@ -40,8 +40,8 @@ Degree
 - 💬 Ask me about **whatsapp**
 
 - 📫 How to reach me **weiyangtang3@gmail.com**
----
-My hobby is
+
+- <h1 align="center">Hobby👋</h1>
 -joging🏃🏻‍♂️
 -playing chess♟️
 -listen music🎵
