@@ -45,6 +45,7 @@ Degree
 - GROUP #HASHTECH 
 
 With my teammates Parthiv Gunalan, Heng Zhi Qiang, Tang Wei Yang and Ong Yi Wen.
+<img src="WhatsApp Image 2025-01-20 at 21 39 08_adc9cb40" alt="Description of the image" width="500" height="auto">
 <h3 align="center">1. Poster (Industry Talk: Overview of ICT Jobs) – 23 NOV 2024</h3>https://www.canva.com/design/DAGXMZeDP6s/LXLx2gscw8KJizKHtJCyDg/edit?utm_content=DAGXMZeDP6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 This talk gave me a deeper understanding of the various roles in the tech industry, such as UI/UX Developer, QA Testing Analyst, and Web Developer. I learned how different departments collaborate to ensure smooth project execution. Additionally, I improved my Canva skills while designing the project poster. The talk also inspired me to keep up with the latest tech trends to remain competitive in the job market.
