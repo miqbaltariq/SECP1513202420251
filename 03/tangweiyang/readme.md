@@ -1,4 +1,26 @@
 - <h1 align="center">Hi 👋, I'm tangweiyang</h1>
+EDUCATION
+
+Primary School
+
+ SJK(C) Kuo Kaung 2
+📝 UPSR: 5 A's
+
+Secondary School
+
+SMK Mutiara Rini
+📝 SPM: 6 A's
+
+Pre-University
+
+ School of Professional and Continuing Education (UTMSPACE)
+👨‍🎓 Foundation in Physical Science
+📝 CGPA : 3.7
+🗣️ MUET : 3.5
+Degree
+
+University of Technology Malaysia (UTM)
+💻 Bachelor of Computer Science (Data Engineering) with Honours
 <h3 align="center">I come from Skudai,Johor</h3>
 
 - 🔭 I’m currently working on [Design Thinking Project](https://youtu.be/SMFT7hZgijk)
