@@ -3,7 +3,7 @@ EDUCATION
 
 ✨Primary School
 
- SJK(C) Kuo Kaung 2
+ SJK(C) Kuo Kuang 2
 📝 UPSR: 5 A's
 
 ✨Secondary School
@@ -42,8 +42,7 @@ Degree
 - 📄 Know about my experiences [https://github.com/tangweiyang](https://github.com/tangweiyang)
 
 - ⚡ Fun fact **time is money**
-- GROUP #HASHTECH #️⃣
-WhatsApp Image 2025-01-20 at 21 39 08_adc9cb40
+- GROUP #HASHTECH 
 
 With my teammates Parthiv Gunalan, Heng Zhi Qiang, Tang Wei Yang and Ong Yi Wen.
 
