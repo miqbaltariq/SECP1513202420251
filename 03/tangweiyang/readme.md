@@ -42,15 +42,15 @@ Degree
 - 📫 How to reach me **weiyangtang3@gmail.com**
 
 My hobby is
-joging🏃🏻‍♂️
-playing chess♟️
-listen music🎵
+-joging🏃🏻‍♂️
+-playing chess♟️
+-listen music🎵
  
 
 - ⚡ Fun fact **time is money**
 
 - My team name is:
-- GROUP #HASHTECH 
+GROUP #HASHTECH 
 
 With my teammates Parthiv Gunalan, Heng Zhi Qiang, Tang Wei Yang and Ong Yi Wen.
 
