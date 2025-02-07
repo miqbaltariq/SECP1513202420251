@@ -1,4 +1,6 @@
 - <h1 align="center">Hi 👋, I'm tangweiyang</h1>
+IF you want to learn more about it,you can read it.
+
 EDUCATION
 
 ✨Primary School
@@ -42,9 +44,13 @@ Degree
 - 📄 Know about my experiences [https://github.com/tangweiyang](https://github.com/tangweiyang)
 
 - ⚡ Fun fact **time is money**
+
+- My team name is:
 - GROUP #HASHTECH 
 
 With my teammates Parthiv Gunalan, Heng Zhi Qiang, Tang Wei Yang and Ong Yi Wen.
+
+Below is our project
 
 <h3 align="center">1. Poster (Industry Talk: Overview of ICT Jobs) – 23 NOV 2024</h3>https://www.canva.com/design/DAGXMZeDP6s/LXLx2gscw8KJizKHtJCyDg/edit?utm_content=DAGXMZeDP6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
