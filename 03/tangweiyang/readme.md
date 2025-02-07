@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm tangweiyang</h1>
 IF you want to learn more about it,you can read it.
-
+<form>
 EDUCATION
 
 ✨Primary School
@@ -23,6 +23,8 @@ Degree
 
 ✨University of Technology Malaysia (UTM)
 💻 Bachelor of Computer Science (NETWORK SECURITY) with Honours
+
+</form>
 <h3 align="center">I come from Skudai,Johor</h3>
 
 - 🔭 I’m currently working on [Design Thinking Project](https://youtu.be/SMFT7hZgijk)
@@ -30,8 +32,6 @@ Degree
 - 🌱 I’m currently learning **c**
 
 - 👯 I’m looking to collaborate on [Industrial Visit](https://drive.google.com/file/d/1svd3S-d1m-s2f7pQUQaddCeglenBGc_C/view?usp=sharing)
-
-- 🤝 I’m looking for help with [-](-)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tangweiyang](https://github.com/tangweiyang)
 
@@ -46,8 +46,6 @@ My hobby is
 -playing chess♟️
 -listen music🎵
  
-
-- ⚡ Fun fact **time is money**
 
 - My team name is:
 GROUP #HASHTECH 
